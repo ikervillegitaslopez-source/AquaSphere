@@ -377,7 +377,7 @@ document.addEventListener('DOMContentLoaded', () => {
       3: 'https://buy.stripe.com/bJe00c4jV2F64AK8szew80b'
     },
     'Blush Pink': {
-      1: 'https://buy.stripe.com/cNi00c6s393ugjs6krew809', // Fallback until user provides Pink 1
+      1: 'https://buy.stripe.com/5kQ9AM6s31B25EO9wDew80e',
       2: 'https://buy.stripe.com/cNi14gg2D2F61oy4cjew80a', // Fallback until user provides Pink 2
       3: 'https://buy.stripe.com/bJe00c4jV2F64AK8szew80b'  // Fallback until user provides Pink 3
     }
