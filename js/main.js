@@ -269,6 +269,8 @@ document.addEventListener('DOMContentLoaded', () => {
       } else {
         state.cart[existingIndex].qty = newQty;
       }
+      state.cart[existingIndex].color = state.selectedColor;
+      state.cart[existingIndex].bundleQty = state.selectedBundle.qty;
     } else {
       const initialQty = Math.min(state.quantity, MAX_QUANTITY);
       state.cart.push({
@@ -385,6 +387,35 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   };
 
+  function getStripeLinkForItem(item) {
+    if (!item) return STRIPE_LINKS['Pastel Blue'][1] + '?locale=en';
+
+    let color = item.color || 'Pastel Blue';
+    if (!item.color && item.variant) {
+      if (item.variant.includes('Blush Pink')) color = 'Blush Pink';
+      else if (item.variant.includes('Pastel Blue')) color = 'Pastel Blue';
+    }
+
+    let bundleQty = item.bundleQty || 1;
+    if (!item.bundleQty && item.variant) {
+      if (item.variant.includes('3x')) bundleQty = 3;
+      else if (item.variant.includes('2x')) bundleQty = 2;
+      else if (item.variant.includes('1x')) bundleQty = 1;
+    }
+
+    let url = (STRIPE_LINKS[color] && STRIPE_LINKS[color][bundleQty])
+      || (STRIPE_LINKS['Pastel Blue'] && STRIPE_LINKS['Pastel Blue'][bundleQty])
+      || (STRIPE_LINKS[color] && STRIPE_LINKS[color][1])
+      || STRIPE_LINKS['Pastel Blue'][1]
+      || 'https://buy.stripe.com/cNi00c6s393ugjs6krew809';
+
+    if (!url.includes('locale=')) {
+      url += (url.includes('?') ? '&' : '?') + 'locale=en';
+    }
+
+    return url;
+  }
+
   const checkoutBtn = document.getElementById('btnDrawerCheckout');
 
   function handleCheckout() {
@@ -393,41 +424,56 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // Determine target link based on selected color and bundle quantity
-    let color = state.selectedColor || 'Pastel Blue';
-    let bundleQty = (state.selectedBundle && state.selectedBundle.qty) || 1;
-
-    // Check if cart has items to accurately route from cart drawer
     if (state.cart && state.cart.length > 0) {
-      const topItem = state.cart[state.cart.length - 1];
-      if (topItem.color) {
-        color = topItem.color;
-      } else if (topItem.variant && topItem.variant.includes('Blush Pink')) {
-        color = 'Blush Pink';
+      const firstItem = state.cart[0];
+      const remainingItems = state.cart.slice(1);
+
+      if (remainingItems.length > 0) {
+        try {
+          localStorage.setItem('aquasphere_pending_queue', JSON.stringify(remainingItems));
+        } catch (e) {}
+      } else {
+        try {
+          localStorage.removeItem('aquasphere_pending_queue');
+        } catch (e) {}
       }
 
-      if (topItem.bundleQty) {
-        bundleQty = topItem.bundleQty;
-      } else if (topItem.variant && topItem.variant.includes('2x')) {
-        bundleQty = 2;
-      } else if (topItem.variant && topItem.variant.includes('3x')) {
-        bundleQty = 3;
-      }
+      window.location.href = getStripeLinkForItem(firstItem);
+      return;
     }
 
-    let targetUrl = (STRIPE_LINKS[color] && STRIPE_LINKS[color][bundleQty])
-      || (STRIPE_LINKS['Pastel Blue'] && STRIPE_LINKS['Pastel Blue'][bundleQty])
-      || (STRIPE_LINKS[color] && STRIPE_LINKS[color][1])
-      || STRIPE_LINKS['Pastel Blue'][1]
-      || 'https://buy.stripe.com/cNi00c6s393ugjs6krew809';
-
-    // Force 100% English checkout UI regardless of buyer's local browser language
-    if (!targetUrl.includes('locale=')) {
-      targetUrl += (targetUrl.includes('?') ? '&' : '?') + 'locale=en';
-    }
-
-    window.location.href = targetUrl;
+    const fallbackItem = {
+      color: state.selectedColor || 'Pastel Blue',
+      bundleQty: (state.selectedBundle && state.selectedBundle.qty) || 1
+    };
+    window.location.href = getStripeLinkForItem(fallbackItem);
   }
+
+  // Seamless sequential checkout queue handler
+  (function processPendingQueue() {
+    try {
+      const queueRaw = localStorage.getItem('aquasphere_pending_queue');
+      if (queueRaw) {
+        const queue = JSON.parse(queueRaw);
+        if (Array.isArray(queue) && queue.length > 0) {
+          const nextItem = queue.shift();
+          if (queue.length > 0) {
+            localStorage.setItem('aquasphere_pending_queue', JSON.stringify(queue));
+          } else {
+            localStorage.removeItem('aquasphere_pending_queue');
+          }
+          const nextUrl = getStripeLinkForItem(nextItem);
+          if (nextUrl) {
+            window.location.href = nextUrl;
+          }
+        } else {
+          localStorage.removeItem('aquasphere_pending_queue');
+        }
+      }
+    } catch (e) {
+      try { localStorage.removeItem('aquasphere_pending_queue'); } catch (_) {}
+    }
+  })();
 
   if (checkoutBtn) checkoutBtn.addEventListener('click', handleCheckout);
 
