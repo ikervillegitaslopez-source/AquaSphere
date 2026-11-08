@@ -1,0 +1,71 @@
+{% comment %}
+  AquaSphere™ High-Converting Shopify Product Dropshipping Section
+  File: sections/aquasphere-landing.liquid
+  Compatible with Shopify Dawn, Prestige, Impulse, Debutify & OS 2.0 Themes
+{% endcomment %}
+
+{{ 'https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap' | stylesheet_tag }}
+
+<div class="shopify-aquasphere-wrapper" data-section-id="{{ section.id }}">
+  <div class="page-width container" style="max-width: 1200px; margin: 0 auto; padding: 40px 20px;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: start;">
+      <!-- Product Gallery -->
+      <div class="product-gallery">
+        <div style="border-radius: 16px; overflow: hidden; border: 1px solid #e2e8f0; position: relative;">
+          {% if section.settings.featured_image != blank %}
+            <img src="{{ section.settings.featured_image | image_url: width: 800 }}" alt="{{ product.title }}" style="width: 100%; display: block;">
+          {% else %}
+            <img src="{{ 'bottle-closed.jpg' | asset_url }}" alt="AquaSphere Pet Bottle" style="width: 100%; display: block;">
+          {% endif %}
+        </div>
+      </div>
+
+      <!-- Buy Box -->
+      <div class="product-buybox">
+        <div style="color: #f59e0b; font-size: 1.1rem; margin-bottom: 8px;">★★★★★ <span style="color: #64748b; font-size: 0.9rem; font-weight: 600;">4.9/5.0 (248 Verified Reviews)</span></div>
+        <h1 style="margin-bottom: 12px; color: #0f172a; line-height: 1.3;">
+          <span style="display: block; white-space: nowrap; font-size: clamp(0.85rem, 3.8vw, 1.55rem); font-weight: 800;">AquaSphere™ Portable Stainless Steel</span>
+          <span style="display: block; white-space: nowrap; font-size: clamp(0.85rem, 3.8vw, 1.55rem); font-weight: 800;">Pet Water Flask & Silicone Leaf Bowl</span>
+        </h1>
+
+        <div style="display: flex; align-items: baseline; gap: 12px; margin: 16px 0; padding-bottom: 16px; border-bottom: 1px solid #e2e8f0;">
+          <span style="font-size: 2.2rem; font-weight: 800; color: #0284c7;">{{ product.price | money | default: "$24.95" }}</span>
+          <span style="font-size: 1.2rem; color: #94a3b8; text-decoration: line-through;">{{ product.compare_at_price | money | default: "$49.99" }}</span>
+          <span style="background: #fee2e2; color: #ef4444; padding: 4px 10px; border-radius: 99px; font-weight: 800; font-size: 0.8rem;">SAVE 50%</span>
+        </div>
+
+        {% form 'product', product %}
+          <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
+          
+          <button type="submit" name="add" style="width: 100%; background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%); color: white; padding: 16px; border-radius: 12px; font-size: 1.1rem; font-weight: 800; border: none; cursor: pointer; box-shadow: 0 4px 14px rgba(2, 132, 199, 0.4); margin-bottom: 12px;">
+            ADD TO CART • {{ product.price | money | default: "$24.95" }}
+          </button>
+        {% endform %}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "AquaSphere Dropship Hero",
+  "settings": [
+    {
+      "type": "text",
+      "id": "announcement_text",
+      "label": "Announcement Bar Text",
+      "default": "⚡ 50% OFF TODAY ONLY + FREE TRACKED SHIPPING 🚚"
+    },
+    {
+      "type": "image_picker",
+      "id": "featured_image",
+      "label": "Product Hero Image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "AquaSphere Dropship Hero"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,15 @@
+# Node & local server
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary helper / generator scripts (uncomment if you want to keep them local only)
+# *.tmp
+# test-*.js
