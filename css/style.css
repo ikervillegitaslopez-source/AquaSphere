@@ -2055,6 +2055,7 @@ button {
   width: 100%;
   max-width: 420px;
   height: 100vh;
+  height: 100dvh;
   background: #ffffff;
   z-index: 101;
   box-shadow: -10px 0 30px rgba(0, 0, 0, 0.15);
@@ -2212,9 +2213,19 @@ button {
 }
 
 .drawer-footer {
-  padding: 20px;
+  padding: 16px 20px calc(24px + env(safe-area-inset-bottom, 20px));
   border-top: 1px solid var(--slate-200);
   background: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .drawer-footer {
+    padding: 14px 18px calc(45px + env(safe-area-inset-bottom, 25px));
+    box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.06);
+  }
+  .btn-checkout {
+    margin-bottom: 8px;
+  }
 }
 
 .subtotal-row {

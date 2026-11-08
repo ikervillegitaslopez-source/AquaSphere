@@ -282,15 +282,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     openCart();
-    showToastNotification('🎉 Added to cart!');
   }
 
   if (btnAddToCart) btnAddToCart.addEventListener('click', addItemToCart);
   if (stickyAddToCart) stickyAddToCart.addEventListener('click', addItemToCart);
 
   if (btnBuyNow) {
-    btnBuyNow.addEventListener('click', () => {
-      addItemToCart();
+    btnBuyNow.addEventListener('click', (e) => {
+      e.preventDefault();
+      handleCheckout();
     });
   }
 
@@ -368,14 +368,40 @@ document.addEventListener('DOMContentLoaded', () => {
   renderCart();
 
   /* ------------------------------------------------
-     7. SECURE CHECKOUT HANDLER
+     7. SECURE CHECKOUT HANDLER (STRIPE PAYMENT LINKS)
   ------------------------------------------------- */
+  const STRIPE_LINKS = {
+    'Pastel Blue': {
+      1: 'https://buy.stripe.com/cNi00c6s393ugjs6krew809',
+      2: '',
+      3: ''
+    },
+    'Blush Pink': {
+      1: 'https://buy.stripe.com/cNi00c6s393ugjs6krew809', // Fallback until user provides Pink 1
+      2: '',
+      3: ''
+    }
+  };
+
   const checkoutBtn = document.getElementById('btnDrawerCheckout');
 
   function handleCheckout() {
     if (window.location.hostname.includes('myshopify.com')) {
       window.location.href = '/checkout';
+      return;
     }
+
+    // Determine target link based on selected color and bundle quantity
+    const color = state.selectedColor || 'Pastel Blue';
+    const bundleQty = (state.selectedBundle && state.selectedBundle.qty) || 1;
+
+    let targetUrl = (STRIPE_LINKS[color] && STRIPE_LINKS[color][bundleQty])
+      || (STRIPE_LINKS['Pastel Blue'] && STRIPE_LINKS['Pastel Blue'][bundleQty])
+      || (STRIPE_LINKS[color] && STRIPE_LINKS[color][1])
+      || STRIPE_LINKS['Pastel Blue'][1]
+      || 'https://buy.stripe.com/cNi00c6s393ugjs6krew809';
+
+    window.location.href = targetUrl;
   }
 
   if (checkoutBtn) checkoutBtn.addEventListener('click', handleCheckout);
