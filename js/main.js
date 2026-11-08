@@ -373,12 +373,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const STRIPE_LINKS = {
     'Pastel Blue': {
       1: 'https://buy.stripe.com/cNi00c6s393ugjs6krew809',
-      2: '',
+      2: 'https://buy.stripe.com/cNi14gg2D2F61oy4cjew80a',
       3: ''
     },
     'Blush Pink': {
       1: 'https://buy.stripe.com/cNi00c6s393ugjs6krew809', // Fallback until user provides Pink 1
-      2: '',
+      2: 'https://buy.stripe.com/cNi14gg2D2F61oy4cjew80a', // Fallback until user provides Pink 2
       3: ''
     }
   };
