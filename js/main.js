@@ -421,6 +421,11 @@ document.addEventListener('DOMContentLoaded', () => {
       || STRIPE_LINKS['Pastel Blue'][1]
       || 'https://buy.stripe.com/cNi00c6s393ugjs6krew809';
 
+    // Force 100% English checkout UI regardless of buyer's local browser language
+    if (!targetUrl.includes('locale=')) {
+      targetUrl += (targetUrl.includes('?') ? '&' : '?') + 'locale=en';
+    }
+
     window.location.href = targetUrl;
   }
 
