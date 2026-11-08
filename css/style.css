@@ -2958,6 +2958,10 @@ button {
 }
 
 /* Hide any Netlify promotional badge, iframe or link */
+#nl-badge-frame,
+#nl-hud-frame,
+iframe[id*="nl-"],
+iframe[src*="hud"],
 [data-netlify-badge],
 .netlify-badge,
 #netlify-badge,

@@ -8,10 +8,15 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" type="image/png" href="images/logo.png">
   <script>
-    // Permanently block and remove Netlify promotional HUD iframe
+    // 1. Pre-emptively disable Netlify HUD via its own dismissal key
+    try {
+      localStorage.setItem('nl-hud:public:v1', 'hidden');
+      localStorage.setItem('nl-hud:owner-private:v1', 'hidden');
+    } catch(e) {}
+    // 2. Permanently block and remove Netlify promotional HUD iframe & script
     (function() {
       const kill = () => {
-        document.querySelectorAll('iframe[style*="2147483645"], iframe[style*="bottom:0;right:0"], script[src*="hud"]').forEach(el => el.remove());
+        document.querySelectorAll('iframe[style*="2147483645"], iframe[style*="bottom:0;right:0"], iframe[id*="nl-"], script[src*="hud"], script[data-nf-variant]').forEach(el => el.remove());
       };
       kill();
       new MutationObserver(kill).observe(document.documentElement, { childList: true, subtree: true });
@@ -21,6 +26,9 @@
   </script>
 </head>
 <body>
+  <!-- Netlify HUD guard tokens: triggers HUD script's immediate early return -->
+  <div id="nl-badge-frame" style="display:none!important;width:0!important;height:0!important;position:absolute!important;overflow:hidden!important;"></div>
+  <div id="nl-hud-frame" style="display:none!important;width:0!important;height:0!important;position:absolute!important;overflow:hidden!important;"></div>
 
   <!-- 1. SITE HEADER -->
   <header class="site-header">
