@@ -378,7 +378,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     'Blush Pink': {
       1: 'https://buy.stripe.com/5kQ9AM6s31B25EO9wDew80e',
-      2: 'https://buy.stripe.com/cNi14gg2D2F61oy4cjew80a', // Fallback until user provides Pink 2
+      2: 'https://buy.stripe.com/aFacMYaIja7y0ku6krew80f',
       3: 'https://buy.stripe.com/bJe00c4jV2F64AK8szew80b'  // Fallback until user provides Pink 3
     }
   };
