@@ -373,7 +373,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const checkoutBtn = document.getElementById('btnDrawerCheckout');
 
   function handleCheckout() {
-    showToastNotification('🔒 Connecting to Shopify Secure Checkout...');
     if (window.location.hostname.includes('myshopify.com')) {
       window.location.href = '/checkout';
     }
@@ -600,38 +599,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const getNextTime = createShuffledQueue(TIMES);
 
   function showSocialToast() {
-    const firstName = getNextFirstName();
-    const lastInitial = getNextLastInitial();
-    const location = getNextLocation();
-    const bundle = getNextBundle();
-    const time = getNextTime();
-
-    // Remove old toast if existing
-    const oldToast = document.querySelector('.social-toast');
-    if (oldToast) oldToast.remove();
-
-    const toast = document.createElement('div');
-    toast.className = 'social-toast';
-    toast.innerHTML = `
-      <div class="toast-content">
-        <span class="toast-dot"></span>
-        <span class="toast-buyer"><strong>${firstName} ${lastInitial}</strong> (${location}) bought <strong>${bundle.text}</strong></span>
-        <span class="toast-time">• ${time}</span>
-      </div>
-    `;
-
-    document.body.appendChild(toast);
-
-    setTimeout(() => {
-      toast.style.opacity = '0';
-      toast.style.transform = 'translate(-50%, 10px)';
-      setTimeout(() => toast.remove(), 350);
-    }, 5000);
+    // Disabled per user request (no simulated buyer notifications)
   }
 
-  // Initial trigger after 4s, then recurring every 20s
-  setTimeout(showSocialToast, 4000);
-  setInterval(showSocialToast, 20000);
+  // Social toast timers disabled per user request
+  // setTimeout(showSocialToast, 4000);
+  // setInterval(showSocialToast, 20000);
 
   function showToastNotification(text) {
     const toast = document.createElement('div');
