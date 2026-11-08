@@ -2957,13 +2957,17 @@ button {
   pointer-events: none !important;
 }
 
-/* Hide any Netlify promotional badge or link */
+/* Hide any Netlify promotional badge, iframe or link */
 [data-netlify-badge],
 .netlify-badge,
 #netlify-badge,
 .netlify-badge-container,
 a[href*="netlify.com"],
-a[href*="netlify.app"] {
+a[href*="netlify.app"],
+iframe[style*="2147483645"],
+iframe[style*="z-index: 2147483645"],
+iframe[style*="bottom: 0; right: 0"],
+iframe[style*="bottom:0;right:0"] {
   display: none !important;
   visibility: hidden !important;
   pointer-events: none !important;

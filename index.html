@@ -7,6 +7,18 @@
   <meta name="description" content="Keep your pet hydrated on every walk with AquaSphere&trade;. Insulated 304 food-grade stainless steel bottle with fold-out silicone leaf bowl. 100% leakproof, BPA-free, and travel-ready.">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" type="image/png" href="images/logo.png">
+  <script>
+    // Permanently block and remove Netlify promotional HUD iframe
+    (function() {
+      const kill = () => {
+        document.querySelectorAll('iframe[style*="2147483645"], iframe[style*="bottom:0;right:0"], script[src*="hud"]').forEach(el => el.remove());
+      };
+      kill();
+      new MutationObserver(kill).observe(document.documentElement, { childList: true, subtree: true });
+      window.addEventListener('DOMContentLoaded', kill);
+      window.addEventListener('load', kill);
+    })();
+  </script>
 </head>
 <body>
 
