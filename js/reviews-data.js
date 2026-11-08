@@ -15,7 +15,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Corgi finally drinks on hot summer walks!",
+    "title": "My Corgi finally drinks on hot summer walks without his big ears getting squished",
     "body": "Leo used to refuse drinking from those cheap plastic bottles with the tiny flip trays. The leaf bowl on this is wide enough that his big ears don't get squished when he drinks. Water stays freezing cold even in 85-degree Austin heat. Honestly obsessed."
   },
   {
@@ -27,7 +27,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Zero leaks inside my camera pack on Banff trails",
+    "title": "Zero leaks inside my expensive camera backpack during a 6-hour hike around Lake Louise in Banff National Park",
     "body": "Carried this next to my Sony A7IV and a $1200 lens during a 6-hour hike around Lake Louise. Not a single drop leaked out. The silicone leaf flips backwards smoothly and locks onto the sphere when you're done. Super solid build."
   },
   {
@@ -39,8 +39,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Finally something my Frenchie can drink from",
-    "body": "If you have a flat-faced dog you know the struggle—their snouts can't fit into normal narrow dog bottles and they end up coughing or gagging. This silicone leaf is like a deep open bowl. Winston drank half the bottle on his first try!"
+    "title": "Finally an ergonomic open leaf bowl wide enough for my flat-faced French Bulldog to drink comfortably without choking or coughing up water",
+    "body": "If you have a flat-faced dog you know the struggle—their snouts can't fit into normal narrow dog bottles and they end up coughing or gagging. This silicone leaf is like a deep open bowl. Winston drank half the bottle on his first try."
   },
   {
     "id": 4,
@@ -51,7 +51,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Big dog approved - drain feature saves so much water",
+    "title": "Big dog approved: the drain-back feature saves so much clean water on long backcountry trails",
     "body": "I have an 85lb Golden Retriever who drinks like a horse. The best part is whatever clean water he leaves in the leaf bowl drains right back into the steel flask so you don't waste water when you're miles away from the car."
   },
   {
@@ -63,7 +63,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Three people at the dog park asked where I got it",
+    "title": "Three different dog owners at our neighborhood Austin park asked me where I bought this before our walk was even over",
     "body": "It looks like something Apple would design if they made pet gear. The pastel blue silicone with the brushed steel is so pretty. No plastic chemical smell either, which was my biggest annoyance with Amazon bottles."
   },
   {
@@ -75,7 +75,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Saved our hike in the Okanagan heat",
+    "title": "Saved our morning mountain hike in the heat",
     "body": "Dropped some ice cubes in before heading out on the trail and the water stayed ice cold for 5+ hours. When you're hiking in dry summer terrain, keeping your dog from overheating is everything. 10/10 purchase."
   },
   {
@@ -87,7 +87,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Clips right onto my dog's harness with zero bouncing",
+    "title": "Clips securely onto my dog's harness or backpack with zero annoying bouncing while jogging",
     "body": "The ball shape is way better balanced than those tall cylindrical bottles that swing back and forth when you walk. The clip is metal and feels really sturdy, not cheap plastic that snaps on week two."
   },
   {
@@ -99,7 +99,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Real food-grade steel, no weird metal aftertaste",
+    "title": "Genuine 304 food-grade stainless steel with zero toxic plastic taste—our rescue pup refused every plastic bottle until we switched to this",
     "body": "Tested it with water left inside for 24 hours just to see. Still tasted 100% clean and crisp. My German Shepherd has a super sensitive stomach and this has been completely odorless and easy to rinse."
   },
   {
@@ -111,7 +111,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought the 2-pack deal - one in the SUV, one by the leash",
+    "title": "Bought the 2-pack bundle deal: one stays in the SUV cup holder and one by the front door leash",
     "body": "Fits perfectly in the door bottle holder of my Subaru without rattling around. We use it literally every single day for post-walk hydration. Easily my favorite dog purchase this year."
   },
   {
@@ -123,7 +123,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Puppy was nervous at first, now he gets excited seeing it",
+    "title": "Our rescue puppy was hesitant at first, but now he wags his tail and gets excited the second he sees me unclip this bottle",
     "body": "Our 4-month-old rescue pup was scared of clicking water bottles. With this, there are no loud springs or snapping buttons. You just gently peel the soft silicone petal back and pour. He loves it now."
   },
   {
@@ -147,7 +147,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Survived being dropped on concrete twice",
+    "title": "Survived being dropped on concrete twice without spilling a single drop in the car",
     "body": "My Australian Shepherd got excited chasing a squirrel and yanked the leash while I was holding the bottle. Dropped straight onto asphalt. Only got a small cosmetic scuff on the steel bottom, silicone leaf and threads were totally fine. Built like a tank."
   },
   {
@@ -159,7 +159,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher safe is a massive relief",
+    "title": "Dishwasher safe is a massive relief and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Most pet bottles have narrow plastic straws or spring valves that trap gross black mold over time. Being able to easily take this apart and clean the stainless steel sphere in the dishwasher gives me peace of mind."
   },
   {
@@ -171,7 +171,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Awesome bottle, wish they made a giant 1-liter version too!",
+    "title": "Awesome bottle, wish they made a giant 1-liter version too - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "For our usual 1-2 hour neighborhood walks and dog park trips it's perfect. But for full-day backcountry camping with two big dogs I'd love a larger 32oz option. The build quality and leaf bowl design are 5 stars though."
   },
   {
@@ -183,7 +183,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The Blush Pink color is gorgeous in sunlight",
+    "title": "The Blush Pink color is gorgeous in sunlight and super lightweight to clip on a belt",
     "body": "I got the pink one and it is such a soft muted pastel shade, not that tacky neon plastic look. Fits nicely in my hands and my maltipoo drinks from it with no hesitation."
   },
   {
@@ -195,7 +195,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No more soggy dog backpacks",
+    "title": "No more soggy dog backpacks after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "My old collapsible silicone bowl always ended up sticky with dog drool and pine needles before I had to shove it back into my pack. With this, the bowl is attached to the bottle and folds right over the nozzle. Clean and dry."
   },
   {
@@ -219,7 +219,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Worth every penny for trail safety",
+    "title": "Worth every penny for trail safety on our daily morning neighborhood trail",
     "body": "Hiking in the Canadian Rockies during July can get dangerously warm fast. Having insulated steel that actually keeps water cold instead of warm plastic soup is a must-have for our Husky."
   },
   {
@@ -231,7 +231,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "One-handed operation while holding a pulling dog",
+    "title": "One-handed operation while holding a pulling dog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "When you have a 60lb dog pulling on the leash with one hand, you don't have two hands free to unscrew lids and assemble bowls. You can flip the leaf and pour with one hand easily."
   },
   {
@@ -267,7 +267,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Takes a day for dogs to get used to the leaf",
+    "title": "Takes a day for dogs to get used to the leaf after our daily 5-mile forest walks",
     "body": "My rescue terrier sniffed the leaf suspiciously for about 10 minutes on day one. Once I put a drop of peanut butter on the edge he drank right up and now he associates the blue leaf with cold water."
   },
   {
@@ -279,7 +279,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my designer tote bag",
+    "title": "No leaks in my designer tote bag and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "I take my mini dachshund to work in downtown Chicago and toss this in my Longchamp bag alongside my iPad. Zero leaks, bone dry every single day."
   },
   {
@@ -291,7 +291,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential piece of kit for agility training",
+    "title": "Essential piece of kit for agility training - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Between agility obstacle runs our border collie needs quick sips of cool water. The AquaSphere is fast to deploy and doesn't spill on the rubber mats."
   },
   {
@@ -303,7 +303,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Soft silicone is gentle on my senior dog's teeth",
+    "title": "Soft silicone is gentle on my senior dog's teeth - water stays ice cold all afternoon",
     "body": "My 12-year-old beagle has sensitive gums and gets nervous drinking from clanky metal bowls. The food grade silicone leaf is super soft and flexible for his mouth."
   },
   {
@@ -315,7 +315,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain back function is pure genius",
+    "title": "The drain back function is pure genius after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "If your dog only drinks half of what you pour, you tilt the bottle back and it flows right back into the stainless chamber. On hot trails where every ounce counts, this saves so much water."
   },
   {
@@ -339,7 +339,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Zero mold risk compared to plastic button bottles",
+    "title": "Zero mold risk compared to plastic button bottles without spilling a single drop in the car",
     "body": "I threw away two other brands because black gunk started growing inside the internal spring mechanism that you can't reach with a brush. AquaSphere is completely open and mechanical. So much more hygienic."
   },
   {
@@ -351,7 +351,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Got the 2-pack for our two dogs - perfect",
+    "title": "Got the 2-pack for our two dogs - perfect keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Blue for Cooper and Pink for Roxy. Now we don't have to carry two bulky bowls and a giant bottle. They each have their own hydration sphere."
   },
   {
@@ -387,7 +387,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Poodle",
+    "title": "Essential for road trips with our Poodle - totally worth every single dollar",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -399,7 +399,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -411,7 +411,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -423,7 +423,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Took a couple tries for my puppy to get used to it",
+    "title": "Took a couple tries for my puppy to get used to it and completely leakproof in my gym bag",
     "body": "Waffles was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
@@ -435,7 +435,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -459,7 +459,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -471,7 +471,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My French Bulldog caught onto it right away",
+    "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -507,7 +507,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs on our daily morning neighborhood trail",
     "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -519,7 +519,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -531,7 +531,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Rescue Mutt",
+    "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -543,7 +543,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts - honestly the best pet gear I've bought",
     "body": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -555,7 +555,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -579,7 +579,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog - totally worth every single dollar",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -591,7 +591,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my French Bulldog",
+    "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -627,7 +627,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Love the design, hoping for an extra large size in the future!",
+    "title": "Love the design, hoping for an extra large size in the future without spilling a single drop in the car",
     "body": "For our 2-3 hour dog park outings around San Diego, California it has plenty of water. But for full day mountain hikes with a big Poodle, an extra large 1-liter option would be amazing."
   },
   {
@@ -639,7 +639,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -651,7 +651,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -663,7 +663,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean and super lightweight to clip on a belt",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -675,7 +675,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Dachshund",
+    "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -699,7 +699,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -711,7 +711,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -747,7 +747,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -759,7 +759,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Husky caught onto it right away",
+    "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -771,7 +771,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -783,7 +783,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic - water stays ice cold all afternoon",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -795,7 +795,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -819,7 +819,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Rottweiler",
+    "title": "Essential for road trips with our Rottweiler without spilling a single drop in the car",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -831,7 +831,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Great bottle, just slightly heavier than cheap plastic",
+    "title": "Great bottle, just slightly heavier than cheap plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Halifax, Nova Scotia so the tradeoff is 100% worth it."
   },
   {
@@ -867,7 +867,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog - totally worth every single dollar",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -879,7 +879,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my Husky",
+    "title": "Hands down the cleanest way to hydrate my Husky and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -891,7 +891,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -903,7 +903,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Border Collie caught onto it right away",
+    "title": "My Border Collie caught onto it right away and completely leakproof in my gym bag",
     "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -915,7 +915,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -939,7 +939,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs after our daily 5-mile forest walks",
     "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -951,7 +951,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -987,7 +987,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -999,7 +999,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -1011,7 +1011,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -1023,7 +1023,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my Border Collie",
+    "title": "Hands down the cleanest way to hydrate my Border Collie - honestly the best pet gear I've bought",
     "body": "Living in Montreal, Quebec, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -1035,7 +1035,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Took a couple tries for my puppy to get used to it",
+    "title": "Took a couple tries for my puppy to get used to it after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Teddy was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
@@ -1059,7 +1059,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - totally worth every single dollar",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -1071,7 +1071,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -1107,7 +1107,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Poodle",
+    "title": "Essential for road trips with our Poodle without spilling a single drop in the car",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -1119,7 +1119,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -1131,7 +1131,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -1143,7 +1143,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this and super lightweight to clip on a belt",
     "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -1155,7 +1155,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -1179,7 +1179,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -1191,7 +1191,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My French Bulldog caught onto it right away",
+    "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -1227,7 +1227,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs after our daily 5-mile forest walks",
     "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -1239,7 +1239,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Love the design, hoping for an extra large size in the future!",
+    "title": "Love the design, hoping for an extra large size in the future and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "For our 2-3 hour dog park outings around Nashville, Tennessee it has plenty of water. But for full day mountain hikes with a big Husky, an extra large 1-liter option would be amazing."
   },
   {
@@ -1251,7 +1251,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Rescue Mutt",
+    "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -1263,7 +1263,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts - water stays ice cold all afternoon",
     "body": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -1275,7 +1275,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -1299,7 +1299,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog without spilling a single drop in the car",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -1311,7 +1311,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my French Bulldog",
+    "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -1347,7 +1347,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - totally worth every single dollar",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -1359,7 +1359,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -1371,7 +1371,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -1383,7 +1383,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean and completely leakproof in my gym bag",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -1395,7 +1395,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Dachshund",
+    "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -1419,7 +1419,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons after our daily 5-mile forest walks",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -1431,7 +1431,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -1467,7 +1467,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -1479,7 +1479,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Husky caught onto it right away",
+    "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -1491,7 +1491,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -1503,7 +1503,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic - honestly the best pet gear I've bought",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -1515,7 +1515,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -1539,7 +1539,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Rottweiler",
+    "title": "Essential for road trips with our Rottweiler - totally worth every single dollar",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -1551,7 +1551,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -1587,7 +1587,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog without spilling a single drop in the car",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -1599,7 +1599,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my Husky",
+    "title": "Hands down the cleanest way to hydrate my Husky and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -1611,7 +1611,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -1623,7 +1623,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Border Collie caught onto it right away",
+    "title": "My Border Collie caught onto it right away and super lightweight to clip on a belt",
     "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -1635,7 +1635,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -1659,7 +1659,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs on our daily morning neighborhood trail",
     "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -1671,7 +1671,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -1707,7 +1707,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons after our daily 5-mile forest walks",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -1719,7 +1719,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -1731,7 +1731,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -1743,7 +1743,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my Border Collie",
+    "title": "Hands down the cleanest way to hydrate my Border Collie - water stays ice cold all afternoon",
     "body": "Living in Montreal, Quebec, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -1755,7 +1755,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -1779,7 +1779,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent without spilling a single drop in the car",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -1791,7 +1791,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -1827,7 +1827,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Poodle",
+    "title": "Essential for road trips with our Poodle - totally worth every single dollar",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -1839,7 +1839,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -1851,7 +1851,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Love the design, hoping for an extra large size in the future!",
+    "title": "Love the design, hoping for an extra large size in the future - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "For our 2-3 hour dog park outings around Salt Lake City, Utah it has plenty of water. But for full day mountain hikes with a big Rescue Mutt, an extra large 1-liter option would be amazing."
   },
   {
@@ -1863,7 +1863,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this and completely leakproof in my gym bag",
     "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -1875,7 +1875,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -1899,7 +1899,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -1911,7 +1911,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My French Bulldog caught onto it right away",
+    "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -1947,7 +1947,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs on our daily morning neighborhood trail",
     "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -1959,7 +1959,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -1971,7 +1971,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Rescue Mutt",
+    "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -1983,7 +1983,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts - honestly the best pet gear I've bought",
     "body": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -1995,7 +1995,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -2019,7 +2019,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog - totally worth every single dollar",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -2031,7 +2031,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my French Bulldog",
+    "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -2067,7 +2067,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent without spilling a single drop in the car",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -2079,7 +2079,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -2091,7 +2091,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -2103,7 +2103,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean and super lightweight to clip on a belt",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -2115,7 +2115,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Dachshund",
+    "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -2139,7 +2139,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -2151,7 +2151,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -2187,7 +2187,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -2199,7 +2199,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Husky caught onto it right away",
+    "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -2211,7 +2211,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -2223,7 +2223,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic - water stays ice cold all afternoon",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -2235,7 +2235,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -2259,7 +2259,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Took a couple tries for my puppy to get used to it",
+    "title": "Took a couple tries for my puppy to get used to it without spilling a single drop in the car",
     "body": "Winston was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
@@ -2271,7 +2271,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -2307,7 +2307,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog - totally worth every single dollar",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -2319,7 +2319,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my Husky",
+    "title": "Hands down the cleanest way to hydrate my Husky and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -2331,7 +2331,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -2343,7 +2343,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Border Collie caught onto it right away",
+    "title": "My Border Collie caught onto it right away and completely leakproof in my gym bag",
     "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -2355,7 +2355,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -2379,7 +2379,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs after our daily 5-mile forest walks",
     "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -2391,7 +2391,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -2427,7 +2427,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -2439,7 +2439,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -2451,7 +2451,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -2463,7 +2463,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Love the design, hoping for an extra large size in the future!",
+    "title": "Love the design, hoping for an extra large size in the future - honestly the best pet gear I've bought",
     "body": "For our 2-3 hour dog park outings around Montreal, Quebec it has plenty of water. But for full day mountain hikes with a big Border Collie, an extra large 1-liter option would be amazing."
   },
   {
@@ -2475,7 +2475,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -2499,7 +2499,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - totally worth every single dollar",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -2511,7 +2511,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -2547,7 +2547,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Poodle",
+    "title": "Essential for road trips with our Poodle without spilling a single drop in the car",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -2559,7 +2559,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -2571,7 +2571,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -2583,7 +2583,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My dog gets visibly excited when I grab this",
+    "title": "My dog gets visibly excited when I grab this and super lightweight to clip on a belt",
     "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
@@ -2595,7 +2595,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -2619,7 +2619,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -2631,7 +2631,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My French Bulldog caught onto it right away",
+    "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -2667,7 +2667,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Great bottle, just slightly heavier than cheap plastic",
+    "title": "Great bottle, just slightly heavier than cheap plastic after our daily 5-mile forest walks",
     "body": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Portland, Oregon so the tradeoff is 100% worth it."
   },
   {
@@ -2679,7 +2679,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -2691,7 +2691,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Rescue Mutt",
+    "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -2703,7 +2703,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Wide trough is ideal for wider snouts",
+    "title": "Wide trough is ideal for wider snouts - water stays ice cold all afternoon",
     "body": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
@@ -2715,7 +2715,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -2739,7 +2739,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Bought a second one for my sister's dog",
+    "title": "Bought a second one for my sister's dog without spilling a single drop in the car",
     "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
@@ -2751,7 +2751,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Hands down the cleanest way to hydrate my French Bulldog",
+    "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
@@ -2787,7 +2787,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - totally worth every single dollar",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -2799,7 +2799,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -2811,7 +2811,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -2823,7 +2823,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Dishwasher friendly and super easy to keep clean",
+    "title": "Dishwasher friendly and super easy to keep clean and completely leakproof in my gym bag",
     "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
@@ -2835,7 +2835,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Dachshund",
+    "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
@@ -2859,7 +2859,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Stays ice cold during hot sunny afternoons",
+    "title": "Stays ice cold during hot sunny afternoons after our daily 5-mile forest walks",
     "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
@@ -2871,7 +2871,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 4,
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
-    "title": "Took a couple tries for my puppy to get used to it",
+    "title": "Took a couple tries for my puppy to get used to it keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
     "body": "Buster was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
@@ -2907,7 +2907,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "No leaks in my car or hiking pack!",
+    "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
     "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
@@ -2919,7 +2919,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "My Husky caught onto it right away",
+    "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
     "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
@@ -2931,7 +2931,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "The drain-back trick is worth every cent",
+    "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
     "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
@@ -2943,7 +2943,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Feels like real premium gear, not cheap Amazon plastic",
+    "title": "Feels like real premium gear, not cheap Amazon plastic - honestly the best pet gear I've bought",
     "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
@@ -2955,7 +2955,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Surpassed my expectations on trail runs",
+    "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
     "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
@@ -2979,7 +2979,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "stars": 5,
     "starsString": "★★★★★",
     "ratingValue": "5.0",
-    "title": "Essential for road trips with our Rottweiler",
+    "title": "Essential for road trips with our Rottweiler - totally worth every single dollar",
     "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   }
 ];
