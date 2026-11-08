@@ -277,6 +277,8 @@ document.addEventListener('DOMContentLoaded', () => {
         variant: variantDesc,
         price: price,
         qty: initialQty,
+        color: state.selectedColor,
+        bundleQty: state.selectedBundle.qty,
         image: itemImg
       });
     }
@@ -379,7 +381,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'Blush Pink': {
       1: 'https://buy.stripe.com/5kQ9AM6s31B25EO9wDew80e',
       2: 'https://buy.stripe.com/aFacMYaIja7y0ku6krew80f',
-      3: 'https://buy.stripe.com/bJe00c4jV2F64AK8szew80b'  // Fallback until user provides Pink 3
+      3: 'https://buy.stripe.com/5kQ6oA3fRfrS7MW5gnew80g'
     }
   };
 
@@ -392,8 +394,26 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Determine target link based on selected color and bundle quantity
-    const color = state.selectedColor || 'Pastel Blue';
-    const bundleQty = (state.selectedBundle && state.selectedBundle.qty) || 1;
+    let color = state.selectedColor || 'Pastel Blue';
+    let bundleQty = (state.selectedBundle && state.selectedBundle.qty) || 1;
+
+    // Check if cart has items to accurately route from cart drawer
+    if (state.cart && state.cart.length > 0) {
+      const topItem = state.cart[state.cart.length - 1];
+      if (topItem.color) {
+        color = topItem.color;
+      } else if (topItem.variant && topItem.variant.includes('Blush Pink')) {
+        color = 'Blush Pink';
+      }
+
+      if (topItem.bundleQty) {
+        bundleQty = topItem.bundleQty;
+      } else if (topItem.variant && topItem.variant.includes('2x')) {
+        bundleQty = 2;
+      } else if (topItem.variant && topItem.variant.includes('3x')) {
+        bundleQty = 3;
+      }
+    }
 
     let targetUrl = (STRIPE_LINKS[color] && STRIPE_LINKS[color][bundleQty])
       || (STRIPE_LINKS['Pastel Blue'] && STRIPE_LINKS['Pastel Blue'][bundleQty])
