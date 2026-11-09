@@ -4,14 +4,16 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
+  // Bundle Pricing Definitions
+  const BUNDLE_DATA = {
+    1: { qty: 1, price: 24.95, comparePrice: 49.99, title: '1x AquaSphere™' },
+    2: { qty: 2, price: 39.90, comparePrice: 99.98, title: '2x AquaSphere™' },
+    3: { qty: 3, price: 49.95, comparePrice: 149.97, title: '3x AquaSphere™' }
+  };
+
   // State
   let state = {
-    selectedBundle: {
-      qty: 1,
-      price: 24.95,
-      comparePrice: 49.99,
-      title: '1x AquaSphere™'
-    },
+    selectedBundle: BUNDLE_DATA[1],
     selectedColor: 'Pastel Blue',
     quantity: 1,
     cart: [
@@ -21,6 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
         variant: '1x AquaSphere™ • Pastel Blue',
         price: 24.95,
         qty: 1,
+        color: 'Pastel Blue',
+        bundleQty: 1,
         image: 'images/blue-closed.jpg'
       }
     ],
@@ -81,37 +85,89 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   /* ------------------------------------------------
-     3. BUNDLE SELECTION
+     3. BUNDLE & QUANTITY AUTO-SYNC (MAX 3 UNITS PER PRODUCT)
   ------------------------------------------------- */
+  const MAX_QUANTITY = 3;
   const bundleCards = document.querySelectorAll('.bundle-card');
   const currentPriceEl = document.getElementById('currentPrice');
   const comparePriceEl = document.getElementById('comparePrice');
   const addCartBtnText = document.getElementById('btnPriceText');
   const stickyPriceEl = document.getElementById('stickyPrice');
+  const qtyMinus = document.getElementById('qtyMinus');
+  const qtyPlus = document.getElementById('qtyPlus');
+  const qtyInput = document.getElementById('qtyValue');
 
-  bundleCards.forEach(card => {
-    card.addEventListener('click', () => {
-      bundleCards.forEach(c => c.classList.remove('selected'));
-      card.classList.add('selected');
-
-      const qty = parseInt(card.getAttribute('data-qty'));
-      const price = parseFloat(card.getAttribute('data-price'));
-      const compare = parseFloat(card.getAttribute('data-compare'));
-      const title = card.getAttribute('data-title');
-
-      state.selectedBundle = { qty, price, comparePrice: compare, title };
-      updatePriceDisplay();
-    });
-  });
+  function updateQtyButtons() {
+    if (qtyMinus) {
+      const isMin = state.quantity <= 1;
+      qtyMinus.disabled = isMin;
+      qtyMinus.style.opacity = isMin ? '0.4' : '1';
+      qtyMinus.style.cursor = isMin ? 'not-allowed' : 'pointer';
+    }
+    if (qtyPlus) {
+      const isMax = state.quantity >= MAX_QUANTITY;
+      qtyPlus.disabled = isMax;
+      qtyPlus.style.opacity = isMax ? '0.4' : '1';
+      qtyPlus.style.cursor = isMax ? 'not-allowed' : 'pointer';
+    }
+  }
 
   function updatePriceDisplay() {
-    const total = (state.selectedBundle.price * state.quantity).toFixed(2);
-    const compareTotal = (state.selectedBundle.comparePrice * state.quantity).toFixed(2);
+    const bundle = BUNDLE_DATA[state.quantity] || BUNDLE_DATA[1];
+    const total = bundle.price.toFixed(2);
+    const compareTotal = bundle.comparePrice.toFixed(2);
 
     if (currentPriceEl) currentPriceEl.textContent = `$${total}`;
     if (comparePriceEl) comparePriceEl.textContent = `$${compareTotal}`;
     if (addCartBtnText) addCartBtnText.textContent = `ADD TO CART • $${total}`;
     if (stickyPriceEl) stickyPriceEl.textContent = `$${total}`;
+  }
+
+  function selectBundle(qty) {
+    const validQty = Math.max(1, Math.min(MAX_QUANTITY, parseInt(qty) || 1));
+    state.quantity = validQty;
+    state.selectedBundle = BUNDLE_DATA[validQty] || BUNDLE_DATA[1];
+
+    bundleCards.forEach(card => {
+      const cardQty = parseInt(card.getAttribute('data-qty'));
+      if (cardQty === validQty) {
+        card.classList.add('selected');
+      } else {
+        card.classList.remove('selected');
+      }
+    });
+
+    if (qtyInput) {
+      qtyInput.textContent = validQty;
+    }
+
+    updateQtyButtons();
+    updatePriceDisplay();
+  }
+
+  bundleCards.forEach(card => {
+    card.addEventListener('click', () => {
+      const qty = parseInt(card.getAttribute('data-qty'));
+      selectBundle(qty);
+    });
+  });
+
+  if (qtyMinus && qtyPlus && qtyInput) {
+    updateQtyButtons();
+
+    qtyMinus.addEventListener('click', () => {
+      if (state.quantity > 1) {
+        selectBundle(state.quantity - 1);
+      }
+    });
+
+    qtyPlus.addEventListener('click', () => {
+      if (state.quantity < MAX_QUANTITY) {
+        selectBundle(state.quantity + 1);
+      } else {
+        showToastNotification(`⚠️ Maximum order limit reached (${MAX_QUANTITY} units per product)`);
+      }
+    });
   }
 
   /* ------------------------------------------------
@@ -171,52 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  /* ------------------------------------------------
-     5. QUANTITY CONTROLLER (MAX 999 UNITS)
-  ------------------------------------------------- */
-  const MAX_QUANTITY = 999;
-  const qtyMinus = document.getElementById('qtyMinus');
-  const qtyPlus = document.getElementById('qtyPlus');
-  const qtyInput = document.getElementById('qtyValue');
 
-  function updateQtyButtons() {
-    if (qtyMinus) {
-      const isMin = state.quantity <= 1;
-      qtyMinus.disabled = isMin;
-      qtyMinus.style.opacity = isMin ? '0.4' : '1';
-      qtyMinus.style.cursor = isMin ? 'not-allowed' : 'pointer';
-    }
-    if (qtyPlus) {
-      const isMax = state.quantity >= MAX_QUANTITY;
-      qtyPlus.disabled = isMax;
-      qtyPlus.style.opacity = isMax ? '0.4' : '1';
-      qtyPlus.style.cursor = isMax ? 'not-allowed' : 'pointer';
-    }
-  }
-
-  if (qtyMinus && qtyPlus && qtyInput) {
-    updateQtyButtons();
-
-    qtyMinus.addEventListener('click', () => {
-      if (state.quantity > 1) {
-        state.quantity--;
-        qtyInput.textContent = state.quantity;
-        updateQtyButtons();
-        updatePriceDisplay();
-      }
-    });
-
-    qtyPlus.addEventListener('click', () => {
-      if (state.quantity < MAX_QUANTITY) {
-        state.quantity++;
-        qtyInput.textContent = state.quantity;
-        updateQtyButtons();
-        updatePriceDisplay();
-      } else {
-        showToastNotification(`⚠️ Maximum order limit reached (${MAX_QUANTITY} units)`);
-      }
-    });
-  }
 
   /* ------------------------------------------------
      6. CART DRAWER
@@ -254,33 +265,37 @@ document.addEventListener('DOMContentLoaded', () => {
   if (drawerBackdrop) drawerBackdrop.addEventListener('click', closeCart);
 
   function addItemToCart() {
+    const qty = state.quantity;
+    const bundle = BUNDLE_DATA[qty] || BUNDLE_DATA[1];
+    const color = state.selectedColor || 'Pastel Blue';
     const itemTitle = 'AquaSphere™ Pet Travel Flask';
-    const variantDesc = `${state.selectedBundle.title} • ${state.selectedColor}`;
-    const price = state.selectedBundle.price;
+    const itemImg = (color === 'Blush Pink') ? 'images/pink-closed.jpg' : 'images/blue-closed.jpg';
 
-    const existingIndex = state.cart.findIndex(item => item.variant === variantDesc);
-    const itemImg = (state.selectedColor === 'Blush Pink') ? 'images/pink-closed.jpg' : 'images/blue-closed.jpg';
+    const existingIndex = state.cart.findIndex(item => item.color === color);
 
     if (existingIndex > -1) {
-      const newQty = state.cart[existingIndex].qty + state.quantity;
-      if (newQty > MAX_QUANTITY) {
-        state.cart[existingIndex].qty = MAX_QUANTITY;
-        showToastNotification(`⚠️ Maximum order limit reached (${MAX_QUANTITY} units)`);
+      const currentQty = state.cart[existingIndex].qty;
+      const targetQty = Math.min(MAX_QUANTITY, currentQty + qty);
+
+      if (currentQty >= MAX_QUANTITY) {
+        showToastNotification(`⚠️ Maximum limit reached (${MAX_QUANTITY} units for ${color})`);
       } else {
-        state.cart[existingIndex].qty = newQty;
+        const bundleInfo = BUNDLE_DATA[targetQty] || BUNDLE_DATA[1];
+        state.cart[existingIndex].qty = targetQty;
+        state.cart[existingIndex].bundleQty = targetQty;
+        state.cart[existingIndex].price = bundleInfo.price;
+        state.cart[existingIndex].variant = `${bundleInfo.title} • ${color}`;
+        state.cart[existingIndex].image = itemImg;
       }
-      state.cart[existingIndex].color = state.selectedColor;
-      state.cart[existingIndex].bundleQty = state.selectedBundle.qty;
     } else {
-      const initialQty = Math.min(state.quantity, MAX_QUANTITY);
       state.cart.push({
         id: 'prod-' + Date.now(),
         title: itemTitle,
-        variant: variantDesc,
-        price: price,
-        qty: initialQty,
-        color: state.selectedColor,
-        bundleQty: state.selectedBundle.qty,
+        variant: `${bundle.title} • ${color}`,
+        price: bundle.price,
+        qty: qty,
+        color: color,
+        bundleQty: qty,
         image: itemImg
       });
     }
@@ -289,6 +304,7 @@ document.addEventListener('DOMContentLoaded', () => {
       window.clarity("event", "add_to_cart");
     }
 
+    renderCart();
     openCart();
   }
 
@@ -310,7 +326,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let count = 0;
 
     state.cart.forEach((item, index) => {
-      total += item.price * item.qty;
+      total += item.price;
       count += item.qty;
 
       const isMax = item.qty >= MAX_QUANTITY;
@@ -329,7 +345,7 @@ document.addEventListener('DOMContentLoaded', () => {
               <span class="qty-val" style="min-width: 28px; width: auto; padding: 0 4px; font-size: 0.85rem;">${item.qty}</span>
               <button class="qty-btn" style="width: 28px; font-size: 1rem; ${isMax ? 'opacity: 0.4; cursor: not-allowed;' : ''}" ${isMax ? 'disabled' : ''} onclick="window.updateCartItemQty(${index}, 1)">+</button>
             </div>
-            <div class="cart-item-price">$${(item.price * item.qty).toFixed(2)}</div>
+            <div class="cart-item-price">$${item.price.toFixed(2)}</div>
           </div>
         </div>
         <button onclick="window.removeCartItem(${index})" style="color: #94a3b8; font-size: 1.1rem; align-self: flex-start; padding: 4px;" title="Remove">&times;</button>
@@ -354,14 +370,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
   window.updateCartItemQty = function(index, delta) {
     if (state.cart[index]) {
-      const targetQty = state.cart[index].qty + delta;
+      const currentItem = state.cart[index];
+      const targetQty = currentItem.qty + delta;
+
       if (targetQty > MAX_QUANTITY) {
-        showToastNotification(`⚠️ Maximum order limit reached (${MAX_QUANTITY} units)`);
+        showToastNotification(`⚠️ Maximum limit reached (${MAX_QUANTITY} units per product)`);
         return;
       }
-      state.cart[index].qty = targetQty;
-      if (state.cart[index].qty <= 0) {
+
+      if (targetQty <= 0) {
         state.cart.splice(index, 1);
+      } else {
+        const bundleInfo = BUNDLE_DATA[targetQty] || BUNDLE_DATA[1];
+        currentItem.qty = targetQty;
+        currentItem.bundleQty = targetQty;
+        currentItem.price = bundleInfo.price;
+        currentItem.variant = `${bundleInfo.title} • ${currentItem.color}`;
       }
       renderCart();
     }
@@ -400,12 +424,14 @@ document.addEventListener('DOMContentLoaded', () => {
       else if (item.variant.includes('Pastel Blue')) color = 'Pastel Blue';
     }
 
-    let bundleQty = item.bundleQty || 1;
+    let bundleQty = item.bundleQty || item.qty || 1;
     if (!item.bundleQty && item.variant) {
       if (item.variant.includes('3x')) bundleQty = 3;
       else if (item.variant.includes('2x')) bundleQty = 2;
       else if (item.variant.includes('1x')) bundleQty = 1;
     }
+    if (bundleQty > 3) bundleQty = 3;
+    if (bundleQty < 1) bundleQty = 1;
 
     let url = (STRIPE_LINKS[color] && STRIPE_LINKS[color][bundleQty])
       || (STRIPE_LINKS['Pastel Blue'] && STRIPE_LINKS['Pastel Blue'][bundleQty])
@@ -452,7 +478,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const fallbackItem = {
       color: state.selectedColor || 'Pastel Blue',
-      bundleQty: (state.selectedBundle && state.selectedBundle.qty) || 1
+      bundleQty: (state.selectedBundle && state.selectedBundle.qty) || state.quantity || 1,
+      qty: state.quantity || 1
     };
     window.location.href = getStripeLinkForItem(fallbackItem);
   }
