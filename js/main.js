@@ -164,8 +164,6 @@ document.addEventListener('DOMContentLoaded', () => {
     qtyPlus.addEventListener('click', () => {
       if (state.quantity < MAX_QUANTITY) {
         selectBundle(state.quantity + 1);
-      } else {
-        showToastNotification(`⚠️ Maximum order limit reached (${MAX_QUANTITY} units per product)`);
       }
     });
   }
@@ -277,9 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const currentQty = state.cart[existingIndex].qty;
       const targetQty = Math.min(MAX_QUANTITY, currentQty + qty);
 
-      if (currentQty >= MAX_QUANTITY) {
-        showToastNotification(`⚠️ Maximum limit reached (${MAX_QUANTITY} units for ${color})`);
-      } else {
+      if (currentQty < MAX_QUANTITY) {
         const bundleInfo = BUNDLE_DATA[targetQty] || BUNDLE_DATA[1];
         state.cart[existingIndex].qty = targetQty;
         state.cart[existingIndex].bundleQty = targetQty;
@@ -374,7 +370,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const targetQty = currentItem.qty + delta;
 
       if (targetQty > MAX_QUANTITY) {
-        showToastNotification(`⚠️ Maximum limit reached (${MAX_QUANTITY} units per product)`);
         return;
       }
 
