@@ -285,6 +285,10 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
+    if (window.clarity) {
+      window.clarity("event", "add_to_cart");
+    }
+
     openCart();
   }
 
@@ -419,6 +423,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const checkoutBtn = document.getElementById('btnDrawerCheckout');
 
   function handleCheckout() {
+    if (window.clarity) {
+      window.clarity("event", "checkout_click");
+    }
+
     if (window.location.hostname.includes('myshopify.com')) {
       window.location.href = '/checkout';
       return;
