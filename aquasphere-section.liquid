@@ -749,6 +749,7 @@ button {
   padding: 3px;
   border: 2px solid transparent;
   transition: all 0.2s ease;
+  position: relative;
 }
 
 .swatch-btn.active {
@@ -758,6 +759,28 @@ button {
 
 .swatch-btn[data-color="Blush Pink"].active {
   border-color: #ec4899;
+}
+
+.swatch-btn.disabled,
+.swatch-btn:disabled {
+  opacity: 0.42;
+  cursor: not-allowed;
+  pointer-events: none;
+  filter: grayscale(0.25);
+}
+
+.swatch-btn.disabled::after,
+.swatch-btn:disabled::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -2px;
+  right: -2px;
+  height: 2px;
+  background: #ef4444;
+  transform: rotate(-45deg);
+  border-radius: 2px;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.9);
 }
 
 .swatch-color {
@@ -3300,10 +3323,10 @@ iframe[style*="bottom:0;right:0"] {
               <span style="color: #10b981; font-size: 0.8rem; font-weight: 700;">✓ In Stock & Ready to Ship</span>
             </div>
             <div class="swatch-group">
-              <button class="swatch-btn active" data-color="Pastel Blue" data-img="images/blue-closed.jpg" title="Pastel Blue">
+              <button class="swatch-btn active" data-color="Pastel Blue" data-img="images/blue-closed.jpg" title="Pastel Blue (In Stock)">
                 <div class="swatch-color" style="background: #7dd3fc; border: 1px solid #38bdf8;"></div>
               </button>
-              <button class="swatch-btn" data-color="Blush Pink" data-img="images/pink-closed.jpg" title="Blush Pink">
+              <button class="swatch-btn disabled" disabled data-color="Blush Pink" data-img="images/pink-closed.jpg" title="Blush Pink (Sold Out)" aria-disabled="true">
                 <div class="swatch-color" style="background: #f472b6; border: 1px solid #ec4899;"></div>
               </button>
             </div>
@@ -7100,20 +7123,17 @@ document.addEventListener('DOMContentLoaded', () => {
   thumbs.forEach(thumb => {
     thumb.addEventListener('click', () => {
       const newSrc = thumb.getAttribute('data-img');
-      if (newSrc && newSrc.includes('pink')) {
-        setColor('Blush Pink', newSrc);
-      } else if (newSrc && newSrc.includes('blue')) {
-        setColor('Pastel Blue', newSrc);
-      } else {
-        thumbs.forEach(t => t.classList.remove('active'));
-        thumb.classList.add('active');
-        if (mainImg && newSrc) {
-          mainImg.style.opacity = '0';
-          setTimeout(() => {
-            mainImg.src = newSrc;
-            mainImg.style.opacity = '1';
-          }, 150);
-        }
+      thumbs.forEach(t => t.classList.remove('active'));
+      thumb.classList.add('active');
+      if (mainImg && newSrc) {
+        mainImg.style.opacity = '0';
+        setTimeout(() => {
+          mainImg.src = newSrc;
+          mainImg.style.opacity = '1';
+        }, 150);
+      }
+      if (stickyThumb && newSrc) {
+        stickyThumb.src = newSrc;
       }
     });
   });
@@ -7209,19 +7229,16 @@ document.addEventListener('DOMContentLoaded', () => {
   const colorNameEl = document.getElementById('selectedColorName');
 
   function setColor(color, imgSrc) {
-    state.selectedColor = color;
+    if (color === 'Blush Pink') return; // Blush Pink is sold out and disabled
+    state.selectedColor = 'Pastel Blue';
 
     if (colorNameEl) {
-      colorNameEl.textContent = color;
-      if (color === 'Blush Pink') {
-        colorNameEl.style.color = '#db2777'; // Vibrant elegant pink
-      } else {
-        colorNameEl.style.color = '#0284c7'; // Vibrant pastel blue
-      }
+      colorNameEl.textContent = 'Pastel Blue';
+      colorNameEl.style.color = '#0284c7'; // Vibrant pastel blue
     }
 
     swatches.forEach(s => {
-      if (s.getAttribute('data-color') === color) {
+      if (s.getAttribute('data-color') === 'Pastel Blue') {
         s.classList.add('active');
       } else {
         s.classList.remove('active');
@@ -7253,6 +7270,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   swatches.forEach(swatch => {
     swatch.addEventListener('click', () => {
+      if (swatch.disabled || swatch.classList.contains('disabled')) return;
       const color = swatch.getAttribute('data-color');
       const imgSrc = swatch.getAttribute('data-img');
       setColor(color, imgSrc);

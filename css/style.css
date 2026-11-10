@@ -741,6 +741,7 @@ button {
   padding: 3px;
   border: 2px solid transparent;
   transition: all 0.2s ease;
+  position: relative;
 }
 
 .swatch-btn.active {
@@ -750,6 +751,28 @@ button {
 
 .swatch-btn[data-color="Blush Pink"].active {
   border-color: #ec4899;
+}
+
+.swatch-btn.disabled,
+.swatch-btn:disabled {
+  opacity: 0.42;
+  cursor: not-allowed;
+  pointer-events: none;
+  filter: grayscale(0.25);
+}
+
+.swatch-btn.disabled::after,
+.swatch-btn:disabled::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -2px;
+  right: -2px;
+  height: 2px;
+  background: #ef4444;
+  transform: rotate(-45deg);
+  border-radius: 2px;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.9);
 }
 
 .swatch-color {
