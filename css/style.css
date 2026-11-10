@@ -766,19 +766,36 @@ button {
   border-color: #ef4444 !important;
 }
 
+/* Bold X - Line 1 (\) */
+.swatch-btn.disabled::before,
+.swatch-btn:disabled::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 6px;
+  right: 6px;
+  height: 3px;
+  background: #dc2626;
+  transform: translateY(-50%) rotate(45deg);
+  border-radius: 999px;
+  z-index: 5;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.85);
+}
+
+/* Bold X - Line 2 (/) */
 .swatch-btn.disabled::after,
 .swatch-btn:disabled::after {
   content: '';
   position: absolute;
   top: 50%;
-  left: 2px;
-  right: 2px;
-  height: 2px;
-  background: #ef4444;
+  left: 6px;
+  right: 6px;
+  height: 3px;
+  background: #dc2626;
   transform: translateY(-50%) rotate(-45deg);
   border-radius: 999px;
-  z-index: 2;
-  box-shadow: 0 0 2px rgba(255, 255, 255, 0.6);
+  z-index: 5;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.85);
 }
 
 .swatch-color {
