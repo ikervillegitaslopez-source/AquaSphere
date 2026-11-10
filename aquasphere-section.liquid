@@ -766,11 +766,27 @@ button {
   border-color: #ef4444 !important;
   pointer-events: none;
   cursor: default;
+  position: relative;
 }
 
 .swatch-btn.disabled .swatch-color,
 .swatch-btn:disabled .swatch-color {
   border-color: #ef4444 !important;
+}
+
+.swatch-btn.disabled::after,
+.swatch-btn:disabled::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 2px;
+  right: 2px;
+  height: 2px;
+  background: #ef4444;
+  transform: translateY(-50%) rotate(-45deg);
+  border-radius: 999px;
+  z-index: 2;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.6);
 }
 
 .swatch-color {
