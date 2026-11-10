@@ -763,8 +763,14 @@ button {
 
 .swatch-btn.disabled,
 .swatch-btn:disabled {
+  border-color: #ef4444 !important;
   pointer-events: none;
   cursor: default;
+}
+
+.swatch-btn.disabled .swatch-color,
+.swatch-btn:disabled .swatch-color {
+  border-color: #ef4444 !important;
 }
 
 .swatch-color {
