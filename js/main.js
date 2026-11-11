@@ -66,17 +66,23 @@ document.addEventListener('DOMContentLoaded', () => {
   thumbs.forEach(thumb => {
     thumb.addEventListener('click', () => {
       const newSrc = thumb.getAttribute('data-img');
-      thumbs.forEach(t => t.classList.remove('active'));
-      thumb.classList.add('active');
-      if (mainImg && newSrc) {
-        mainImg.style.opacity = '0';
-        setTimeout(() => {
-          mainImg.src = newSrc;
-          mainImg.style.opacity = '1';
-        }, 150);
-      }
-      if (stickyThumb && newSrc) {
-        stickyThumb.src = newSrc;
+      if (newSrc && newSrc.includes('pink')) {
+        setColor('Blush Pink', newSrc);
+      } else if (newSrc && newSrc.includes('blue')) {
+        setColor('Pastel Blue', newSrc);
+      } else {
+        thumbs.forEach(t => t.classList.remove('active'));
+        thumb.classList.add('active');
+        if (mainImg && newSrc) {
+          mainImg.style.opacity = '0';
+          setTimeout(() => {
+            mainImg.src = newSrc;
+            mainImg.style.opacity = '1';
+          }, 150);
+        }
+        if (stickyThumb && newSrc) {
+          stickyThumb.src = newSrc;
+        }
       }
     });
   });
@@ -172,16 +178,19 @@ document.addEventListener('DOMContentLoaded', () => {
   const colorNameEl = document.getElementById('selectedColorName');
 
   function setColor(color, imgSrc) {
-    if (color === 'Blush Pink') return; // Blush Pink is sold out and disabled
-    state.selectedColor = 'Pastel Blue';
+    state.selectedColor = color;
 
     if (colorNameEl) {
-      colorNameEl.textContent = 'Pastel Blue';
-      colorNameEl.style.color = '#0284c7'; // Vibrant pastel blue
+      colorNameEl.textContent = color;
+      if (color === 'Blush Pink') {
+        colorNameEl.style.color = '#db2777'; // Blush pink
+      } else {
+        colorNameEl.style.color = '#0284c7'; // Vibrant pastel blue
+      }
     }
 
     swatches.forEach(s => {
-      if (s.getAttribute('data-color') === 'Pastel Blue') {
+      if (s.getAttribute('data-color') === color) {
         s.classList.add('active');
       } else {
         s.classList.remove('active');
@@ -213,7 +222,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   swatches.forEach(swatch => {
     swatch.addEventListener('click', () => {
-      if (swatch.disabled || swatch.classList.contains('disabled')) return;
       const color = swatch.getAttribute('data-color');
       const imgSrc = swatch.getAttribute('data-img');
       setColor(color, imgSrc);

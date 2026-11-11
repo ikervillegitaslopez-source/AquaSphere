@@ -761,51 +761,6 @@ button {
   border-color: #ec4899;
 }
 
-.swatch-btn.disabled,
-.swatch-btn:disabled {
-  border-color: #ef4444 !important;
-  pointer-events: none;
-  cursor: default;
-  position: relative;
-}
-
-.swatch-btn.disabled .swatch-color,
-.swatch-btn:disabled .swatch-color {
-  border-color: #ef4444 !important;
-}
-
-/* Bold X - Line 1 (\) */
-.swatch-btn.disabled::before,
-.swatch-btn:disabled::before {
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: 6px;
-  right: 6px;
-  height: 3px;
-  background: #dc2626;
-  transform: translateY(-50%) rotate(45deg);
-  border-radius: 999px;
-  z-index: 5;
-  box-shadow: 0 0 2px rgba(255, 255, 255, 0.85);
-}
-
-/* Bold X - Line 2 (/) */
-.swatch-btn.disabled::after,
-.swatch-btn:disabled::after {
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: 6px;
-  right: 6px;
-  height: 3px;
-  background: #dc2626;
-  transform: translateY(-50%) rotate(-45deg);
-  border-radius: 999px;
-  z-index: 5;
-  box-shadow: 0 0 2px rgba(255, 255, 255, 0.85);
-}
-
 .swatch-color {
   width: 100%;
   height: 100%;
@@ -3349,7 +3304,7 @@ iframe[style*="bottom:0;right:0"] {
               <button class="swatch-btn active" data-color="Pastel Blue" data-img="images/blue-closed.jpg" title="Pastel Blue">
                 <div class="swatch-color" style="background: #7dd3fc; border: 1px solid #38bdf8;"></div>
               </button>
-              <button class="swatch-btn disabled" disabled data-color="Blush Pink" data-img="images/pink-closed.jpg" title="Blush Pink" aria-disabled="true">
+              <button class="swatch-btn" data-color="Blush Pink" data-img="images/pink-closed.jpg" title="Blush Pink">
                 <div class="swatch-color" style="background: #f472b6; border: 1px solid #ec4899;"></div>
               </button>
             </div>
@@ -7146,17 +7101,23 @@ document.addEventListener('DOMContentLoaded', () => {
   thumbs.forEach(thumb => {
     thumb.addEventListener('click', () => {
       const newSrc = thumb.getAttribute('data-img');
-      thumbs.forEach(t => t.classList.remove('active'));
-      thumb.classList.add('active');
-      if (mainImg && newSrc) {
-        mainImg.style.opacity = '0';
-        setTimeout(() => {
-          mainImg.src = newSrc;
-          mainImg.style.opacity = '1';
-        }, 150);
-      }
-      if (stickyThumb && newSrc) {
-        stickyThumb.src = newSrc;
+      if (newSrc && newSrc.includes('pink')) {
+        setColor('Blush Pink', newSrc);
+      } else if (newSrc && newSrc.includes('blue')) {
+        setColor('Pastel Blue', newSrc);
+      } else {
+        thumbs.forEach(t => t.classList.remove('active'));
+        thumb.classList.add('active');
+        if (mainImg && newSrc) {
+          mainImg.style.opacity = '0';
+          setTimeout(() => {
+            mainImg.src = newSrc;
+            mainImg.style.opacity = '1';
+          }, 150);
+        }
+        if (stickyThumb && newSrc) {
+          stickyThumb.src = newSrc;
+        }
       }
     });
   });
@@ -7252,16 +7213,19 @@ document.addEventListener('DOMContentLoaded', () => {
   const colorNameEl = document.getElementById('selectedColorName');
 
   function setColor(color, imgSrc) {
-    if (color === 'Blush Pink') return; // Blush Pink is sold out and disabled
-    state.selectedColor = 'Pastel Blue';
+    state.selectedColor = color;
 
     if (colorNameEl) {
-      colorNameEl.textContent = 'Pastel Blue';
-      colorNameEl.style.color = '#0284c7'; // Vibrant pastel blue
+      colorNameEl.textContent = color;
+      if (color === 'Blush Pink') {
+        colorNameEl.style.color = '#db2777'; // Blush pink
+      } else {
+        colorNameEl.style.color = '#0284c7'; // Vibrant pastel blue
+      }
     }
 
     swatches.forEach(s => {
-      if (s.getAttribute('data-color') === 'Pastel Blue') {
+      if (s.getAttribute('data-color') === color) {
         s.classList.add('active');
       } else {
         s.classList.remove('active');
@@ -7293,7 +7257,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   swatches.forEach(swatch => {
     swatch.addEventListener('click', () => {
-      if (swatch.disabled || swatch.classList.contains('disabled')) return;
       const color = swatch.getAttribute('data-color');
       const imgSrc = swatch.getAttribute('data-img');
       setColor(color, imgSrc);
