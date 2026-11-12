@@ -3,6 +3,66 @@
  * Fully interactive e-commerce interactions
  */
 
+// -----------------------------------------------------------------
+// ANTI-TRANSLATE & DESKTOP ZOOM PREVENTION GUARD
+// Language strictly English (No Google Translate)
+// Zoom locked on Desktop, freely enabled on Mobile & Tablets
+// -----------------------------------------------------------------
+(function initGuards() {
+  // 1. Force strict English / No-Translate attributes
+  try {
+    document.documentElement.setAttribute('translate', 'no');
+    document.documentElement.classList.add('notranslate');
+    if (document.body) {
+      document.body.setAttribute('translate', 'no');
+      document.body.classList.add('notranslate');
+    }
+  } catch (e) {}
+
+  // 2. Detect Mobile and Tablet devices
+  function isMobileOrTabletDevice() {
+    const ua = navigator.userAgent || navigator.vendor || window.opera || '';
+    const isMobileUA = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Tablet|Silk|Kindle/i.test(ua);
+    const isIPad = /Macintosh/i.test(ua) && navigator.maxTouchPoints && navigator.maxTouchPoints > 1;
+    const isTouchWithSmallOrMediumScreen = (navigator.maxTouchPoints && navigator.maxTouchPoints > 1) && window.matchMedia('(max-width: 1180px)').matches;
+
+    return Boolean(isMobileUA || isIPad || isTouchWithSmallOrMediumScreen);
+  }
+
+  // If this is a Mobile or Tablet, DO NOT block zoom! Let touch pinch-to-zoom work naturally.
+  if (isMobileOrTabletDevice()) {
+    return;
+  }
+
+  // DESKTOP ONLY: Block Ctrl + Scroll, Ctrl/Cmd + Keys, and gestures
+  window.addEventListener('wheel', function (e) {
+    if (e.ctrlKey || e.metaKey) {
+      e.preventDefault();
+    }
+  }, { passive: false });
+
+  window.addEventListener('keydown', function (e) {
+    if (e.ctrlKey || e.metaKey) {
+      const key = e.key;
+      const code = e.code;
+      const isZoomKey = 
+        key === '+' || key === '-' || key === '=' || key === '_' || key === '0' ||
+        code === 'NumpadAdd' || code === 'NumpadSubtract' || code === 'Equal' || code === 'Minus' || code === 'Digit0' || code === 'Numpad0' ||
+        e.keyCode === 187 || e.keyCode === 189 || e.keyCode === 107 || e.keyCode === 109 || e.keyCode === 48 || e.keyCode === 96;
+
+      if (isZoomKey) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    }
+  }, { passive: false });
+
+  // WebKit desktop gestures (Mac trackpad)
+  window.addEventListener('gesturestart', function (e) { e.preventDefault(); }, { passive: false });
+  window.addEventListener('gesturechange', function (e) { e.preventDefault(); }, { passive: false });
+  window.addEventListener('gestureend', function (e) { e.preventDefault(); }, { passive: false });
+})();
+
 document.addEventListener('DOMContentLoaded', () => {
   // Bundle Pricing Definitions
   const BUNDLE_DATA = {
