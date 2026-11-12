@@ -610,13 +610,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function createReviewCardHTML(r) {
     const avatarSrc = getAvatarUrl(r.avatar);
+    const isCanada = r.countryName === 'Canada' || r.countryFlag === '🇨🇦';
+    const flagSrc = isCanada ? 'images/flags/ca.svg' : 'images/flags/us.svg';
+    const flagAlt = isCanada ? 'Canada' : 'United States';
     return `
       <div class="review-card">
         <div class="review-header">
           <div class="reviewer-meta">
             <img src="${avatarSrc}" alt="${r.name}" class="reviewer-avatar-img" loading="lazy" onerror="this.onerror=null; this.src='images/avatars/dog-corgi.jpg';">
             <div>
-              <div class="reviewer-name">${r.name} ${r.countryFlag}</div>
+              <div class="reviewer-name">${r.name} <img src="${flagSrc}" alt="${flagAlt}" class="reviewer-flag-img"></div>
               <div class="stars-row" style="font-size: 0.9rem;">${r.starsString}</div>
             </div>
           </div>
