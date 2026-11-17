@@ -1723,24 +1723,26 @@ button {
 .translate-btn {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  padding: 4px 10px;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border-radius: 50%;
   background: #f8fafc;
-  border: 1px solid #cbd5e1;
-  border-radius: 6px;
-  font-size: 0.74rem;
-  font-weight: 600;
+  border: 1.5px solid #cbd5e1;
   color: #0284c7;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   white-space: nowrap;
   flex-shrink: 0;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
 .translate-btn:hover {
   background: #e0f2fe;
   border-color: #38bdf8;
   color: #0369a1;
+  transform: scale(1.08);
 }
 
 .translate-btn.translated {
@@ -1750,20 +1752,13 @@ button {
 }
 
 .translate-btn svg {
-  width: 12px;
-  height: 12px;
+  width: 15px;
+  height: 15px;
   flex-shrink: 0;
 }
 
 .lang-tag {
-  font-size: 0.7rem;
-  font-weight: 600;
-  color: #94a3b8;
-  background: #f1f5f9;
-  padding: 3px 8px;
-  border-radius: 4px;
-  white-space: nowrap;
-  flex-shrink: 0;
+  display: none !important;
 }
 
 .verified-pill {
@@ -3202,9 +3197,9 @@ iframe[style*="bottom:0;right:0"] {
     font-size: 0.88rem;
   }
   .translate-btn {
-    padding: 3px 8px;
-    font-size: 0.68rem;
-    gap: 4px;
+    width: 26px;
+    height: 26px;
+    padding: 0;
   }
   .social-toast {
     bottom: 76px;

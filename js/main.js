@@ -611,8 +611,19 @@ document.addEventListener('DOMContentLoaded', () => {
     'Spain': 'images/flags/es.svg',
     'Netherlands': 'images/flags/nl.svg',
     'Sweden': 'images/flags/se.svg',
-    'Australia': 'images/flags/au.svg',
+    'Norway': 'images/flags/no.svg',
+    'Denmark': 'images/flags/dk.svg',
+    'Finland': 'images/flags/fi.svg',
+    'Belgium': 'images/flags/be.svg',
+    'Austria': 'images/flags/at.svg',
+    'Portugal': 'images/flags/pt.svg',
+    'Ireland': 'images/flags/ie.svg',
+    'Poland': 'images/flags/pl.svg',
+    'Czech Republic': 'images/flags/cz.svg',
+    'Greece': 'images/flags/gr.svg',
+    'Croatia': 'images/flags/hr.svg',
     'Switzerland': 'images/flags/ch.svg',
+    'Australia': 'images/flags/au.svg',
     'Japan': 'images/flags/jp.svg'
   };
 
@@ -650,16 +661,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const bodyText = (r.body || '').replace(/"/g, '&quot;');
     const transText = (r.translatedBody || r.body || '').replace(/"/g, '&quot;');
 
+    // Only non-English reviews show the globe icon button; English reviews show nothing
     const headerActionHTML = isTranslatable
-      ? `<button class="translate-btn" type="button" aria-label="Translate to English">
-           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      ? `<button class="translate-btn" type="button" aria-label="Translate to English" title="Translate to English">
+           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
              <circle cx="12" cy="12" r="10"></circle>
-             <line x1="2" y1="12" x2="22" y2="12"></line>
              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+             <path d="M2 12h20"></path>
            </svg>
-           <span>Translate</span>
          </button>`
-      : `<span class="lang-tag">EN</span>`;
+      : '';
 
     return `
       <div class="review-card">
@@ -706,22 +717,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (isTranslated) {
         bodyEl.textContent = `"${transText}"`;
-        translateBtn.innerHTML = `
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <polyline points="20 6 9 17 4 12"></polyline>
-          </svg>
-          <span>Original</span>
-        `;
+        translateBtn.setAttribute('title', 'Show original language');
+        translateBtn.setAttribute('aria-label', 'Show original language');
       } else {
         bodyEl.textContent = `"${origText}"`;
-        translateBtn.innerHTML = `
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="12" cy="12" r="10"></circle>
-            <line x1="2" y1="12" x2="22" y2="12"></line>
-            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
-          </svg>
-          <span>Translate</span>
-        `;
+        translateBtn.setAttribute('title', 'Translate to English');
+        translateBtn.setAttribute('aria-label', 'Translate to English');
       }
     });
   }
