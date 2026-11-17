@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <rect width="1280" height="640" fill="#00008b"/>
+  <g id="unionjack">
+    <clipPath id="uc"><path d="M0 0h640v320H0z"/></clipPath>
+    <g clip-path="url(#uc)">
+      <path d="M0 0l640 320M640 0L0 320" stroke="#fff" stroke-width="64"/>
+      <path d="M0 0l640 320M640 0L0 320" stroke="#cc0000" stroke-width="42"/>
+      <path d="M320 0v320M0 160h640" stroke="#fff" stroke-width="106"/>
+      <path d="M320 0v320M0 160h640" stroke="#cc0000" stroke-width="64"/>
+    </g>
+  </g>
+  <circle cx="320" cy="480" r="40" fill="#fff"/>
+  <circle cx="960" cy="180" r="22" fill="#fff"/>
+  <circle cx="1120" cy="280" r="22" fill="#fff"/>
+  <circle cx="960" cy="460" r="22" fill="#fff"/>
+  <circle cx="840" cy="340" r="22" fill="#fff"/>
+  <circle cx="1020" cy="380" r="14" fill="#fff"/>
+</svg>

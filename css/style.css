@@ -1675,25 +1675,95 @@ button {
   display: block;
 }
 
+.reviewer-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  flex: 1;
+}
+
+.reviewer-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.reviewer-name-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap !important;
+  flex-wrap: nowrap !important;
+  min-width: 0;
+}
+
 .reviewer-name {
   font-weight: 700;
   font-size: 0.95rem;
   color: var(--dark);
-  display: flex;
-  align-items: center;
-  gap: 6px;
+  white-space: nowrap !important;
+  letter-spacing: -0.01em;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .reviewer-flag-img {
-  width: 20px;
-  height: 14px;
+  width: 18px;
+  height: 12px;
   object-fit: cover;
   border-radius: 2px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
   display: inline-block;
   vertical-align: middle;
   flex-shrink: 0;
-  margin-left: 2px;
+}
+
+.translate-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  background: #f8fafc;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: #0284c7;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.translate-btn:hover {
+  background: #e0f2fe;
+  border-color: #38bdf8;
+  color: #0369a1;
+}
+
+.translate-btn.translated {
+  background: #f0fdf4;
+  border-color: #86efac;
+  color: #16a34a;
+}
+
+.translate-btn svg {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+}
+
+.lang-tag {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #94a3b8;
+  background: #f1f5f9;
+  padding: 3px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .verified-pill {
@@ -3117,11 +3187,24 @@ iframe[style*="bottom:0;right:0"] {
     max-width: 40px;
   }
   .review-header {
-    flex-wrap: wrap;
+    flex-wrap: nowrap !important;
     gap: 8px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .reviewer-name-row {
+    flex-wrap: nowrap !important;
+    gap: 5px;
   }
   .reviewer-name {
-    flex-wrap: wrap;
+    flex-wrap: nowrap !important;
+    white-space: nowrap !important;
+    font-size: 0.88rem;
+  }
+  .translate-btn {
+    padding: 3px 8px;
+    font-size: 0.68rem;
+    gap: 4px;
   }
   .social-toast {
     bottom: 76px;

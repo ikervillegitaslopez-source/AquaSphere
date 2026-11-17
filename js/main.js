@@ -599,6 +599,23 @@ document.addEventListener('DOMContentLoaded', () => {
   const TOTAL_REVIEWS = allReviews.length || 248;
   let currentlyShown = 10;
 
+  const COUNTRY_FLAG_MAP = {
+    'USA': 'images/flags/us.svg',
+    'United States': 'images/flags/us.svg',
+    'Canada': 'images/flags/ca.svg',
+    'Germany': 'images/flags/de.svg',
+    'France': 'images/flags/fr.svg',
+    'United Kingdom': 'images/flags/gb.svg',
+    'UK': 'images/flags/gb.svg',
+    'Italy': 'images/flags/it.svg',
+    'Spain': 'images/flags/es.svg',
+    'Netherlands': 'images/flags/nl.svg',
+    'Sweden': 'images/flags/se.svg',
+    'Australia': 'images/flags/au.svg',
+    'Switzerland': 'images/flags/ch.svg',
+    'Japan': 'images/flags/jp.svg'
+  };
+
   function getAvatarUrl(avatarPath) {
     if (!avatarPath) return 'images/avatars/dog-corgi.jpg';
     if (typeof window !== 'undefined' && window.AQUASPHERE_ASSET_BASE) {
@@ -608,20 +625,58 @@ document.addEventListener('DOMContentLoaded', () => {
     return avatarPath;
   }
 
+  function getFlagSrc(r) {
+    let flagPath = r.flag;
+    if (!flagPath) {
+      if (r.countryCode) {
+        flagPath = `images/flags/${r.countryCode.toLowerCase()}.svg`;
+      } else if (r.countryName && COUNTRY_FLAG_MAP[r.countryName]) {
+        flagPath = COUNTRY_FLAG_MAP[r.countryName];
+      } else {
+        flagPath = 'images/flags/us.svg';
+      }
+    }
+    if (typeof window !== 'undefined' && window.AQUASPHERE_ASSET_BASE) {
+      const filename = flagPath.split('/').pop();
+      return window.AQUASPHERE_ASSET_BASE + filename;
+    }
+    return flagPath;
+  }
+
   function createReviewCardHTML(r) {
     const avatarSrc = getAvatarUrl(r.avatar);
+    const flagSrc = getFlagSrc(r);
+    const isTranslatable = r.lang && r.lang !== 'en' && r.translatedBody;
+    const bodyText = (r.body || '').replace(/"/g, '&quot;');
+    const transText = (r.translatedBody || r.body || '').replace(/"/g, '&quot;');
+
+    const headerActionHTML = isTranslatable
+      ? `<button class="translate-btn" type="button" aria-label="Translate to English">
+           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+             <circle cx="12" cy="12" r="10"></circle>
+             <line x1="2" y1="12" x2="22" y2="12"></line>
+             <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+           </svg>
+           <span>Translate</span>
+         </button>`
+      : `<span class="lang-tag">EN</span>`;
+
     return `
       <div class="review-card">
         <div class="review-header">
           <div class="reviewer-meta">
             <img src="${avatarSrc}" alt="${r.name}" class="reviewer-avatar-img" loading="lazy" onerror="this.onerror=null; this.src='images/avatars/dog-corgi.jpg';">
-            <div>
-              <div class="reviewer-name">${r.name}</div>
-              <div class="stars-row" style="font-size: 0.9rem;">${r.starsString}</div>
+            <div class="reviewer-info">
+              <div class="reviewer-name-row">
+                <span class="reviewer-name">${r.name}</span>
+                <img src="${flagSrc}" alt="${r.countryName || 'Country'}" class="reviewer-flag-img" loading="lazy">
+              </div>
+              <div class="stars-row" style="font-size: 0.9rem;">${r.starsString || '★★★★★'}</div>
             </div>
           </div>
+          ${headerActionHTML}
         </div>
-        <div class="review-body">
+        <div class="review-body" data-original="${bodyText}" data-translated="${transText}">
           "${r.body}"
         </div>
         <div class="review-footer">
@@ -637,6 +692,38 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>
     `;
+  }
+
+  function bindTranslationToCard(card) {
+    const translateBtn = card.querySelector('.translate-btn');
+    const bodyEl = card.querySelector('.review-body');
+    if (!translateBtn || !bodyEl) return;
+
+    translateBtn.addEventListener('click', () => {
+      const isTranslated = translateBtn.classList.toggle('translated');
+      const origText = bodyEl.getAttribute('data-original');
+      const transText = bodyEl.getAttribute('data-translated');
+
+      if (isTranslated) {
+        bodyEl.textContent = `"${transText}"`;
+        translateBtn.innerHTML = `
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+          <span>Original</span>
+        `;
+      } else {
+        bodyEl.textContent = `"${origText}"`;
+        translateBtn.innerHTML = `
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="2" y1="12" x2="22" y2="12"></line>
+            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+          </svg>
+          <span>Translate</span>
+        `;
+      }
+    });
   }
 
   function bindVotingToCard(card) {
@@ -663,9 +750,12 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Bind voting to all initially rendered cards
+  // Bind voting and translation to all initially rendered cards
   if (reviewsGrid) {
-    reviewsGrid.querySelectorAll('.review-card').forEach(card => bindVotingToCard(card));
+    reviewsGrid.querySelectorAll('.review-card').forEach(card => {
+      bindVotingToCard(card);
+      bindTranslationToCard(card);
+    });
   }
 
   function updateReviewsProgress() {
@@ -697,6 +787,7 @@ document.addEventListener('DOMContentLoaded', () => {
       tempDiv.innerHTML = createReviewCardHTML(reviewData);
       const newCard = tempDiv.firstElementChild;
       bindVotingToCard(newCard);
+      bindTranslationToCard(newCard);
       fragment.appendChild(newCard);
     }
     reviewsGrid.appendChild(fragment);
