@@ -18,8 +18,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Corgi finally drinks on hot summer walks without his big ears getting squished",
-    "body": "Früher weigerte sich Leo, aus den billigen Plastikflaschen mit den winzigen Klappschalen zu trinken. Die Blattschale ist breit genug, damit seine großen Ohren beim Trinken nicht gequetscht werden. Das Wasser bleibt selbst bei 85 Grad Hitze in Austin eiskalt. Ehrlich gesagt besessen.",
-    "translatedBody": "Leo used to refuse drinking from those cheap plastic bottles with the tiny flip trays. The leaf bowl on this is wide enough that his big ears don't get squished when he drinks. Water stays freezing cold even in 85-degree Austin heat. Honestly obsessed."
+    "body": "Früher weigerte sich Leo, aus den billigen Plastikflaschen mit den winzigen Klappschalen zu trinken. Die Blattschale ist breit genug, damit seine großen Ohren beim Trinken nicht gequetscht werden. Das Wasser bleibt selbst bei 85 Grad Hitze in Austin eiskalt. Ehrlich gesagt besessen.",
+    "translatedBody": "Leo used to refuse drinking from those cheap plastic bottles with the tiny flip trays. The leaf bowl on this is wide enough that his big ears don't get squished when he drinks. Water stays freezing cold even in 85-degree Austin heat. Honestly obsessed."
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Zero leaks inside my expensive camera backpack during a 6-hour hike around Lake Louise in Banff National Park",
-    "body": "Carried this next to my Sony A7IV and a $1200 lens during a 6-hour hike around Lake Louise. Not a single drop leaked out. The silicone leaf flips backwards smoothly and locks onto the sphere when you're done. Super solid build."
+    "body": "Carried this next to my Sony A7IV and a $1200 lens during a 6-hour hike around Lake Louise. Not a single drop leaked out. The silicone leaf flips backwards smoothly and locks onto the sphere when you're done. Super solid build."
   },
   {
     "id": 3,
@@ -47,8 +47,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Finally an ergonomic open leaf bowl wide enough for my flat-faced French Bulldog to drink comfortably without choking or coughing up water",
-    "body": "Si vous avez un chien au visage plat, vous connaissez le problème : son museau ne peut pas rentrer dans les bouteilles étroites normales pour chien et il finit par tousser ou avoir des haut-le-cœur. Cette feuille de silicone est comme un bol profond et ouvert. Winston a bu la moitié de la bouteille du premier coup.",
-    "translatedBody": "If you have a flat-faced dog you know the struggle—their snouts can't fit into normal narrow dog bottles and they end up coughing or gagging. This silicone leaf is like a deep open bowl. Winston drank half the bottle on his first try."
+    "body": "Si vous avez un chien au visage plat, vous connaissez le problème: son museau ne peut pas rentrer dans les bouteilles étroites normales pour chien et il finit par tousser ou avoir des haut-le-cœur. Cette feuille de silicone est comme un bol profond et ouvert. Winston a bu la moitié de la bouteille du premier coup.",
+    "translatedBody": "If you have a flat-faced dog you know the struggle—their snouts can't fit into normal narrow dog bottles and they end up coughing or gagging. This silicone leaf is like a deep open bowl. Winston drank half the bottle on his first try."
   },
   {
     "id": 4,
@@ -62,8 +62,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Big dog approved: the drain-back feature saves so much clean water on long backcountry trails",
-    "body": "Jeg har en 85lb Golden Retriever som drikker som en hest. Det beste er at det rent vann han etterlater i bladskålen renner rett tilbake i stålkolben, slik at du ikke kaster bort vann når du er milevis unna bilen.",
-    "translatedBody": "I have an 85lb Golden Retriever who drinks like a horse. The best part is whatever clean water he leaves in the leaf bowl drains right back into the steel flask so you don't waste water when you're miles away from the car."
+    "body": "Jeg har en 85lb Golden Retriever som drikker som en hest. Det beste er at det rent vann han etterlater i bladskålen renner rett tilbake i stålkolben, slik at du ikke kaster bort vann når du er milevis unna bilen.",
+    "translatedBody": "I have an 85lb Golden Retriever who drinks like a horse. The best part is whatever clean water he leaves in the leaf bowl drains right back into the steel flask so you don't waste water when you're miles away from the car."
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Three different dog owners at our neighborhood Austin park asked me where I bought this before our walk was even over",
-    "body": "It looks like something Apple would design if they made pet gear. The pastel blue silicone with the brushed steel is so pretty. No plastic chemical smell either, which was my biggest annoyance with Amazon bottles."
+    "body": "It looks like something Apple would design if they made pet gear. The pastel blue silicone with the brushed steel is so pretty. No plastic chemical smell either, which was my biggest annoyance with Amazon bottles."
   },
   {
     "id": 6,
@@ -91,8 +91,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Saved our morning mountain hike in the heat",
-    "body": "Ho lasciato cadere alcuni cubetti di ghiaccio prima di uscire sul sentiero e l'acqua è rimasta ghiacciata per più di 5 ore. Quando fai un'escursione su terreni estivi asciutti, evitare che il tuo cane si surriscaldi è tutto. Acquisto 10/10.",
-    "translatedBody": "Dropped some ice cubes in before heading out on the trail and the water stayed ice cold for 5+ hours. When you're hiking in dry summer terrain, keeping your dog from overheating is everything. 10/10 purchase."
+    "body": "Ho lasciato cadere alcuni cubetti di ghiaccio prima di uscire sul sentiero e l'acqua è rimasta ghiacciata per più di 5 ore. Quando fai un'escursione su terreni estivi asciutti, evitare che il tuo cane si surriscaldi è tutto. Acquisto 10/10.",
+    "translatedBody": "Dropped some ice cubes in before heading out on the trail and the water stayed ice cold for 5+ hours. When you're hiking in dry summer terrain, keeping your dog from overheating is everything. 10/10 purchase."
   },
   {
     "id": 7,
@@ -106,8 +106,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Clips securely onto my dog's harness or backpack with zero annoying bouncing while jogging",
-    "body": "Kugleformen er langt bedre afbalanceret end de høje cylindriske flasker, der svinger frem og tilbage, når du går. Clipsen er af metal og føles virkelig robust, ikke billig plastik, der klikker på uge to.",
-    "translatedBody": "The ball shape is way better balanced than those tall cylindrical bottles that swing back and forth when you walk. The clip is metal and feels really sturdy, not cheap plastic that snaps on week two."
+    "body": "Kugleformen er langt bedre afbalanceret end de høje cylindriske flasker, der svinger frem og tilbage, når du går. Clipsen er af metal og føles virkelig robust, ikke billig plastik, der klikker på uge to.",
+    "translatedBody": "The ball shape is way better balanced than those tall cylindrical bottles that swing back and forth when you walk. The clip is metal and feels really sturdy, not cheap plastic that snaps on week two."
   },
   {
     "id": 8,
@@ -121,8 +121,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Genuine 304 food-grade stainless steel with zero toxic plastic taste—our rescue pup refused every plastic bottle until we switched to this",
-    "body": "Lo probé con agua dejada adentro durante 24 horas solo para verlo. Todavía sabía 100% limpio y crujiente. Mi pastor alemán tiene un estómago súper sensible y esto ha sido completamente inodoro y fácil de enjuagar.",
-    "translatedBody": "Tested it with water left inside for 24 hours just to see. Still tasted 100% clean and crisp. My German Shepherd has a super sensitive stomach and this has been completely odorless and easy to rinse."
+    "body": "Lo probé con agua dejada adentro durante 24 horas solo para verlo. Todavía sabía 100% limpio y crujiente. Mi pastor alemán tiene un estómago súper sensible y esto ha sido completamente inodoro y fácil de enjuagar.",
+    "translatedBody": "Tested it with water left inside for 24 hours just to see. Still tasted 100% clean and crisp. My German Shepherd has a super sensitive stomach and this has been completely odorless and easy to rinse."
   },
   {
     "id": 9,
@@ -136,7 +136,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought the 2-pack bundle deal: one stays in the SUV cup holder and one by the front door leash",
-    "body": "Fits perfectly in the door bottle holder of my Subaru without rattling around. We use it literally every single day for post-walk hydration. Easily my favorite dog purchase this year."
+    "body": "Fits perfectly in the door bottle holder of my Subaru without rattling around. We use it literally every single day for post-walk hydration. Easily my favorite dog purchase this year."
   },
   {
     "id": 10,
@@ -150,8 +150,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Our rescue puppy was hesitant at first, but now he wags his tail and gets excited the second he sees me unclip this bottle",
-    "body": "Onze 4 maanden oude reddingspup was bang om op waterflessen te klikken. Hierdoor zijn er geen luide veren of klikkende knoppen. Je pelt het zachte siliconenbloemblaadje voorzichtig af en giet het. Hij vindt het nu geweldig.",
-    "translatedBody": "Our 4-month-old rescue pup was scared of clicking water bottles. With this, there are no loud springs or snapping buttons. You just gently peel the soft silicone petal back and pour. He loves it now."
+    "body": "Onze 4 maanden oude reddingspup was bang om op waterflessen te klikken. Hierdoor zijn er geen luide veren of klikkende knoppen. Je pelt het zachte siliconenbloemblaadje voorzichtig af en giet het. Hij vindt het nu geweldig.",
+    "translatedBody": "Our 4-month-old rescue pup was scared of clicking water bottles. With this, there are no loud springs or snapping buttons. You just gently peel the soft silicone petal back and pour. He loves it now."
   },
   {
     "id": 11,
@@ -165,8 +165,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "So much better than dirty communal park bowls",
-    "body": "Wspólne miski na wodę w naszym osiedlowym parku dla psów są zawsze wypełnione mętną śliną i błotem. Mój weterynarz powiedział mi, że w ten sposób psy zapadają na kaszel kenelowy i pasożyty. Teraz po prostu wyjmuję liść AquaSphere i podaję Belli świeżą, schłodzoną wodę.",
-    "translatedBody": "The communal water bowls at our neighborhood dog park are always filled with murky saliva and mud. My vet told me that's how dogs get kennel cough and parasites. Now I just pop the AquaSphere leaf out and give Bella fresh chilled water."
+    "body": "Wspólne miski na wodę w naszym osiedlowym parku dla psów są zawsze wypełnione mętną śliną i błotem. Mój weterynarz powiedział mi, że w ten sposób psy zapadają na kaszel kenelowy i pasożyty. Teraz po prostu wyjmuję liść AquaSphere i podaję Belli świeżą, schłodzoną wodę.",
+    "translatedBody": "The communal water bowls at our neighborhood dog park are always filled with murky saliva and mud. My vet told me that's how dogs get kennel cough and parasites. Now I just pop the AquaSphere leaf out and give Bella fresh chilled water."
   },
   {
     "id": 12,
@@ -180,8 +180,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Survived being dropped on concrete twice without spilling a single drop in the car",
-    "body": "Mein australischer Schäferhund war aufgeregt, als er ein Eichhörnchen jagte, und riss an der Leine, während ich die Flasche hielt. Direkt auf den Asphalt gefallen. Ich hatte nur einen kleinen kosmetischen Kratzer am Stahlboden, Silikonblatt und Gewinde waren völlig in Ordnung. Gebaut wie ein Panzer.",
-    "translatedBody": "My Australian Shepherd got excited chasing a squirrel and yanked the leash while I was holding the bottle. Dropped straight onto asphalt. Only got a small cosmetic scuff on the steel bottom, silicone leaf and threads were totally fine. Built like a tank."
+    "body": "Mein australischer Schäferhund war aufgeregt, als er ein Eichhörnchen jagte, und riss an der Leine, während ich die Flasche hielt. Direkt auf den Asphalt gefallen. Ich hatte nur einen kleinen kosmetischen Kratzer am Stahlboden, Silikonblatt und Gewinde waren völlig in Ordnung. Gebaut wie ein Panzer.",
+    "translatedBody": "My Australian Shepherd got excited chasing a squirrel and yanked the leash while I was holding the bottle. Dropped straight onto asphalt. Only got a small cosmetic scuff on the steel bottom, silicone leaf and threads were totally fine. Built like a tank."
   },
   {
     "id": 13,
@@ -195,8 +195,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher safe is a massive relief and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "La maggior parte delle bottiglie per animali domestici ha cannucce di plastica strette o valvole a molla che col tempo intrappolano la muffa nera grossolana. Essere in grado di smontarlo facilmente e pulire la sfera in acciaio inossidabile in lavastoviglie mi dà tranquillità.",
-    "translatedBody": "Most pet bottles have narrow plastic straws or spring valves that trap gross black mold over time. Being able to easily take this apart and clean the stainless steel sphere in the dishwasher gives me peace of mind."
+    "body": "La maggior parte delle bottiglie per animali domestici ha cannucce di plastica strette o valvole a molla che col tempo intrappolano la muffa nera grossolana. Essere in grado di smontarlo facilmente e pulire la sfera in acciaio inossidabile in lavastoviglie mi dà tranquillità.",
+    "translatedBody": "Most pet bottles have narrow plastic straws or spring valves that trap gross black mold over time. Being able to easily take this apart and clean the stainless steel sphere in the dishwasher gives me peace of mind."
   },
   {
     "id": 14,
@@ -210,8 +210,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Awesome bottle, wish they made a giant 1-liter version too - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "For våre vanlige 1-2 timers nabolagsturer og hundeparkturer er det perfekt. Men for en heldags backcountrycamping med to store hunder ville jeg elsket et større 32oz-alternativ. Byggekvaliteten og bladskåldesign er 5 stjerner.",
-    "translatedBody": "For our usual 1-2 hour neighborhood walks and dog park trips it's perfect. But for full-day backcountry camping with two big dogs I'd love a larger 32oz option. The build quality and leaf bowl design are 5 stars though."
+    "body": "For våre vanlige 1-2 timers nabolagsturer og hundeparkturer er det perfekt. Men for en heldags backcountrycamping med to store hunder ville jeg elsket et større 32oz-alternativ. Byggekvaliteten og bladskåldesign er 5 stjerner.",
+    "translatedBody": "For our usual 1-2 hour neighborhood walks and dog park trips it's perfect. But for full-day backcountry camping with two big dogs I'd love a larger 32oz option. The build quality and leaf bowl design are 5 stars though."
   },
   {
     "id": 15,
@@ -225,8 +225,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The Blush Pink color is gorgeous in sunlight and super lightweight to clip on a belt",
-    "body": "Dostal jsem ten růžový a je to takový jemný tlumený pastelový odstín, ne ten nevkusný neonový plastový vzhled. Krásně mi padne do rukou a můj maltipoo z něj bez váhání pije.",
-    "translatedBody": "I got the pink one and it is such a soft muted pastel shade, not that tacky neon plastic look. Fits nicely in my hands and my maltipoo drinks from it with no hesitation."
+    "body": "Dostal jsem ten růžový a je to takový jemný tlumený pastelový odstín, ne ten nevkusný neonový plastový vzhled. Krásně mi padne do rukou a můj maltipoo z něj bez váhání pije.",
+    "translatedBody": "I got the pink one and it is such a soft muted pastel shade, not that tacky neon plastic look. Fits nicely in my hands and my maltipoo drinks from it with no hesitation."
   },
   {
     "id": 16,
@@ -240,8 +240,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No more soggy dog backpacks after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Mon vieux bol pliable en silicone finissait toujours par être collant avec de la bave de chien et des aiguilles de pin avant de devoir le remettre dans mon sac. Le bol est ainsi fixé à la bouteille et se replie directement sur la buse. Propre et sec.",
-    "translatedBody": "My old collapsible silicone bowl always ended up sticky with dog drool and pine needles before I had to shove it back into my pack. With this, the bowl is attached to the bottle and folds right over the nozzle. Clean and dry."
+    "body": "Mon vieux bol pliable en silicone finissait toujours par être collant avec de la bave de chien et des aiguilles de pin avant de devoir le remettre dans mon sac. Le bol est ainsi fixé à la bouteille et se replie directement sur la buse. Propre et sec.",
+    "translatedBody": "My old collapsible silicone bowl always ended up sticky with dog drool and pine needles before I had to shove it back into my pack. With this, the bowl is attached to the bottle and folds right over the nozzle. Clean and dry."
   },
   {
     "id": 17,
@@ -255,8 +255,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My husband was skeptical, now he steals it for trail runs",
-    "body": "Il a littéralement dit « un autre gadget de chien ? » quand le colis est arrivé. Deux jours plus tard, il a emmené Buster faire une course de 5 miles et est revenu en disant que c'était l'équipement pour chien le plus intelligent que nous possédons mdr.",
-    "translatedBody": "He literally said 'another dog gimmick?' when the package arrived. Two days later he took Buster out for a 5-mile run and came back saying it's the smartest piece of dog gear we own lol."
+    "body": "Il a littéralement dit «un autre gadget de chien?» quand le colis est arrivé. Deux jours plus tard, il a emmené Buster faire une course de 5 miles et est revenu en disant que c'était l'équipement pour chien le plus intelligent que nous possédons mdr.",
+    "translatedBody": "He literally said'another dog gimmick?'when the package arrived. Two days later he took Buster out for a 5-mile run and came back saying it's the smartest piece of dog gear we own lol."
   },
   {
     "id": 18,
@@ -270,8 +270,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Worth every penny for trail safety on our daily morning neighborhood trail",
-    "body": "Beim Wandern in den kanadischen Rocky Mountains kann es im Juli schnell gefährlich warm werden. Ein isolierter Stahl, der das Wasser tatsächlich kalt hält, statt der warmen Plastiksuppe, ist für unseren Husky ein Muss.",
-    "translatedBody": "Hiking in the Canadian Rockies during July can get dangerously warm fast. Having insulated steel that actually keeps water cold instead of warm plastic soup is a must-have for our Husky."
+    "body": "Beim Wandern in den kanadischen Rocky Mountains kann es im Juli schnell gefährlich warm werden. Ein isolierter Stahl, der das Wasser tatsächlich kalt hält, statt der warmen Plastiksuppe, ist für unseren Husky ein Muss.",
+    "translatedBody": "Hiking in the Canadian Rockies during July can get dangerously warm fast. Having insulated steel that actually keeps water cold instead of warm plastic soup is a must-have for our Husky."
   },
   {
     "id": 19,
@@ -285,7 +285,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "One-handed operation while holding a pulling dog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "When you have a 60lb dog pulling on the leash with one hand, you don't have two hands free to unscrew lids and assemble bowls. You can flip the leaf and pour with one hand easily."
+    "body": "When you have a 60lb dog pulling on the leash with one hand, you don't have two hands free to unscrew lids and assemble bowls. You can flip the leaf and pour with one hand easily."
   },
   {
     "id": 20,
@@ -299,8 +299,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Perfect beach companion in San Diego",
-    "body": "L'acqua salata rende i cani così assetati così velocemente. Manteneva acqua fresca e fredda per il nostro scarabocchio dorato mentre correva sulla spiaggia e la foglia manteneva il foro per bere libero dalla sabbia.",
-    "translatedBody": "Saltwater makes dogs so thirsty so fast. Kept fresh cold water for our golden doodle while running on the beach and the leaf kept the drinking hole free of blowing sand."
+    "body": "L'acqua salata rende i cani così assetati così velocemente. Manteneva acqua fresca e fredda per il nostro scarabocchio dorato mentre correva sulla spiaggia e la foglia manteneva il foro per bere libero dalla sabbia.",
+    "translatedBody": "Saltwater makes dogs so thirsty so fast. Kept fresh cold water for our golden doodle while running on the beach and the leaf kept the drinking hole free of blowing sand."
   },
   {
     "id": 21,
@@ -314,8 +314,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Fast shipping to Toronto and nicely packaged",
-    "body": "Ankom innen 4 virkedager. Utpakkingen føltes virkelig førsteklasses, solid sylinderboks i papp. Flasken hadde null kjemisk lukt rett ut av innpakningen.",
-    "translatedBody": "Arrived in 4 business days. The unboxing felt really premium, sturdy cardboard cylinder box. Bottle had zero chemical smell right out of the wrap."
+    "body": "Ankom innen 4 virkedager. Utpakkingen føltes virkelig førsteklasses, solid sylinderboks i papp. Flasken hadde null kjemisk lukt rett ut av innpakningen.",
+    "translatedBody": "Arrived in 4 business days. The unboxing felt really premium, sturdy cardboard cylinder box. Bottle had zero chemical smell right out of the wrap."
   },
   {
     "id": 22,
@@ -329,8 +329,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Takes a day for dogs to get used to the leaf after our daily 5-mile forest walks",
-    "body": "Mijn reddingterriër snuffelde op de eerste dag ongeveer 10 minuten verdacht aan het blad. Eén keer heb ik een druppel pindakaas op de rand gelegd, hij dronk meteen op en nu associeert hij het blauwe blad met koud water.",
-    "translatedBody": "My rescue terrier sniffed the leaf suspiciously for about 10 minutes on day one. Once I put a drop of peanut butter on the edge he drank right up and now he associates the blue leaf with cold water."
+    "body": "Mijn reddingterriër snuffelde op de eerste dag ongeveer 10 minuten verdacht aan het blad. Eén keer heb ik een druppel pindakaas op de rand gelegd, hij dronk meteen op en nu associeert hij het blauwe blad met koud water.",
+    "translatedBody": "My rescue terrier sniffed the leaf suspiciously for about 10 minutes on day one. Once I put a drop of peanut butter on the edge he drank right up and now he associates the blue leaf with cold water."
   },
   {
     "id": 23,
@@ -344,7 +344,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my designer tote bag and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "I take my mini dachshund to work in downtown Chicago and toss this in my Longchamp bag alongside my iPad. Zero leaks, bone dry every single day."
+    "body": "I take my mini dachshund to work in downtown Chicago and toss this in my Longchamp bag alongside my iPad. Zero leaks, bone dry every single day."
   },
   {
     "id": 24,
@@ -358,8 +358,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential piece of kit for agility training - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Zwischen den Agility-Hindernisläufen braucht unser Border Collie einen schnellen Schluck kühles Wasser. Der AquaSphere lässt sich schnell einsetzen und verschüttet nichts auf den Gummimatten.",
-    "translatedBody": "Between agility obstacle runs our border collie needs quick sips of cool water. The AquaSphere is fast to deploy and doesn't spill on the rubber mats."
+    "body": "Zwischen den Agility-Hindernisläufen braucht unser Border Collie einen schnellen Schluck kühles Wasser. Der AquaSphere lässt sich schnell einsetzen und verschüttet nichts auf den Gummimatten.",
+    "translatedBody": "Between agility obstacle runs our border collie needs quick sips of cool water. The AquaSphere is fast to deploy and doesn't spill on the rubber mats."
   },
   {
     "id": 25,
@@ -373,8 +373,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Soft silicone is gentle on my senior dog's teeth - water stays ice cold all afternoon",
-    "body": "Meu beagle de 12 anos tem gengivas sensíveis e fica nervoso ao beber em tigelas de metal barulhentas. A folha de silicone de qualidade alimentar é supermacia e flexível para a boca.",
-    "translatedBody": "My 12-year-old beagle has sensitive gums and gets nervous drinking from clanky metal bowls. The food grade silicone leaf is super soft and flexible for his mouth."
+    "body": "Meu beagle de 12 anos tem gengivas sensíveis e fica nervoso ao beber em tigelas de metal barulhentas. A folha de silicone de qualidade alimentar é supermacia e flexível para a boca.",
+    "translatedBody": "My 12-year-old beagle has sensitive gums and gets nervous drinking from clanky metal bowls. The food grade silicone leaf is super soft and flexible for his mouth."
   },
   {
     "id": 26,
@@ -388,7 +388,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain back function is pure genius after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "If your dog only drinks half of what you pour, you tilt the bottle back and it flows right back into the stainless chamber. On hot trails where every ounce counts, this saves so much water."
+    "body": "If your dog only drinks half of what you pour, you tilt the bottle back and it flows right back into the stainless chamber. On hot trails where every ounce counts, this saves so much water."
   },
   {
     "id": 27,
@@ -402,8 +402,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Kept water chilly during a heatwave in Montreal",
-    "body": "Il faisait 32°C avec une forte humidité le week-end dernier. L'eau est restée fraîche pendant plus de 4 heures. Mon bouvier bernois était au paradis.",
-    "translatedBody": "It was 32°C with high humidity last weekend. Water stayed refreshingly cold for over 4 hours. My Bernese Mountain dog was in pure heaven."
+    "body": "Il faisait 32°C avec une forte humidité le week-end dernier. L'eau est restée fraîche pendant plus de 4 heures. Mon bouvier bernois était au paradis.",
+    "translatedBody": "It was 32°C with high humidity last weekend. Water stayed refreshingly cold for over 4 hours. My Bernese Mountain dog was in pure heaven."
   },
   {
     "id": 28,
@@ -417,8 +417,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Zero mold risk compared to plastic button bottles without spilling a single drop in the car",
-    "body": "Jeg smed to andre mærker væk, fordi sort gunk begyndte at vokse inde i den interne fjedermekanisme, som du ikke kan nå med en børste. AquaSphere er helt åben og mekanisk. Så meget mere hygiejnisk.",
-    "translatedBody": "I threw away two other brands because black gunk started growing inside the internal spring mechanism that you can't reach with a brush. AquaSphere is completely open and mechanical. So much more hygienic."
+    "body": "Jeg smed to andre mærker væk, fordi sort gunk begyndte at vokse inde i den interne fjedermekanisme, som du ikke kan nå med en børste. AquaSphere er helt åben og mekanisk. Så meget mere hygiejnisk.",
+    "translatedBody": "I threw away two other brands because black gunk started growing inside the internal spring mechanism that you can't reach with a brush. AquaSphere is completely open and mechanical. So much more hygienic."
   },
   {
     "id": 29,
@@ -432,8 +432,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Got the 2-pack for our two dogs - perfect keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Modrá pre Coopera a ružová pre Roxy. Teraz už nemusíme nosiť dve objemné misky a obrovskú fľašu. Každý z nich má svoju vlastnú hydratačnú sféru.",
-    "translatedBody": "Blue for Cooper and Pink for Roxy. Now we don't have to carry two bulky bowls and a giant bottle. They each have their own hydration sphere."
+    "body": "Modrá pre Coopera a ružová pre Roxy. Teraz už nemusíme nosiť dve objemné misky a obrovskú fľašu. Každý z nich má svoju vlastnú hydratačnú sféru.",
+    "translatedBody": "Blue for Cooper and Pink for Roxy. Now we don't have to carry two bulky bowls and a giant bottle. They each have their own hydration sphere."
   },
   {
     "id": 30,
@@ -447,7 +447,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Sturdy wrist strap doesn't dig into skin",
-    "body": "The braided nylon strap is wide enough that carrying the flask on your wrist for an hour doesn't leave red marks. Really well thought-out ergonomics."
+    "body": "The braided nylon strap is wide enough that carrying the flask on your wrist for an hour doesn't leave red marks. Really well thought-out ergonomics."
   },
   {
     "id": 31,
@@ -461,8 +461,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "Jag föraktade att rengöra de där gamla klämflaskorna med de smala stråna som alltid blev slemmiga av hundsaliv. Du skjuter bara tillbaka bladet, skruvar loss den breda munnen och sköljer. Tar bokstavligen 15 sekunder.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Jag föraktade att rengöra de där gamla klämflaskorna med de smala stråna som alltid blev slemmiga av hundsaliv. Du skjuter bara tillbaka bladet, skruvar loss den breda munnen och sköljer. Tar bokstavligen 15 sekunder.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 32,
@@ -476,8 +476,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Poodle - totally worth every single dollar",
-    "body": "Passt genau in unseren SUV-Getränkehalter. Immer wenn wir in der Nähe von Tampa, Florida, für einen kurzen Raststopp anhalten, schäle ich einfach das Blatt zurück, lasse Pip trinken und falte es wieder zusammen. Keine Unordnung auf den Rücksitzen.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "Passt genau in unseren SUV-Getränkehalter. Immer wenn wir in der Nähe von Tampa, Florida, für einen kurzen Raststopp anhalten, schäle ich einfach das Blatt zurück, lasse Pip trinken und falte es wieder zusammen. Keine Unordnung auf den Rücksitzen.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 33,
@@ -491,8 +491,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Bella. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Bella. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 34,
@@ -506,8 +506,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 35,
@@ -521,8 +521,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Took a couple tries for my puppy to get used to it and completely leakproof in my gym bag",
-    "body": "Waffles était un peu timide autour de la feuille de silicone le premier jour. Une fois qu’il s’est rendu compte que de l’eau froide sortait, il a compris. Maintenant, il en boit sans aucun problème.",
-    "translatedBody": "Waffles was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
+    "body": "Waffles était un peu timide autour de la feuille de silicone le premier jour. Une fois qu’il s’est rendu compte que de l’eau froide sortait, il a compris. Maintenant, il en boit sans aucun problème.",
+    "translatedBody": "Waffles was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
     "id": 36,
@@ -536,7 +536,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 37,
@@ -550,8 +550,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Chihuahua",
-    "body": "Als je in Ottawa, Ontario woont, worden zomerwandelingen behoorlijk snel zinderend. Archie raakte altijd uitgedroogd omdat gemeenschappelijke hondenkommen mij vies maakten. Deze fles houdt het ijs urenlang intact en het siliconenblad is zacht voor zijn mond. Totale gemoedsrust.",
-    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Als je in Ottawa, Ontario woont, worden zomerwandelingen behoorlijk snel zinderend. Archie raakte altijd uitgedroogd omdat gemeenschappelijke hondenkommen mij vies maakten. Deze fles houdt het ijs urenlang intact en het siliconenblad is zacht voor zijn mond. Totale gemoedsrust.",
+    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 38,
@@ -565,8 +565,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
-    "body": "Z děravých pet lahví jsem v minulosti zničil dvě tašky do tělocvičny. Těsnění na AquaSphere je ve skutečnosti vzduchotěsné. Hodil jsem to do kufru, když jsme šli nahoru na stezky poblíž Seattlu, Washington a neunikla ani kapka.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "Z děravých pet lahví jsem v minulosti zničil dvě tašky do tělocvičny. Těsnění na AquaSphere je ve skutečnosti vzduchotěsné. Hodil jsem to do kufru, když jsme šli nahoru na stezky poblíž Seattlu, Washington a neunikla ani kapka.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 39,
@@ -580,8 +580,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Bio sam malo zabrinut da bi Rosie mogla biti tvrdoglava što pije iz silikona, ali čim sam ulio hladnu vodu u korito za latice, počeo ju je pljuskati. Super ergonomski za držanje.",
-    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Bio sam malo zabrinut da bi Rosie mogla biti tvrdoglava što pije iz silikona, ali čim sam ulio hladnu vodu u korito za latice, počeo ju je pljuskati. Super ergonomski za držanje.",
+    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 40,
@@ -595,7 +595,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent",
-    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 41,
@@ -609,8 +609,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic",
-    "body": "Το βουρτσισμένο ατσάλι 304 αισθάνεται ουσιαστικό στην παλάμη σας. Χωρίς ωμή πλαστική μυρωδιά, χωρίς χημική γεύση. Η Μπέιλι πίνει χαρούμενα και φαίνεται τόσο κομψό κουμπωμένο στο πακέτο των γοφών μου.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Το βουρτσισμένο ατσάλι 304 αισθάνεται ουσιαστικό στην παλάμη σας. Χωρίς ωμή πλαστική μυρωδιά, χωρίς χημική γεύση. Η Μπέιλι πίνει χαρούμενα και φαίνεται τόσο κομψό κουμπωμένο στο πακέτο των γοφών μου.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 42,
@@ -624,7 +624,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs on our daily morning neighborhood trail",
-    "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 43,
@@ -638,8 +638,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 44,
@@ -653,8 +653,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Passt genau in unseren SUV-Getränkehalter. Immer wenn wir in der Nähe von Tampa, Florida, für einen kurzen Raststopp anhalten, schäle ich einfach das Blatt ab, lasse Winston trinken und falte es wieder zusammen. Keine Unordnung auf den Rücksitzen.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "Passt genau in unseren SUV-Getränkehalter. Immer wenn wir in der Nähe von Tampa, Florida, für einen kurzen Raststopp anhalten, schäle ich einfach das Blatt ab, lasse Winston trinken und falte es wieder zusammen. Keine Unordnung auf den Rücksitzen.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 45,
@@ -668,8 +668,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts - honestly the best pet gear I've bought",
-    "body": "Štandardné pet fľaše majú malé plastové poháre, ktoré roztlačia Finnove fúzy a tvár. Miska s listami sa otvára do širokej prírodnej naberačky, takže pije prirodzene bez toho, aby všade striekal.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Štandardné pet fľaše majú malé plastové poháre, ktoré roztlačia Finnove fúzy a tvár. Miska s listami sa otvára do širokej prírodnej naberačky, takže pije prirodzene bez toho, aby všade striekal.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 46,
@@ -683,7 +683,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 47,
@@ -697,8 +697,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this",
-    "body": "Buster wie, że niebieski liść oznacza czas na spacer! Wytrzymał nawet upuszczenie na kamienisty żwir, nadepnięcie i przypięcie do smyczy. Super wytrzymały silikon i wytrzymała stal.",
-    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Buster wie, że niebieski liść oznacza czas na spacer! Wytrzymał nawet upuszczenie na kamienisty żwir, nadepnięcie i przypięcie do smyczy. Super wytrzymały silikon i wytrzymała stal.",
+    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 48,
@@ -712,8 +712,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog - totally worth every single dollar",
-    "body": "Megmutattam ezt a nővéremnek az idahói Boise-i túránk után, és azonnal azt mondta, rendeljek egyet a kölykének. Megkaptuk a 2 csomagot, így mindegyikünknek van egy. 2026 legjobb kisállat-felszerelés vásárlása.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Megmutattam ezt a nővéremnek az idahói Boise-i túránk után, és azonnal azt mondta, rendeljek egyet a kölykének. Megkaptuk a 2 csomagot, így mindegyikünknek van egy. 2026 legjobb kisállat-felszerelés vásárlása.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 49,
@@ -727,8 +727,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Letné prechádzky, ktoré žijú v Halifaxe v Novom Škótsku, sú veľmi rýchlo sparné. Cooper bol dehydrovaný, pretože spoločné misky pre psov ma trápili. Táto banka udržuje ľad nedotknutý celé hodiny a silikónový list je mäkký na ústach. Úplný pokoj.",
-    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Letné prechádzky, ktoré žijú v Halifaxe v Novom Škótsku, sú veľmi rýchlo sparné. Cooper bol dehydrovaný, pretože spoločné misky pre psov ma trápili. Táto banka udržuje ľad nedotknutý celé hodiny a silikónový list je mäkký na ústach. Úplný pokoj.",
+    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 50,
@@ -742,7 +742,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack!",
-    "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 51,
@@ -756,8 +756,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Australian Shepherd caught onto it right away",
-    "body": "Estaba un poco preocupado de que Barnaby pudiera ser terco acerca de beber silicona, pero tan pronto como vertí agua fría en el recipiente de pétalos, comenzó a lamerla. Súper ergonómico para sostener también.",
-    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Estaba un poco preocupado de que Barnaby pudiera ser terco acerca de beber silicona, pero tan pronto como vertí agua fría en el recipiente de pétalos, comenzó a lamerla. Súper ergonómico para sostener también.",
+    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 52,
@@ -771,8 +771,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Love the design, hoping for an extra large size in the future without spilling a single drop in the car",
-    "body": "Pour nos sorties de 2 à 3 heures dans un parc pour chiens autour de San Diego, en Californie, il y a beaucoup d'eau. Mais pour des randonnées d’une journée complète en montagne avec un gros caniche, une option extra large de 1 litre serait incroyable.",
-    "translatedBody": "For our 2-3 hour dog park outings around San Diego, California it has plenty of water. But for full day mountain hikes with a big Poodle, an extra large 1-liter option would be amazing."
+    "body": "Pour nos sorties de 2 à 3 heures dans un parc pour chiens autour de San Diego, en Californie, il y a beaucoup d'eau. Mais pour des randonnées d’une journée complète en montagne avec un gros caniche, une option extra large de 1 litre serait incroyable.",
+    "translatedBody": "For our 2-3 hour dog park outings around San Diego, California it has plenty of water. But for full day mountain hikes with a big Poodle, an extra large 1-liter option would be amazing."
   },
   {
     "id": 53,
@@ -786,8 +786,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Det borstade 304 stålet känns rejält i handflatan. Ingen grov plastlukt, ingen kemisk smak. Daisy dricker glatt och det ser så snyggt ut med mitt höftpaket.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Det borstade 304 stålet känns rejält i handflatan. Ingen grov plastlukt, ingen kemisk smak. Daisy dricker glatt och det ser så snyggt ut med mitt höftpaket.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 54,
@@ -801,8 +801,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Bieganie z Zeusem w Portland w Oregonie wymaga noszenia wody, która nie odbija się niezręcznie od nogi. Kulista konstrukcja zapewnia doskonałą równowagę, a pasek na nadgarstek jest niezwykle wygodny.",
-    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Bieganie z Zeusem w Portland w Oregonie wymaga noszenia wody, która nie odbija się niezręcznie od nogi. Kulista konstrukcja zapewnia doskonałą równowagę, a pasek na nadgarstek jest niezwykle wygodny.",
+    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 55,
@@ -816,8 +816,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean and super lightweight to clip on a belt",
-    "body": "Disprezzavo pulire quelle vecchie bottiglie da spremere con le cannucce strette che diventavano sempre viscide con la saliva dei cani. Basta rimettere indietro la foglia, svitare l'ampia bocca e risciacquare. Richiede letteralmente 15 secondi.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Disprezzavo pulire quelle vecchie bottiglie da spremere con le cannucce strette che diventavano sempre viscide con la saliva dei cani. Basta rimettere indietro la foglia, svitare l'ampia bocca e risciacquare. Richiede letteralmente 15 secondi.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 56,
@@ -831,8 +831,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Ταιριάζει άνετα στη θήκη ποτηριών SUV. Κάθε φορά που κάνουμε μια γρήγορη στάση για ξεκούραση κοντά στην Τάμπα της Φλόριντα, απλά ξεφλουδίζω το φύλλο πίσω, αφήνω τον Pip να πιει και το διπλώνω ξανά. Κανένα χάος στα πίσω καθίσματα.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "Ταιριάζει άνετα στη θήκη ποτηριών SUV. Κάθε φορά που κάνουμε μια γρήγορη στάση για ξεκούραση κοντά στην Τάμπα της Φλόριντα, απλά ξεφλουδίζω το φύλλο πίσω, αφήνω τον Pip να πιει και το διπλώνω ξανά. Κανένα χάος στα πίσω καθίσματα.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 57,
@@ -846,8 +846,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts",
-    "body": "A normál kisállat-palackokban apró műanyag poharak vannak, amelyek összenyomják Bella bajuszát és arcát. A leveles tál széles natúr gombócba nyílik, így természetesen iszik anélkül, hogy mindenhova fröccsenne.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "A normál kisállat-palackokban apró műanyag poharak vannak, amelyek összenyomják Bella bajuszát és arcát. A leveles tál széles natúr gombócba nyílik, így természetesen iszik anélkül, hogy mindenhova fröccsenne.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 58,
@@ -861,8 +861,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
-    "body": "J'ai laissé l'AquaSphere dans la voiture alors que je faisais des courses à Salt Lake City, dans l'Utah. Je suis revenu en m'attendant à de l'eau tiède - non, toujours glacée ! L'acier isolé sous vide fait une énorme différence.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "J'ai laissé l'AquaSphere dans la voiture alors que je faisais des courses à Salt Lake City, dans l'Utah. Je suis revenu en m'attendant à de l'eau tiède - non, toujours glacée! L'acier isolé sous vide fait une énorme différence.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 59,
@@ -876,8 +876,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "¡Waffles sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
-    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "¡Waffles sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
+    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 60,
@@ -891,8 +891,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog",
-    "body": "Ik liet dit aan mijn zus zien na onze wandeling in Boise, Idaho, en ze zei meteen dat ik er een voor haar pup moest bestellen. Ik heb de 2-pack deal, dus we hebben er allemaal één. Beste aankoop van huisdieruitrusting van 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Ik liet dit aan mijn zus zien na onze wandeling in Boise, Idaho, en ze zei meteen dat ik er een voor haar pup moest bestellen. Ik heb de 2-pack deal, dus we hebben er allemaal één. Beste aankoop van huisdieruitrusting van 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 61,
@@ -906,8 +906,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Australian Shepherd",
-    "body": "Když žiješ ve Vancouveru, BC, letní procházky se docela rychle dusí. Archie míval dehydrataci, protože společné psí misky mě rozčilovaly. Tato baňka uchová led celé hodiny a silikonový list je měkký na jeho ústech. Naprostý klid.",
-    "translatedBody": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Když žiješ ve Vancouveru, BC, letní procházky se docela rychle dusí. Archie míval dehydrataci, protože společné psí misky mě rozčilovaly. Tato baňka uchová led celé hodiny a silikonový list je měkký na jeho ústech. Naprostý klid.",
+    "translatedBody": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 62,
@@ -921,7 +921,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
-    "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 63,
@@ -935,8 +935,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Ανησυχούσε λιγάκι η Ρόζι μήπως πεισμώνει να πίνει από σιλικόνη, αλλά μόλις έριξα δροσερό νερό στη γούρνα των πετάλων, άρχισε να το τυλίγει. Σούπερ εργονομικό και για κράτημα.",
-    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Ανησυχούσε λιγάκι η Ρόζι μήπως πεισμώνει να πίνει από σιλικόνη, αλλά μόλις έριξα δροσερό νερό στη γούρνα των πετάλων, άρχισε να το τυλίγει. Σούπερ εργονομικό και για κράτημα.",
+    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 64,
@@ -950,7 +950,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 65,
@@ -964,8 +964,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic - water stays ice cold all afternoon",
-    "body": "Der gebürstete 304-Stahl liegt angenehm in Ihrer Handfläche. Kein ekliger Plastikgeruch, kein chemischer Geschmack. Bailey trinkt glücklich und es sieht so elegant aus, wenn es an meiner Hüfttasche befestigt ist.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Der gebürstete 304-Stahl liegt angenehm in Ihrer Handfläche. Kein ekliger Plastikgeruch, kein chemischer Geschmack. Bailey trinkt glücklich und es sieht so elegant aus, wenn es an meiner Hüfttasche befestigt ist.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 66,
@@ -979,8 +979,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Correre con Penny a Portland, nell'Oregon, richiede di portare con sé dell'acqua senza che rimbalzi goffamente contro la gamba. Il design a sfera ha un ottimo equilibrio e il cinturino da polso è super confortevole.",
-    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Correre con Penny a Portland, nell'Oregon, richiede di portare con sé dell'acqua senza che rimbalzi goffamente contro la gamba. Il design a sfera ha un ottimo equilibrio e il cinturino da polso è super confortevole.",
+    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 67,
@@ -994,8 +994,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 68,
@@ -1009,8 +1009,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Rottweiler without spilling a single drop in the car",
-    "body": "Passer godt i vores SUV kopholder. Hver gang vi stopper for et hurtigt hvilestop nær Tampa, Florida, piller jeg bare bladet tilbage, lader Winston drikke og folder det op igen. Intet rod på bagsæderne.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "Passer godt i vores SUV kopholder. Hver gang vi stopper for et hurtigt hvilestop nær Tampa, Florida, piller jeg bare bladet tilbage, lader Winston drikke og folder det op igen. Intet rod på bagsæderne.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 69,
@@ -1024,8 +1024,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Great bottle, just slightly heavier than cheap plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Omdat het echt 304 roestvrij staal van voedingskwaliteit is, heeft het een beetje gewicht vergeleken met dunne plastic flessen. Maar het water blijft meer dan 5 uur koud in Halifax, Nova Scotia, dus de afweging is 100% de moeite waard.",
-    "translatedBody": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Halifax, Nova Scotia so the tradeoff is 100% worth it."
+    "body": "Omdat het echt 304 roestvrij staal van voedingskwaliteit is, heeft het een beetje gewicht vergeleken met dunne plastic flessen. Maar het water blijft meer dan 5 uur koud in Halifax, Nova Scotia, dus de afweging is 100% de moeite waard.",
+    "translatedBody": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Halifax, Nova Scotia so the tradeoff is 100% worth it."
   },
   {
     "id": 70,
@@ -1039,7 +1039,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons",
-    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 71,
@@ -1053,8 +1053,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this",
-    "body": "Buster ved, at det blå blad betyder gåtid! Den har holdt til at blive tabt på stenet grus, trådt på og klippet i snor. Super holdbar silikone og kraftigt stål.",
-    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Buster ved, at det blå blad betyder gåtid! Den har holdt til at blive tabt på stenet grus, trådt på og klippet i snor. Super holdbar silikone og kraftigt stål.",
+    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 72,
@@ -1068,8 +1068,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog - totally worth every single dollar",
-    "body": "Je l'ai montré à ma sœur après notre randonnée à Boise, Idaho et elle m'a immédiatement dit d'en commander un pour son chiot. J'ai reçu le pack de 2, donc nous en avons chacun un. Meilleur achat d’équipement pour animaux de compagnie de 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Je l'ai montré à ma sœur après notre randonnée à Boise, Idaho et elle m'a immédiatement dit d'en commander un pour son chiot. J'ai reçu le pack de 2, donc nous en avons chacun un. Meilleur achat d’équipement pour animaux de compagnie de 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 73,
@@ -1083,8 +1083,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Husky and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Vivant à Toronto, en Ontario, les promenades estivales deviennent assez vite étouffantes. Cooper était déshydraté parce que les gamelles communes pour chiens me dégoûtaient. Cette flasque garde la glace intacte pendant des heures et la feuille de silicone est douce pour sa bouche. Tranquillité d'esprit totale.",
-    "translatedBody": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Vivant à Toronto, en Ontario, les promenades estivales deviennent assez vite étouffantes. Cooper était déshydraté parce que les gamelles communes pour chiens me dégoûtaient. Cette flasque garde la glace intacte pendant des heures et la feuille de silicone est douce pour sa bouche. Tranquillité d'esprit totale.",
+    "translatedBody": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 74,
@@ -1098,8 +1098,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Jeg har ødelagt to treningsvesker tidligere fra lekke kjæledyrflasker. Forseglingen på AquaSphere er faktisk lufttett. Kastet den i bagasjerommet på vei opp til stiene nær Seattle, Washington, og ikke en eneste dråpe slapp unna.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "Jeg har ødelagt to treningsvesker tidligere fra lekke kjæledyrflasker. Forseglingen på AquaSphere er faktisk lufttett. Kastet den i bagasjerommet på vei opp til stiene nær Seattle, Washington, og ikke en eneste dråpe slapp unna.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 75,
@@ -1113,8 +1113,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Border Collie caught onto it right away and completely leakproof in my gym bag",
-    "body": "J'avais un peu peur que Barnaby soit têtu à l'idée de boire du silicone, mais dès que j'ai versé de l'eau fraîche dans le bac à pétales, il a commencé à la laper. Super ergonomique à tenir aussi.",
-    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "J'avais un peu peur que Barnaby soit têtu à l'idée de boire du silicone, mais dès que j'ai versé de l'eau fraîche dans le bac à pétales, il a commencé à la laper. Super ergonomique à tenir aussi.",
+    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 76,
@@ -1128,8 +1128,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Als u lange wandelingen maakt door San Diego, Californië, kunt u het zich niet veroorloven om elke keer dat uw hond stopt met drinken een half kopje water in de grond te gooien. Je kantelt hem gewoon naar achteren en bewaart het schone water voor later. Briljant ontwerp.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Als u lange wandelingen maakt door San Diego, Californië, kunt u het zich niet veroorloven om elke keer dat uw hond stopt met drinken een half kopje water in de grond te gooien. Je kantelt hem gewoon naar achteren en bewaart het schone water voor later. Briljant ontwerp.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 77,
@@ -1143,8 +1143,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic",
-    "body": "Der gebürstete 304-Stahl liegt angenehm in Ihrer Handfläche. Kein ekliger Plastikgeruch, kein chemischer Geschmack. Daisy trinkt glücklich und es sieht so elegant aus, wenn es an meiner Hüfttasche befestigt ist.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Der gebürstete 304-Stahl liegt angenehm in Ihrer Handfläche. Kein ekliger Plastikgeruch, kein chemischer Geschmack. Daisy trinkt glücklich und es sieht so elegant aus, wenn es an meiner Hüfttasche befestigt ist.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 78,
@@ -1158,8 +1158,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs after our daily 5-mile forest walks",
-    "body": "Alergarea cu Zeus în Portland, Oregon necesită să transportați apă fără ca aceasta să sară stângaci pe picior. Designul sferei are un echilibru excelent, iar cureaua de mână este super confortabilă.",
-    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Alergarea cu Zeus în Portland, Oregon necesită să transportați apă fără ca aceasta să sară stângaci pe picior. Designul sferei are un echilibru excelent, iar cureaua de mână este super confortabilă.",
+    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 79,
@@ -1173,7 +1173,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 80,
@@ -1187,7 +1187,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Labrador",
-    "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 81,
@@ -1201,8 +1201,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts",
-    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Bella. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Bella. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 82,
@@ -1216,8 +1216,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
-    "body": "J'ai laissé l'AquaSphere dans la voiture alors que je faisais des courses à Salt Lake City, dans l'Utah. Je suis revenu en m'attendant à de l'eau tiède - non, toujours glacée ! L'acier isolé sous vide fait une énorme différence.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "J'ai laissé l'AquaSphere dans la voiture alors que je faisais des courses à Salt Lake City, dans l'Utah. Je suis revenu en m'attendant à de l'eau tiède - non, toujours glacée! L'acier isolé sous vide fait une énorme différence.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 83,
@@ -1231,8 +1231,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Vafler ved, at det blå blad betyder gåtid! Den har holdt til at blive tabt på stenet grus, trådt på og klippet i snor. Super holdbar silikone og kraftigt stål.",
-    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Vafler ved, at det blå blad betyder gåtid! Den har holdt til at blive tabt på stenet grus, trådt på og klippet i snor. Super holdbar silikone og kraftigt stål.",
+    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 84,
@@ -1246,8 +1246,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "L'ho mostrato a mia sorella dopo la nostra escursione a Boise, nell'Idaho, e lei mi ha immediatamente detto di ordinarne uno per il suo cucciolo. Ho ottenuto l'offerta da 2 pacchi, quindi ne abbiamo uno ciascuno. Il miglior acquisto di attrezzatura per animali domestici del 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "L'ho mostrato a mia sorella dopo la nostra escursione a Boise, nell'Idaho, e lei mi ha immediatamente detto di ordinarne uno per il suo cucciolo. Ho ottenuto l'offerta da 2 pacchi, quindi ne abbiamo uno ciascuno. Il miglior acquisto di attrezzatura per animali domestici del 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 85,
@@ -1261,8 +1261,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Border Collie - honestly the best pet gear I've bought",
-    "body": "Vivant à Montréal, au Québec, les promenades estivales deviennent assez vite étouffantes. Archie était déshydraté parce que les gamelles communes pour chiens me dégoûtaient. Cette flasque garde la glace intacte pendant des heures et la feuille de silicone est douce pour sa bouche. Tranquillité d'esprit totale.",
-    "translatedBody": "Living in Montreal, Quebec, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Vivant à Montréal, au Québec, les promenades estivales deviennent assez vite étouffantes. Archie était déshydraté parce que les gamelles communes pour chiens me dégoûtaient. Cette flasque garde la glace intacte pendant des heures et la feuille de silicone est douce pour sa bouche. Tranquillité d'esprit totale.",
+    "translatedBody": "Living in Montreal, Quebec, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 86,
@@ -1276,7 +1276,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Took a couple tries for my puppy to get used to it after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Teddy was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
+    "body": "Teddy was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
     "id": 87,
@@ -1290,8 +1290,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Chihuahua caught onto it right away",
-    "body": "Var lite orolig att Rosie kunde vara envis när det gällde att dricka silikon, men så fort jag tippade kallt vatten i kronbladstråget började han slänga upp det. Super ergonomisk att hålla i också.",
-    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Var lite orolig att Rosie kunde vara envis när det gällde att dricka silikon, men så fort jag tippade kallt vatten i kronbladstråget började han slänga upp det. Super ergonomisk att hålla i också.",
+    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 88,
@@ -1305,8 +1305,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - totally worth every single dollar",
-    "body": "Lorsque vous faites de longues promenades autour de San Diego, en Californie, vous ne pouvez pas vous permettre de jeter une demi-tasse d'eau dans la terre à chaque fois que votre chien arrête de boire. Il vous suffit de l'incliner vers l'arrière et de conserver l'eau propre pour plus tard. Conception brillante.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Lorsque vous faites de longues promenades autour de San Diego, en Californie, vous ne pouvez pas vous permettre de jeter une demi-tasse d'eau dans la terre à chaque fois que votre chien arrête de boire. Il vous suffit de l'incliner vers l'arrière et de conserver l'eau propre pour plus tard. Conception brillante.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 89,
@@ -1320,7 +1320,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 90,
@@ -1334,8 +1334,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs",
-    "body": "At løbe med Penny i Portland, Oregon kræver, at du bærer vand, uden at det hopper akavet mod dit ben. Kugledesignet har god balance og håndledsremmen er super behagelig.",
-    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "At løbe med Penny i Portland, Oregon kræver, at du bærer vand, uden at det hopper akavet mod dit ben. Kugledesignet har god balance og håndledsremmen er super behagelig.",
+    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 91,
@@ -1349,8 +1349,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "Jeg foragtede at rense de gamle klemmeflasker med de smalle sugerør, der altid blev slimede af hundespyt. Du springer bare bladet tilbage, skruer den brede mund af og skyller. Tager bogstaveligt talt 15 sekunder.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Jeg foragtede at rense de gamle klemmeflasker med de smalle sugerør, der altid blev slimede af hundespyt. Du springer bare bladet tilbage, skruer den brede mund af og skyller. Tager bogstaveligt talt 15 sekunder.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 92,
@@ -1364,8 +1364,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Poodle without spilling a single drop in the car",
-    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, je laisse Winston boire et je la replie. Pas de dégâts sur les sièges arrière.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, je laisse Winston boire et je la replie. Pas de dégâts sur les sièges arrière.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 93,
@@ -1379,8 +1379,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Les bouteilles pour animaux de compagnie standard ont de minuscules gobelets en plastique qui écrasent les moustaches et le visage de Finn. Le bol à feuilles s'ouvre sur une large cuillère naturelle pour qu'il boive naturellement sans éclabousser partout.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Les bouteilles pour animaux de compagnie standard ont de minuscules gobelets en plastique qui écrasent les moustaches et le visage de Finn. Le bol à feuilles s'ouvre sur une large cuillère naturelle pour qu'il boive naturellement sans éclabousser partout.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 94,
@@ -1394,8 +1394,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Dejó el AquaSphere en el automóvil mientras hacía recados en el calor de Salt Lake City, Utah. Regresé esperando agua tibia; no, ¡todavía helada! El acero aislado al vacío marca una enorme diferencia.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Dejó el AquaSphere en el automóvil mientras hacía recados en el calor de Salt Lake City, Utah. Regresé esperando agua tibia; no, ¡todavía helada! El acero aislado al vacío marca una enorme diferencia.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 95,
@@ -1409,8 +1409,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this and super lightweight to clip on a belt",
-    "body": "¡Buster sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
-    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "¡Buster sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
+    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 96,
@@ -1424,8 +1424,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Ik liet dit aan mijn zus zien na onze wandeling in Boise, Idaho, en ze zei meteen dat ik er een voor haar pup moest bestellen. Ik heb de 2-pack deal, dus we hebben er allemaal één. Beste aankoop van huisdieruitrusting van 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Ik liet dit aan mijn zus zien na onze wandeling in Boise, Idaho, en ze zei meteen dat ik er een voor haar pup moest bestellen. Ik heb de 2-pack deal, dus we hebben er allemaal één. Beste aankoop van huisdieruitrusting van 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 97,
@@ -1439,8 +1439,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Chihuahua",
-    "body": "Wenn man in Ottawa, Ontario, lebt, wird es bei Sommerspaziergängen schnell schwül. Cooper war früher dehydriert, weil mich die gemeinschaftlichen Hundenäpfe ekelten. Diese Flasche hält das Eis stundenlang intakt und das Silikonblatt ist weich im Mund. Völlige Seelenfrieden.",
-    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Wenn man in Ottawa, Ontario, lebt, wird es bei Sommerspaziergängen schnell schwül. Cooper war früher dehydriert, weil mich die gemeinschaftlichen Hundenäpfe ekelten. Diese Flasche hält das Eis stundenlang intakt und das Silikonblatt ist weich im Mund. Völlige Seelenfrieden.",
+    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 98,
@@ -1454,8 +1454,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
-    "body": "J'ai déjà ruiné deux sacs de sport à cause de bouteilles en PET qui fuyaient. Le joint de l’AquaSphere est en réalité hermétique. Je l'ai jeté dans mon coffre en montant vers les sentiers près de Seattle, dans l'État de Washington, et pas une seule goutte ne s'est échappée.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "J'ai déjà ruiné deux sacs de sport à cause de bouteilles en PET qui fuyaient. Le joint de l’AquaSphere est en réalité hermétique. Je l'ai jeté dans mon coffre en montant vers les sentiers près de Seattle, dans l'État de Washington, et pas une seule goutte ne s'est échappée.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 99,
@@ -1469,8 +1469,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Ich hatte ein wenig Angst, dass Barnaby stur sein könnte, wenn es darum geht, aus Silikon zu trinken, aber als ich kühles Wasser in die Blütenschale schüttete, fing er an, es aufzuschlürfen. Auch super ergonomisch in der Hand.",
-    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Ich hatte ein wenig Angst, dass Barnaby stur sein könnte, wenn es darum geht, aus Silikon zu trinken, aber als ich kühles Wasser in die Blütenschale schüttete, fing er an, es aufzuschlürfen. Auch super ergonomisch in der Hand.",
+    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 100,
@@ -1484,7 +1484,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent",
-    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 101,
@@ -1498,8 +1498,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic",
-    "body": "O aço 304 escovado parece substancial na palma da mão. Nenhum cheiro forte de plástico, nenhum sabor químico. Daisy bebe alegremente e parece tão elegante preso na minha mochila.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "O aço 304 escovado parece substancial na palma da mão. Nenhum cheiro forte de plástico, nenhum sabor químico. Daisy bebe alegremente e parece tão elegante preso na minha mochila.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 102,
@@ -1513,8 +1513,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs after our daily 5-mile forest walks",
-    "body": "Zeusszal való futáshoz Portlandben, Oregon államban vizet kell hordani anélkül, hogy az esetlenül a lábához ugrálna. A gömb alakú kialakítás nagyszerű egyensúlyt biztosít, és a csuklópánt rendkívül kényelmes.",
-    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Zeusszal való futáshoz Portlandben, Oregon államban vizet kell hordani anélkül, hogy az esetlenül a lábához ugrálna. A gömb alakú kialakítás nagyszerű egyensúlyt biztosít, és a csuklópánt rendkívül kényelmes.",
+    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 103,
@@ -1528,8 +1528,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Love the design, hoping for an extra large size in the future and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Für unsere 2-3-stündigen Hundeparkausflüge rund um Nashville, Tennessee gibt es reichlich Wasser. Aber für ganztägige Bergwanderungen mit einem großen Husky wäre eine extra große 1-Liter-Option erstaunlich.",
-    "translatedBody": "For our 2-3 hour dog park outings around Nashville, Tennessee it has plenty of water. But for full day mountain hikes with a big Husky, an extra large 1-liter option would be amazing."
+    "body": "Für unsere 2-3-stündigen Hundeparkausflüge rund um Nashville, Tennessee gibt es reichlich Wasser. Aber für ganztägige Bergwanderungen mit einem großen Husky wäre eine extra große 1-Liter-Option erstaunlich.",
+    "translatedBody": "For our 2-3 hour dog park outings around Nashville, Tennessee it has plenty of water. But for full day mountain hikes with a big Husky, an extra large 1-liter option would be amazing."
   },
   {
     "id": 104,
@@ -1543,8 +1543,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Cabe perfectamente en nuestro portavasos SUV. Cada vez que nos detenemos para hacer una parada rápida para descansar cerca de Tampa, Florida, simplemente pelo la hoja, dejo que Pip beba y la vuelvo a doblar. No hay desorden en los asientos traseros.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "Cabe perfectamente en nuestro portavasos SUV. Cada vez que nos detenemos para hacer una parada rápida para descansar cerca de Tampa, Florida, simplemente pelo la hoja, dejo que Pip beba y la vuelvo a doblar. No hay desorden en los asientos traseros.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 105,
@@ -1558,8 +1558,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts - water stays ice cold all afternoon",
-    "body": "Sticlele standard pentru animale de companie au pahare minuscule de plastic care strivesc mustățile și fața Bellei. Vasul cu frunze de pe acesta se deschide într-o linguriță naturală largă, așa că bea în mod natural, fără să stropească peste tot.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Sticlele standard pentru animale de companie au pahare minuscule de plastic care strivesc mustățile și fața Bellei. Vasul cu frunze de pe acesta se deschide într-o linguriță naturală largă, așa că bea în mod natural, fără să stropească peste tot.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 106,
@@ -1573,8 +1573,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 107,
@@ -1588,8 +1588,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this",
-    "body": "Waffles sait que la feuille bleue signifie le temps de marche ! Il a résisté au fait d'être laissé tomber sur du gravier rocheux, de marcher dessus et d'être attaché à des laisses. Silicone super résistant et acier robuste.",
-    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Waffles sait que la feuille bleue signifie le temps de marche! Il a résisté au fait d'être laissé tomber sur du gravier rocheux, de marcher dessus et d'être attaché à des laisses. Silicone super résistant et acier robuste.",
+    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 108,
@@ -1603,8 +1603,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog without spilling a single drop in the car",
-    "body": "Habe dies meiner Schwester nach unserer Wanderung in Boise, Idaho, gezeigt und sie hat mir sofort gesagt, ich solle eines für ihren Welpen bestellen. Wir haben das 2er-Pack-Angebot erhalten, sodass jeder eines hat. Bester Kauf von Haustierausrüstung im Jahr 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Habe dies meiner Schwester nach unserer Wanderung in Boise, Idaho, gezeigt und sie hat mir sofort gesagt, ich solle eines für ihren Welpen bestellen. Wir haben das 2er-Pack-Angebot erhalten, sodass jeder eines hat. Bester Kauf von Haustierausrüstung im Jahr 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 109,
@@ -1618,8 +1618,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Vivendo ad Halifax, in Nuova Scozia, le passeggiate estive diventano soffocanti abbastanza rapidamente. Archie si disidratava perché le ciotole comuni per cani mi facevano schifo. Questa borraccia mantiene il ghiaccio intatto per ore e la foglia di silicone è morbida sulla bocca. Totale tranquillità.",
-    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Vivendo ad Halifax, in Nuova Scozia, le passeggiate estive diventano soffocanti abbastanza rapidamente. Archie si disidratava perché le ciotole comuni per cani mi facevano schifo. Questa borraccia mantiene il ghiaccio intatto per ore e la foglia di silicone è morbida sulla bocca. Totale tranquillità.",
+    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 110,
@@ -1633,8 +1633,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack!",
-    "body": "W przeszłości zniszczyłem dwie torby sportowe z powodu nieszczelnych butelek po zwierzętach. Uszczelnienie AquaSphere jest faktycznie szczelne. Wrzuciłem go do bagażnika w drodze na szlaki w pobliżu Seattle w stanie Waszyngton i nie wyciekła ani jedna kropla.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "W przeszłości zniszczyłem dwie torby sportowe z powodu nieszczelnych butelek po zwierzętach. Uszczelnienie AquaSphere jest faktycznie szczelne. Wrzuciłem go do bagażnika w drodze na szlaki w pobliżu Seattle w stanie Waszyngton i nie wyciekła ani jedna kropla.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 111,
@@ -1648,7 +1648,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Australian Shepherd caught onto it right away",
-    "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 112,
@@ -1662,8 +1662,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - totally worth every single dollar",
-    "body": "Když se vydáte na dlouhé procházky po San Diegu v Kalifornii, nemůžete si dovolit vylít půl šálku vody do hlíny pokaždé, když váš pes přestane pít. Stačí ji naklonit dozadu a čistou vodu si uložit na později. Brilantní design.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Když se vydáte na dlouhé procházky po San Diegu v Kalifornii, nemůžete si dovolit vylít půl šálku vody do hlíny pokaždé, když váš pes přestane pít. Stačí ji naklonit dozadu a čistou vodu si uložit na později. Brilantní design.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 113,
@@ -1677,8 +1677,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Kartáčovaná ocel 304 působí ve vaší dlani velmi dobře. Žádný hrubý plastový zápach, žádná chemická chuť. Bailey spokojeně pije a vypadá to tak uhlazeně, když je připnutý k mému batohu.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Kartáčovaná ocel 304 působí ve vaší dlani velmi dobře. Žádný hrubý plastový zápach, žádná chemická chuť. Bailey spokojeně pije a vypadá to tak uhlazeně, když je připnutý k mému batohu.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 114,
@@ -1692,8 +1692,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Hardlopen met Penny in Portland, Oregon vereist het dragen van water zonder dat het onhandig tegen je been stuitert. Het bolvormige ontwerp heeft een geweldige balans en de polsband is super comfortabel.",
-    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Hardlopen met Penny in Portland, Oregon vereist het dragen van water zonder dat het onhandig tegen je been stuitert. Het bolvormige ontwerp heeft een geweldige balans en de polsband is super comfortabel.",
+    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 115,
@@ -1707,8 +1707,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean and completely leakproof in my gym bag",
-    "body": "Jag föraktade att rengöra de där gamla klämflaskorna med de smala stråna som alltid blev slemmiga av hundsaliv. Du skjuter bara tillbaka bladet, skruvar loss den breda munnen och sköljer. Tar bokstavligen 15 sekunder.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Jag föraktade att rengöra de där gamla klämflaskorna med de smala stråna som alltid blev slemmiga av hundsaliv. Du skjuter bara tillbaka bladet, skruvar loss den breda munnen och sköljer. Tar bokstavligen 15 sekunder.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 116,
@@ -1722,8 +1722,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Ταιριάζει άνετα στη θήκη ποτηριών SUV. Κάθε φορά που κάνουμε μια γρήγορη στάση ξεκούρασης κοντά στην Τάμπα της Φλόριντα, απλώς ξεφλουδίζω το φύλλο, αφήνω τον Γουίνστον να πιει και το διπλώνω ξανά. Κανένα χάος στα πίσω καθίσματα.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "Ταιριάζει άνετα στη θήκη ποτηριών SUV. Κάθε φορά που κάνουμε μια γρήγορη στάση ξεκούρασης κοντά στην Τάμπα της Φλόριντα, απλώς ξεφλουδίζω το φύλλο, αφήνω τον Γουίνστον να πιει και το διπλώνω ξανά. Κανένα χάος στα πίσω καθίσματα.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 117,
@@ -1737,8 +1737,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts",
-    "body": "Standard kjæledyrflasker har bittesmå plastbeger som klemmer Finns værhår og ansikt. Bladskålen på denne åpner seg i en bred naturlig scoop slik at han drikker naturlig uten å sprute overalt.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Standard kjæledyrflasker har bittesmå plastbeger som klemmer Finns værhår og ansikt. Bladskålen på denne åpner seg i en bred naturlig scoop slik at han drikker naturlig uten å sprute overalt.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 118,
@@ -1752,8 +1752,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons after our daily 5-mile forest walks",
-    "body": "Zostawił AquaSphere w samochodzie, załatwiając sprawy w Salt Lake City w stanie Utah, w upale. Wróciłem, spodziewając się letniej wody – nie, wciąż lodowato zimna! Stal izolowana próżniowo robi ogromną różnicę.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Zostawił AquaSphere w samochodzie, załatwiając sprawy w Salt Lake City w stanie Utah, w upale. Wróciłem, spodziewając się letniej wody – nie, wciąż lodowato zimna! Stal izolowana próżniowo robi ogromną różnicę.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 119,
@@ -1767,7 +1767,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 120,
@@ -1781,8 +1781,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Great bottle, just slightly heavier than cheap plastic",
-    "body": "Da es sich um echten 304-Edelstahl in Lebensmittelqualität handelt, ist es im Vergleich zu dünnen Plastikflaschen etwas schwerer. Aber das Wasser bleibt in Boise, Idaho, mehr als 5 Stunden lang kalt, sodass sich der Kompromiss zu 100 % lohnt.",
-    "translatedBody": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Boise, Idaho so the tradeoff is 100% worth it."
+    "body": "Da es sich um echten 304-Edelstahl in Lebensmittelqualität handelt, ist es im Vergleich zu dünnen Plastikflaschen etwas schwerer. Aber das Wasser bleibt in Boise, Idaho, mehr als 5 Stunden lang kalt, sodass sich der Kompromiss zu 100 % lohnt.",
+    "translatedBody": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Boise, Idaho so the tradeoff is 100% worth it."
   },
   {
     "id": 121,
@@ -1796,7 +1796,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Australian Shepherd",
-    "body": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 122,
@@ -1810,8 +1810,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
-    "body": "Ich habe in der Vergangenheit zwei Sporttaschen durch undichte PET-Flaschen ruiniert. Der Verschluss des AquaSphere ist tatsächlich luftdicht. Ich warf es in meinem Kofferraum auf dem Weg zu den Wanderwegen in der Nähe von Seattle, Washington, und kein einziger Tropfen entkam.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "Ich habe in der Vergangenheit zwei Sporttaschen durch undichte PET-Flaschen ruiniert. Der Verschluss des AquaSphere ist tatsächlich luftdicht. Ich warf es in meinem Kofferraum auf dem Weg zu den Wanderwegen in der Nähe von Seattle, Washington, und kein einziger Tropfen entkam.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 123,
@@ -1825,7 +1825,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 124,
@@ -1839,8 +1839,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Als u lange wandelingen maakt door San Diego, Californië, kunt u het zich niet veroorloven om elke keer dat uw hond stopt met drinken een half kopje water in de grond te gooien. Je kantelt hem gewoon naar achteren en bewaart het schone water voor later. Briljant ontwerp.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Als u lange wandelingen maakt door San Diego, Californië, kunt u het zich niet veroorloven om elke keer dat uw hond stopt met drinken een half kopje water in de grond te gooien. Je kantelt hem gewoon naar achteren en bewaart het schone water voor later. Briljant ontwerp.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 125,
@@ -1854,8 +1854,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic - honestly the best pet gear I've bought",
-    "body": "Det borstade 304 stålet känns rejält i handflatan. Ingen grov plastlukt, ingen kemisk smak. Daisy dricker glatt och det ser så snyggt ut med mitt höftpaket.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Det borstade 304 stålet känns rejält i handflatan. Ingen grov plastlukt, ingen kemisk smak. Daisy dricker glatt och det ser så snyggt ut med mitt höftpaket.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 126,
@@ -1869,7 +1869,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 127,
@@ -1883,8 +1883,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "Jeg foragtede at rense de gamle klemmeflasker med de smalle sugerør, der altid blev slimede af hundespyt. Du springer bare bladet tilbage, skruer den brede mund af og skyller. Tager bogstaveligt talt 15 sekunder.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Jeg foragtede at rense de gamle klemmeflasker med de smalle sugerør, der altid blev slimede af hundespyt. Du springer bare bladet tilbage, skruer den brede mund af og skyller. Tager bogstaveligt talt 15 sekunder.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 128,
@@ -1898,8 +1898,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Rottweiler - totally worth every single dollar",
-    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, laisse Pip boire et la replie. Pas de dégâts sur les sièges arrière.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, laisse Pip boire et la replie. Pas de dégâts sur les sièges arrière.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 129,
@@ -1913,8 +1913,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Tavallisissa lemmikkipulloissa on pienet muovikupit, jotka puristavat Bellan viikset ja kasvot. Tämän lehtikulho avautuu leveäksi luonnonkauhaksi, joten hän juo luonnollisesti roiskumatta kaikkialle.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Tavallisissa lemmikkipulloissa on pienet muovikupit, jotka puristavat Bellan viikset ja kasvot. Tämän lehtikulho avautuu leveäksi luonnonkauhaksi, joten hän juo luonnollisesti roiskumatta kaikkialle.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 130,
@@ -1928,8 +1928,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons",
-    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 131,
@@ -1943,7 +1943,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this",
-    "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 132,
@@ -1957,8 +1957,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog without spilling a single drop in the car",
-    "body": "Visade detta för min syster efter vår vandring i Boise, Idaho och hon sa genast åt mig att beställa en till hennes valp. Fick 2-pack-erbjudandet så vi har var och en. Bästa köpet av husdjursutrustning 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Visade detta för min syster efter vår vandring i Boise, Idaho och hon sa genast åt mig att beställa en till hennes valp. Fick 2-pack-erbjudandet så vi har var och en. Bästa köpet av husdjursutrustning 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 133,
@@ -1972,7 +1972,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Husky and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 134,
@@ -1986,8 +1986,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "J'ai déjà ruiné deux sacs de sport à cause de bouteilles en PET qui fuyaient. Le joint de l’AquaSphere est en réalité hermétique. Je l'ai jeté dans mon coffre en montant vers les sentiers près de Seattle, dans l'État de Washington, et pas une seule goutte ne s'est échappée.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "J'ai déjà ruiné deux sacs de sport à cause de bouteilles en PET qui fuyaient. Le joint de l’AquaSphere est en réalité hermétique. Je l'ai jeté dans mon coffre en montant vers les sentiers près de Seattle, dans l'État de Washington, et pas une seule goutte ne s'est échappée.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 135,
@@ -2001,8 +2001,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Border Collie caught onto it right away and super lightweight to clip on a belt",
-    "body": "Era puțin îngrijorată că Rosie s-ar încăpățâna să bea din silicon, dar de îndată ce am băgat apă rece în jgheabul cu petale, a început să o lepădă. Super ergonomic pentru a ține și el.",
-    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Era puțin îngrijorată că Rosie s-ar încăpățâna să bea din silicon, dar de îndată ce am băgat apă rece în jgheabul cu petale, a început să o lepădă. Super ergonomic pentru a ține și el.",
+    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 136,
@@ -2016,8 +2016,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 137,
@@ -2031,8 +2031,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Took a couple tries for my puppy to get used to it",
-    "body": "Bailey var lite blyg kring silikonbladet den första dagen. När han insåg att kallt vatten kom ut fick han kläm på det. Nu dricker han ur det utan problem.",
-    "translatedBody": "Bailey was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
+    "body": "Bailey var lite blyg kring silikonbladet den första dagen. När han insåg att kallt vatten kom ut fick han kläm på det. Nu dricker han ur det utan problem.",
+    "translatedBody": "Bailey was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
     "id": 138,
@@ -2046,8 +2046,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs on our daily morning neighborhood trail",
-    "body": "Courir avec Penny à Portland, dans l'Oregon, nécessite de transporter de l'eau sans qu'elle rebondisse maladroitement contre votre jambe. La conception de la sphère est très équilibrée et la dragonne est super confortable.",
-    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Courir avec Penny à Portland, dans l'Oregon, nécessite de transporter de l'eau sans qu'elle rebondisse maladroitement contre votre jambe. La conception de la sphère est très équilibrée et la dragonne est super confortable.",
+    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 139,
@@ -2061,8 +2061,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 140,
@@ -2076,7 +2076,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Labrador",
-    "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 141,
@@ -2090,8 +2090,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts",
-    "body": "Tavallisissa lemmikkipulloissa on pienet muovikupit, jotka puristavat Finnin viikset ja kasvot. Tämän lehtikulho avautuu leveäksi luonnonkauhaksi, joten hän juo luonnollisesti roiskumatta kaikkialle.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Tavallisissa lemmikkipulloissa on pienet muovikupit, jotka puristavat Finnin viikset ja kasvot. Tämän lehtikulho avautuu leveäksi luonnonkauhaksi, joten hän juo luonnollisesti roiskumatta kaikkialle.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 142,
@@ -2105,7 +2105,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons after our daily 5-mile forest walks",
-    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 143,
@@ -2119,8 +2119,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Buster zna da plavi list znači vrijeme za šetnju! Izdržao je do pada na stjenoviti šljunak, stajanja na njega i vezivanja za povodce. Super izdržljivi silikon i čelik za teške uvjete rada.",
-    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Buster zna da plavi list znači vrijeme za šetnju! Izdržao je do pada na stjenoviti šljunak, stajanja na njega i vezivanja za povodce. Super izdržljivi silikon i čelik za teške uvjete rada.",
+    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 144,
@@ -2134,8 +2134,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Το έδειξε αυτό στην αδερφή μου μετά την πεζοπορία μας στο Boise του Idaho και μου είπε αμέσως να παραγγείλω ένα για το κουτάβι της. Λάβαμε την προσφορά των 2 πακέτων, ώστε να έχουμε ένα. Καλύτερη αγορά εξοπλισμού για κατοικίδια το 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Το έδειξε αυτό στην αδερφή μου μετά την πεζοπορία μας στο Boise του Idaho και μου είπε αμέσως να παραγγείλω ένα για το κουτάβι της. Λάβαμε την προσφορά των 2 πακέτων, ώστε να έχουμε ένα. Καλύτερη αγορά εξοπλισμού για κατοικίδια το 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 145,
@@ -2149,8 +2149,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Border Collie - water stays ice cold all afternoon",
-    "body": "Als je in Montreal, Quebec woont, worden zomerwandelingen behoorlijk snel zinderend. Cooper raakte altijd uitgedroogd omdat gemeenschappelijke hondenkommen mij vies maakten. Deze fles houdt het ijs urenlang intact en het siliconenblad is zacht voor zijn mond. Totale gemoedsrust.",
-    "translatedBody": "Living in Montreal, Quebec, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Als je in Montreal, Quebec woont, worden zomerwandelingen behoorlijk snel zinderend. Cooper raakte altijd uitgedroogd omdat gemeenschappelijke hondenkommen mij vies maakten. Deze fles houdt het ijs urenlang intact en het siliconenblad is zacht voor zijn mond. Totale gemoedsrust.",
+    "translatedBody": "Living in Montreal, Quebec, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 146,
@@ -2164,8 +2164,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Z děravých pet lahví jsem v minulosti zničil dvě tašky do tělocvičny. Těsnění na AquaSphere je ve skutečnosti vzduchotěsné. Hodil jsem to do kufru, když jsme šli nahoru na stezky poblíž Seattlu, Washington a neunikla ani kapka.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "Z děravých pet lahví jsem v minulosti zničil dvě tašky do tělocvičny. Těsnění na AquaSphere je ve skutečnosti vzduchotěsné. Hodil jsem to do kufru, když jsme šli nahoru na stezky poblíž Seattlu, Washington a neunikla ani kapka.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 147,
@@ -2179,8 +2179,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Chihuahua caught onto it right away",
-    "body": "J'avais un peu peur que Barnaby soit têtu à l'idée de boire du silicone, mais dès que j'ai versé de l'eau fraîche dans le bac à pétales, il a commencé à la laper. Super ergonomique à tenir aussi.",
-    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "J'avais un peu peur que Barnaby soit têtu à l'idée de boire du silicone, mais dès que j'ai versé de l'eau fraîche dans le bac à pétales, il a commencé à la laper. Super ergonomique à tenir aussi.",
+    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 148,
@@ -2194,8 +2194,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent without spilling a single drop in the car",
-    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 149,
@@ -2209,8 +2209,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "El acero 304 cepillado se siente sustancial en la palma de la mano. Sin olor desagradable a plástico ni sabor químico. Daisy bebe felizmente y se ve tan elegante sujeto a mi mochila.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "El acero 304 cepillado se siente sustancial en la palma de la mano. Sin olor desagradable a plástico ni sabor químico. Daisy bebe felizmente y se ve tan elegante sujeto a mi mochila.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 150,
@@ -2224,8 +2224,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs",
-    "body": "Beim Laufen mit Zeus in Portland, Oregon, müssen Sie Wasser tragen, ohne dass es unangenehm gegen Ihr Bein prallt. Das Kugeldesign ist gut ausbalanciert und die Handschlaufe ist super bequem.",
-    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Beim Laufen mit Zeus in Portland, Oregon, müssen Sie Wasser tragen, ohne dass es unangenehm gegen Ihr Bein prallt. Das Kugeldesign ist gut ausbalanciert und die Handschlaufe ist super bequem.",
+    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 151,
@@ -2239,7 +2239,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 152,
@@ -2253,8 +2253,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Poodle - totally worth every single dollar",
-    "body": "Pasuje idealnie do naszego uchwytu na kubek SUV. Ilekroć zatrzymujemy się na krótki odpoczynek w pobliżu Tampy na Florydzie, po prostu obieram liść, pozwalam Pipowi wypić i składam go z powrotem. Żadnego bałaganu na tylnych siedzeniach.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "Pasuje idealnie do naszego uchwytu na kubek SUV. Ilekroć zatrzymujemy się na krótki odpoczynek w pobliżu Tampy na Florydzie, po prostu obieram liść, pozwalam Pipowi wypić i składam go z powrotem. Żadnego bałaganu na tylnych siedzeniach.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 153,
@@ -2268,8 +2268,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Standard kjæledyrflasker har bittesmå plastkopper som klemmer Bellas værhår og ansikt. Bladskålen på denne åpner seg i en bred naturlig scoop slik at han drikker naturlig uten å sprute overalt.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Standard kjæledyrflasker har bittesmå plastkopper som klemmer Bellas værhår og ansikt. Bladskålen på denne åpner seg i en bred naturlig scoop slik at han drikker naturlig uten å sprute overalt.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 154,
@@ -2283,8 +2283,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Love the design, hoping for an extra large size in the future - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Podczas naszych 2-3-godzinnych wycieczek do parku dla psów w okolicach Salt Lake City w stanie Utah jest mnóstwo wody. Ale w przypadku całodniowych wędrówek po górach z dużym kundelkiem Rescue Mutt wyjątkowo duża opcja o pojemności 1 litra byłaby niesamowita.",
-    "translatedBody": "For our 2-3 hour dog park outings around Salt Lake City, Utah it has plenty of water. But for full day mountain hikes with a big Rescue Mutt, an extra large 1-liter option would be amazing."
+    "body": "Podczas naszych 2-3-godzinnych wycieczek do parku dla psów w okolicach Salt Lake City w stanie Utah jest mnóstwo wody. Ale w przypadku całodniowych wędrówek po górach z dużym kundelkiem Rescue Mutt wyjątkowo duża opcja o pojemności 1 litra byłaby niesamowita.",
+    "translatedBody": "For our 2-3 hour dog park outings around Salt Lake City, Utah it has plenty of water. But for full day mountain hikes with a big Rescue Mutt, an extra large 1-liter option would be amazing."
   },
   {
     "id": 155,
@@ -2298,8 +2298,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this and completely leakproof in my gym bag",
-    "body": "Vafler ved, at det blå blad betyder gåtid! Den har holdt til at blive tabt på stenet grus, trådt på og klippet i snor. Super holdbar silikone og kraftigt stål.",
-    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Vafler ved, at det blå blad betyder gåtid! Den har holdt til at blive tabt på stenet grus, trådt på og klippet i snor. Super holdbar silikone og kraftigt stål.",
+    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 156,
@@ -2313,8 +2313,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "L'ho mostrato a mia sorella dopo la nostra escursione a Boise, nell'Idaho, e lei mi ha immediatamente detto di ordinarne uno per il suo cucciolo. Ho ottenuto l'offerta da 2 pacchi, quindi ne abbiamo uno ciascuno. Il miglior acquisto di attrezzatura per animali domestici del 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "L'ho mostrato a mia sorella dopo la nostra escursione a Boise, nell'Idaho, e lei mi ha immediatamente detto di ordinarne uno per il suo cucciolo. Ho ottenuto l'offerta da 2 pacchi, quindi ne abbiamo uno ciascuno. Il miglior acquisto di attrezzatura per animali domestici del 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 157,
@@ -2328,8 +2328,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Chihuahua",
-    "body": "Vivant à Ottawa, en Ontario, les promenades estivales deviennent assez vite étouffantes. Archie était déshydraté parce que les gamelles communes pour chiens me dégoûtaient. Cette flasque garde la glace intacte pendant des heures et la feuille de silicone est douce pour sa bouche. Tranquillité d'esprit totale.",
-    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Vivant à Ottawa, en Ontario, les promenades estivales deviennent assez vite étouffantes. Archie était déshydraté parce que les gamelles communes pour chiens me dégoûtaient. Cette flasque garde la glace intacte pendant des heures et la feuille de silicone est douce pour sa bouche. Tranquillité d'esprit totale.",
+    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 158,
@@ -2343,8 +2343,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
-    "body": "J'ai déjà ruiné deux sacs de sport à cause de bouteilles en PET qui fuyaient. Le joint de l’AquaSphere est en réalité hermétique. Je l'ai jeté dans mon coffre en montant vers les sentiers près de Seattle, dans l'État de Washington, et pas une seule goutte ne s'est échappée.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "J'ai déjà ruiné deux sacs de sport à cause de bouteilles en PET qui fuyaient. Le joint de l’AquaSphere est en réalité hermétique. Je l'ai jeté dans mon coffre en montant vers les sentiers près de Seattle, dans l'État de Washington, et pas une seule goutte ne s'est échappée.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 159,
@@ -2358,7 +2358,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 160,
@@ -2372,8 +2372,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent",
-    "body": "Keď ste na dlhých prechádzkach po San Diegu v Kalifornii, nemôžete si dovoliť vyliať pol šálky vody do hliny zakaždým, keď váš pes prestane piť. Stačí ho nakloniť dozadu a čistú vodu si odložíte na neskôr. Brilantný dizajn.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Keď ste na dlhých prechádzkach po San Diegu v Kalifornii, nemôžete si dovoliť vyliať pol šálky vody do hliny zakaždým, keď váš pes prestane piť. Stačí ho nakloniť dozadu a čistú vodu si odložíte na neskôr. Brilantný dizajn.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 161,
@@ -2387,8 +2387,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic",
-    "body": "Det borstade 304 stålet känns rejält i handflatan. Ingen grov plastlukt, ingen kemisk smak. Bailey dricker glatt och det ser så snyggt ut med mitt höftpaket.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Det borstade 304 stålet känns rejält i handflatan. Ingen grov plastlukt, ingen kemisk smak. Bailey dricker glatt och det ser så snyggt ut med mitt höftpaket.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 162,
@@ -2402,8 +2402,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs on our daily morning neighborhood trail",
-    "body": "Beim Laufen mit Penny in Portland, Oregon, müssen Sie Wasser tragen, ohne dass es unangenehm gegen Ihr Bein prallt. Das Kugeldesign ist gut ausbalanciert und die Handschlaufe ist super bequem.",
-    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Beim Laufen mit Penny in Portland, Oregon, müssen Sie Wasser tragen, ohne dass es unangenehm gegen Ihr Bein prallt. Das Kugeldesign ist gut ausbalanciert und die Handschlaufe ist super bequem.",
+    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 163,
@@ -2417,8 +2417,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Nienawidziłem czyszczenia tych starych, wyciskanych butelek z wąskimi słomkami, które zawsze były oślizgłe od psiej śliny. Wystarczy odchylić liść, odkręcić szeroki otwór i przepłukać. Trwa dosłownie 15 sekund.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Nienawidziłem czyszczenia tych starych, wyciskanych butelek z wąskimi słomkami, które zawsze były oślizgłe od psiej śliny. Wystarczy odchylić liść, odkręcić szeroki otwór i przepłukać. Trwa dosłownie 15 sekund.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 164,
@@ -2432,8 +2432,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Pasuje idealnie do naszego uchwytu na kubek SUV. Ilekroć zatrzymujemy się na krótki odpoczynek w pobliżu Tampy na Florydzie, po prostu obieram liść, pozwalam Winstonowi wypić i składam go z powrotem. Żadnego bałaganu na tylnych siedzeniach.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "Pasuje idealnie do naszego uchwytu na kubek SUV. Ilekroć zatrzymujemy się na krótki odpoczynek w pobliżu Tampy na Florydzie, po prostu obieram liść, pozwalam Winstonowi wypić i składam go z powrotem. Żadnego bałaganu na tylnych siedzeniach.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 165,
@@ -2447,8 +2447,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts - honestly the best pet gear I've bought",
-    "body": "Τα τυπικά μπουκάλια για κατοικίδια έχουν μικροσκοπικά πλαστικά κύπελλα που στριμώχνουν τα μουστάκια και το πρόσωπο του Φιν. Το μπολ με φύλλα σε αυτό ανοίγει σε μια φαρδιά φυσική σέσουλα, ώστε να πίνει φυσικά χωρίς να πιτσιλίζει παντού.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Τα τυπικά μπουκάλια για κατοικίδια έχουν μικροσκοπικά πλαστικά κύπελλα που στριμώχνουν τα μουστάκια και το πρόσωπο του Φιν. Το μπολ με φύλλα σε αυτό ανοίγει σε μια φαρδιά φυσική σέσουλα, ώστε να πίνει φυσικά χωρίς να πιτσιλίζει παντού.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 166,
@@ -2462,8 +2462,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Jätti AquaSpheren autoon hoitaessaan asioita Salt Lake Cityssä, Utahissa. Tuli takaisin odottaen haaleaa vettä – ei, silti jääkylmää! Tyhjiöeristetyllä teräksellä on valtava ero.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Jätti AquaSpheren autoon hoitaessaan asioita Salt Lake Cityssä, Utahissa. Tuli takaisin odottaen haaleaa vettä – ei, silti jääkylmää! Tyhjiöeristetyllä teräksellä on valtava ero.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 167,
@@ -2477,8 +2477,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this",
-    "body": "Buster zna da plavi list znači vrijeme za šetnju! Izdržao je do pada na stjenoviti šljunak, stajanja na njega i vezivanja za povodce. Super izdržljivi silikon i čelik za teške uvjete rada.",
-    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Buster zna da plavi list znači vrijeme za šetnju! Izdržao je do pada na stjenoviti šljunak, stajanja na njega i vezivanja za povodce. Super izdržljivi silikon i čelik za teške uvjete rada.",
+    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 168,
@@ -2492,8 +2492,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog - totally worth every single dollar",
-    "body": "Viste dette til min søster efter vores vandretur i Boise, Idaho, og hun bad mig straks bestille en til hendes hvalp. Fik 2-pack deal, så vi har hver en. Bedste køb af kæledyrsudstyr i 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Viste dette til min søster efter vores vandretur i Boise, Idaho, og hun bad mig straks bestille en til hendes hvalp. Fik 2-pack deal, så vi har hver en. Bedste køb af kæledyrsudstyr i 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 169,
@@ -2507,8 +2507,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Wenn man in Halifax, Nova Scotia, lebt, wird es bei Sommerspaziergängen ziemlich schnell heiß. Cooper war früher dehydriert, weil mich die gemeinschaftlichen Hundenäpfe ekelten. Diese Flasche hält das Eis stundenlang intakt und das Silikonblatt ist weich im Mund. Völlige Seelenfrieden.",
-    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Wenn man in Halifax, Nova Scotia, lebt, wird es bei Sommerspaziergängen ziemlich schnell heiß. Cooper war früher dehydriert, weil mich die gemeinschaftlichen Hundenäpfe ekelten. Diese Flasche hält das Eis stundenlang intakt und das Silikonblatt ist weich im Mund. Völlige Seelenfrieden.",
+    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 170,
@@ -2522,8 +2522,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack!",
-    "body": "Já estraguei duas sacolas de ginástica no passado por causa de garrafas pet vazadas. O selo do AquaSphere é hermético. Joguei-o no meu porta-malas a caminho das trilhas perto de Seattle, Washington, e nem uma única gota escapou.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "Já estraguei duas sacolas de ginástica no passado por causa de garrafas pet vazadas. O selo do AquaSphere é hermético. Joguei-o no meu porta-malas a caminho das trilhas perto de Seattle, Washington, e nem uma única gota escapou.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 171,
@@ -2537,8 +2537,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Great bottle, just slightly heavier than cheap plastic",
-    "body": "Deoarece este oțel inoxidabil alimentar 304 autentic, are puțină greutate în comparație cu sticlele subțiri de plastic. Dar apa rămâne rece mai mult de 5 ore în Denver, Colorado, așa că schimbul merită 100%.",
-    "translatedBody": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Denver, Colorado so the tradeoff is 100% worth it."
+    "body": "Deoarece este oțel inoxidabil alimentar 304 autentic, are puțină greutate în comparație cu sticlele subțiri de plastic. Dar apa rămâne rece mai mult de 5 ore în Denver, Colorado, așa că schimbul merită 100%.",
+    "translatedBody": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Denver, Colorado so the tradeoff is 100% worth it."
   },
   {
     "id": 172,
@@ -2552,8 +2552,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent without spilling a single drop in the car",
-    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 173,
@@ -2567,8 +2567,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "El acero 304 cepillado se siente sustancial en la palma de la mano. Sin olor desagradable a plástico ni sabor químico. Daisy bebe felizmente y se ve tan elegante sujeto a mi mochila.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "El acero 304 cepillado se siente sustancial en la palma de la mano. Sin olor desagradable a plástico ni sabor químico. Daisy bebe felizmente y se ve tan elegante sujeto a mi mochila.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 174,
@@ -2582,8 +2582,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Courir avec Zeus à Portland, dans l’Oregon, nécessite de transporter de l’eau sans qu’elle rebondisse maladroitement contre votre jambe. La conception de la sphère est très équilibrée et la dragonne est super confortable.",
-    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Courir avec Zeus à Portland, dans l’Oregon, nécessite de transporter de l’eau sans qu’elle rebondisse maladroitement contre votre jambe. La conception de la sphère est très équilibrée et la dragonne est super confortable.",
+    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 175,
@@ -2597,8 +2597,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean and super lightweight to clip on a belt",
-    "body": "Utáltam azokat a régi kinyomott üvegeket a keskeny szívószálakkal tisztítani, amelyek mindig nyálkásodtak a kutyanyáltól. Csak pattintsa vissza a levelet, csavarja le a széles szájat, és öblítse le. Szó szerint 15 másodpercet vesz igénybe.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Utáltam azokat a régi kinyomott üvegeket a keskeny szívószálakkal tisztítani, amelyek mindig nyálkásodtak a kutyanyáltól. Csak pattintsa vissza a levelet, csavarja le a széles szájat, és öblítse le. Szó szerint 15 másodpercet vesz igénybe.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 176,
@@ -2612,8 +2612,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, laisse Pip boire et la replie. Pas de dégâts sur les sièges arrière.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, laisse Pip boire et la replie. Pas de dégâts sur les sièges arrière.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 177,
@@ -2627,8 +2627,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts",
-    "body": "Sticlele standard pentru animale de companie au pahare minuscule de plastic care strivesc mustățile și fața Bellei. Vasul cu frunze de pe acesta se deschide într-o linguriță naturală largă, așa că bea în mod natural, fără să stropească peste tot.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Sticlele standard pentru animale de companie au pahare minuscule de plastic care strivesc mustățile și fața Bellei. Vasul cu frunze de pe acesta se deschide într-o linguriță naturală largă, așa că bea în mod natural, fără să stropească peste tot.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 178,
@@ -2642,8 +2642,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
-    "body": "Deixei o AquaSphere no carro enquanto fazia algumas tarefas no calor de Salt Lake City, Utah. Voltei esperando água morna - não, ainda gelada! O aço isolado a vácuo faz uma enorme diferença.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Deixei o AquaSphere no carro enquanto fazia algumas tarefas no calor de Salt Lake City, Utah. Voltei esperando água morna - não, ainda gelada! O aço isolado a vácuo faz uma enorme diferença.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 179,
@@ -2657,7 +2657,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 180,
@@ -2671,8 +2671,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog",
-    "body": "Visade detta för min syster efter vår vandring i Boise, Idaho och hon sa genast åt mig att beställa en till hennes valp. Fick 2-pack-erbjudandet så vi har var och en. Bästa köpet av husdjursutrustning 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Visade detta för min syster efter vår vandring i Boise, Idaho och hon sa genast åt mig att beställa en till hennes valp. Fick 2-pack-erbjudandet så vi har var och en. Bästa köpet av husdjursutrustning 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 181,
@@ -2686,8 +2686,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Australian Shepherd",
-    "body": "Morando em Vancouver, BC, as caminhadas de verão ficam sufocantes rapidamente. Archie costumava ficar desidratado porque as tigelas comunitárias para cães me enojavam. Este frasco mantém o gelo intacto por horas e a folha de silicone é macia na boca. Tranquilidade total.",
-    "translatedBody": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Morando em Vancouver, BC, as caminhadas de verão ficam sufocantes rapidamente. Archie costumava ficar desidratado porque as tigelas comunitárias para cães me enojavam. Este frasco mantém o gelo intacto por horas e a folha de silicone é macia na boca. Tranquilidade total.",
+    "translatedBody": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 182,
@@ -2701,7 +2701,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack after our daily 5-mile forest walks",
-    "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 183,
@@ -2715,8 +2715,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Oli hieman huolissaan, että Rosie saattoi olla itsepäinen juomassa silikonia, mutta heti kun kaadin viileää vettä terälehtikaukaloon, hän alkoi lakata sitä. Super ergonominen myös pitää.",
-    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Oli hieman huolissaan, että Rosie saattoi olla itsepäinen juomassa silikonia, mutta heti kun kaadin viileää vettä terälehtikaukaloon, hän alkoi lakata sitä. Super ergonominen myös pitää.",
+    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 184,
@@ -2730,8 +2730,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 185,
@@ -2745,8 +2745,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic - water stays ice cold all afternoon",
-    "body": "L'acciaio 304 spazzolato dà una sensazione sostanziale nel palmo della mano. Nessun odore di plastica, nessun sapore chimico. Bailey beve allegramente e sembra così elegante agganciato al mio marsupio.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "L'acciaio 304 spazzolato dà una sensazione sostanziale nel palmo della mano. Nessun odore di plastica, nessun sapore chimico. Bailey beve allegramente e sembra così elegante agganciato al mio marsupio.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 186,
@@ -2760,7 +2760,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 187,
@@ -2774,7 +2774,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 188,
@@ -2788,8 +2788,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Took a couple tries for my puppy to get used to it without spilling a single drop in the car",
-    "body": "Winston var litt engstelig rundt silikonbladet den første dagen. Da han skjønte at kaldt vann kom ut, fikk han taket på det. Nå drikker han av det med null problemer.",
-    "translatedBody": "Winston was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
+    "body": "Winston var litt engstelig rundt silikonbladet den første dagen. Da han skjønte at kaldt vann kom ut, fikk han taket på det. Nå drikker han av det med null problemer.",
+    "translatedBody": "Winston was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
     "id": 189,
@@ -2803,8 +2803,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Standaard petflessen hebben kleine plastic bekertjes die Finns snorharen en gezicht platdrukken. De bladkom hierop komt uit in een brede, natuurlijke schep, zodat hij op natuurlijke wijze drinkt zonder overal te spetteren.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Standaard petflessen hebben kleine plastic bekertjes die Finns snorharen en gezicht platdrukken. De bladkom hierop komt uit in een brede, natuurlijke schep, zodat hij op natuurlijke wijze drinkt zonder overal te spetteren.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 190,
@@ -2818,8 +2818,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons",
-    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Habe die AquaSphere im Auto gelassen, als ich in der Hitze von Salt Lake City, Utah, Besorgungen machte. Als ich zurückkam, erwartete ich lauwarmes Wasser – nein, immer noch eiskalt! Der vakuumisolierte Stahl macht einen enormen Unterschied.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 191,
@@ -2833,7 +2833,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this",
-    "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 192,
@@ -2847,8 +2847,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog - totally worth every single dollar",
-    "body": "Habe dies meiner Schwester nach unserer Wanderung in Boise, Idaho, gezeigt und sie hat mir sofort gesagt, ich solle eines für ihren Welpen bestellen. Wir haben das 2er-Pack-Angebot erhalten, sodass jeder eines hat. Bester Kauf von Haustierausrüstung im Jahr 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Habe dies meiner Schwester nach unserer Wanderung in Boise, Idaho, gezeigt und sie hat mir sofort gesagt, ich solle eines für ihren Welpen bestellen. Wir haben das 2er-Pack-Angebot erhalten, sodass jeder eines hat. Bester Kauf von Haustierausrüstung im Jahr 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 193,
@@ -2862,8 +2862,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Husky and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Als je in Toronto, Ontario woont, worden zomerwandelingen behoorlijk snel zinderend. Cooper raakte altijd uitgedroogd omdat gemeenschappelijke hondenkommen mij vies maakten. Deze fles houdt het ijs urenlang intact en het siliconenblad is zacht voor zijn mond. Totale gemoedsrust.",
-    "translatedBody": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Als je in Toronto, Ontario woont, worden zomerwandelingen behoorlijk snel zinderend. Cooper raakte altijd uitgedroogd omdat gemeenschappelijke hondenkommen mij vies maakten. Deze fles houdt het ijs urenlang intact en het siliconenblad is zacht voor zijn mond. Totale gemoedsrust.",
+    "translatedBody": "Living in Toronto, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 194,
@@ -2877,8 +2877,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Olen pilannut aiemmin kaksi kuntosalilaukkua vuotavista lemmikkipulloista. AquaSpheren tiiviste on itse asiassa ilmatiivis. Heitin sen tavaratilaani matkallamme kohti polkuja lähellä Seattlen osavaltiossa Washingtonissa, eikä pisaraakaan karannut.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "Olen pilannut aiemmin kaksi kuntosalilaukkua vuotavista lemmikkipulloista. AquaSpheren tiiviste on itse asiassa ilmatiivis. Heitin sen tavaratilaani matkallamme kohti polkuja lähellä Seattlen osavaltiossa Washingtonissa, eikä pisaraakaan karannut.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 195,
@@ -2892,8 +2892,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Border Collie caught onto it right away and completely leakproof in my gym bag",
-    "body": "Ero un po' preoccupato che Barnaby potesse essere testardo nel bere dal silicone, ma non appena ho versato l'acqua fresca nel recipiente dei petali ha iniziato a leccarla. Super ergonomico anche da tenere in mano.",
-    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Ero un po'preoccupato che Barnaby potesse essere testardo nel bere dal silicone, ma non appena ho versato l'acqua fresca nel recipiente dei petali ha iniziato a leccarla. Super ergonomico anche da tenere in mano.",
+    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 196,
@@ -2907,7 +2907,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 197,
@@ -2921,8 +2921,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic",
-    "body": "Harjattu 304-teräs tuntuu tukevalta kämmenessäsi. Ei karkeaa muovin hajua, ei kemiallista makua. Daisy juo tyytyväisenä ja näyttää niin tyylikkäältä lantioreppuun leikattuna.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Harjattu 304-teräs tuntuu tukevalta kämmenessäsi. Ei karkeaa muovin hajua, ei kemiallista makua. Daisy juo tyytyväisenä ja näyttää niin tyylikkäältä lantioreppuun leikattuna.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 198,
@@ -2936,8 +2936,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs after our daily 5-mile forest walks",
-    "body": "Correr com Zeus em Portland, Oregon, exige carregar água sem que ela salte desajeitadamente em sua perna. O design da esfera tem ótimo equilíbrio e a pulseira é super confortável.",
-    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Correr com Zeus em Portland, Oregon, exige carregar água sem que ela salte desajeitadamente em sua perna. O design da esfera tem ótimo equilíbrio e a pulseira é super confortável.",
+    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 199,
@@ -2951,8 +2951,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Odiaba limpiar esas viejas botellas exprimibles con pajitas estrechas que siempre se volvían viscosas con la saliva de perro. Simplemente retira la hoja, desenrosca la boca ancha y enjuaga. Toma literalmente 15 segundos.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Odiaba limpiar esas viejas botellas exprimibles con pajitas estrechas que siempre se volvían viscosas con la saliva de perro. Simplemente retira la hoja, desenrosca la boca ancha y enjuaga. Toma literalmente 15 segundos.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 200,
@@ -2966,8 +2966,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Labrador",
-    "body": "Fits snugly in our SUV cup holder. Kad god se zaustavimo radi kratkog odmora u blizini Tampe na Floridi, samo odlijepim list, pustim Pipa da pije i ponovno ga presavijem. No mess on the back seats.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "Fits snugly in our SUV cup holder. Kad god se zaustavimo radi kratkog odmora u blizini Tampe na Floridi, samo odlijepim list, pustim Pipa da pije i ponovno ga presavijem. No mess on the back seats.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 201,
@@ -2981,8 +2981,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts",
-    "body": "Standardflaskor för husdjur har små plastmuggar som pressar Bellas morrhår och ansikte. Bladskålen på denna öppnar sig i en bred naturlig skopa så han dricker naturligt utan att stänka överallt.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Standardflaskor för husdjur har små plastmuggar som pressar Bellas morrhår och ansikte. Bladskålen på denna öppnar sig i en bred naturlig skopa så han dricker naturligt utan att stänka överallt.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 202,
@@ -2996,7 +2996,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons on our daily morning neighborhood trail",
-    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 203,
@@ -3010,8 +3010,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "¡Waffles sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
-    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "¡Waffles sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
+    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 204,
@@ -3025,8 +3025,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Megmutattam ezt a nővéremnek az idahói Boise-i túránk után, és azonnal azt mondta, rendeljek egyet a kölykének. Megkaptuk a 2 csomagot, így mindegyikünknek van egy. 2026 legjobb kisállat-felszerelés vásárlása.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Megmutattam ezt a nővéremnek az idahói Boise-i túránk után, és azonnal azt mondta, rendeljek egyet a kölykének. Megkaptuk a 2 csomagot, így mindegyikünknek van egy. 2026 legjobb kisállat-felszerelés vásárlása.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 205,
@@ -3040,8 +3040,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Love the design, hoping for an extra large size in the future - honestly the best pet gear I've bought",
-    "body": "Für unsere 2-3-stündigen Hundeparkausflüge rund um Montreal, Quebec, gibt es reichlich Wasser. Aber für ganztägige Bergwanderungen mit einem großen Border Collie wäre eine extra große 1-Liter-Option erstaunlich.",
-    "translatedBody": "For our 2-3 hour dog park outings around Montreal, Quebec it has plenty of water. But for full day mountain hikes with a big Border Collie, an extra large 1-liter option would be amazing."
+    "body": "Für unsere 2-3-stündigen Hundeparkausflüge rund um Montreal, Quebec, gibt es reichlich Wasser. Aber für ganztägige Bergwanderungen mit einem großen Border Collie wäre eine extra große 1-Liter-Option erstaunlich.",
+    "translatedBody": "For our 2-3 hour dog park outings around Montreal, Quebec it has plenty of water. But for full day mountain hikes with a big Border Collie, an extra large 1-liter option would be amazing."
   },
   {
     "id": 206,
@@ -3055,8 +3055,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "In passato ho rovinato due borse da palestra a causa di bottiglie di animali domestici che perdevano. Il sigillo sull'AquaSphere è in realtà ermetico. L'ho gettato nel bagagliaio mentre salivamo sui sentieri vicino a Seattle, Washington e non è scappata nemmeno una goccia.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "In passato ho rovinato due borse da palestra a causa di bottiglie di animali domestici che perdevano. Il sigillo sull'AquaSphere è in realtà ermetico. L'ho gettato nel bagagliaio mentre salivamo sui sentieri vicino a Seattle, Washington e non è scappata nemmeno una goccia.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 207,
@@ -3070,7 +3070,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Chihuahua caught onto it right away",
-    "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 208,
@@ -3084,8 +3084,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - totally worth every single dollar",
-    "body": "Lorsque vous faites de longues promenades autour de San Diego, en Californie, vous ne pouvez pas vous permettre de jeter une demi-tasse d'eau dans la terre à chaque fois que votre chien arrête de boire. Il vous suffit de l'incliner vers l'arrière et de conserver l'eau propre pour plus tard. Conception brillante.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Lorsque vous faites de longues promenades autour de San Diego, en Californie, vous ne pouvez pas vous permettre de jeter une demi-tasse d'eau dans la terre à chaque fois que votre chien arrête de boire. Il vous suffit de l'incliner vers l'arrière et de conserver l'eau propre pour plus tard. Conception brillante.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 209,
@@ -3099,8 +3099,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Der gebürstete 304-Stahl liegt angenehm in Ihrer Handfläche. Kein ekliger Plastikgeruch, kein chemischer Geschmack. Bailey trinkt glücklich und es sieht so elegant aus, wenn es an meiner Hüfttasche befestigt ist.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Der gebürstete 304-Stahl liegt angenehm in Ihrer Handfläche. Kein ekliger Plastikgeruch, kein chemischer Geschmack. Bailey trinkt glücklich und es sieht so elegant aus, wenn es an meiner Hüfttasche befestigt ist.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 210,
@@ -3114,8 +3114,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs",
-    "body": "Correr com Penny em Portland, Oregon, exige carregar água sem que ela bata desajeitadamente em sua perna. O design da esfera tem ótimo equilíbrio e a pulseira é super confortável.",
-    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Correr com Penny em Portland, Oregon, exige carregar água sem que ela bata desajeitadamente em sua perna. O design da esfera tem ótimo equilíbrio e a pulseira é super confortável.",
+    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 211,
@@ -3129,7 +3129,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 212,
@@ -3143,8 +3143,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Poodle without spilling a single drop in the car",
-    "body": "Sopii hyvin SUV-mukinpidikkeeseen. Aina kun pysähdymme nopeasti Tampan lähellä Floridassa, kuorin vain lehden takaisin, annan Winstonin juoda ja taitan sen takaisin ylös. Ei sotkua takapenkillä.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "Sopii hyvin SUV-mukinpidikkeeseen. Aina kun pysähdymme nopeasti Tampan lähellä Floridassa, kuorin vain lehden takaisin, annan Winstonin juoda ja taitan sen takaisin ylös. Ei sotkua takapenkillä.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 213,
@@ -3158,8 +3158,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Finn. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Finn. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 214,
@@ -3173,8 +3173,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Deixei o AquaSphere no carro enquanto fazia algumas tarefas no calor de Salt Lake City, Utah. Voltei esperando água morna - não, ainda gelada! O aço isolado a vácuo faz uma enorme diferença.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Deixei o AquaSphere no carro enquanto fazia algumas tarefas no calor de Salt Lake City, Utah. Voltei esperando água morna - não, ainda gelada! O aço isolado a vácuo faz uma enorme diferença.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 215,
@@ -3188,8 +3188,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this and super lightweight to clip on a belt",
-    "body": "Buster sa che la foglia blu significa tempo di cammino! Ha resistito all'essere lasciato cadere sulla ghiaia rocciosa, calpestato e agganciato ai guinzagli. Silicone super resistente e acciaio resistente.",
-    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "Buster sa che la foglia blu significa tempo di cammino! Ha resistito all'essere lasciato cadere sulla ghiaia rocciosa, calpestato e agganciato ai guinzagli. Silicone super resistente e acciaio resistente.",
+    "translatedBody": "Buster knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 216,
@@ -3203,8 +3203,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Ik liet dit aan mijn zus zien na onze wandeling in Boise, Idaho, en ze zei meteen dat ik er een voor haar pup moest bestellen. Ik heb de 2-pack deal, dus we hebben er allemaal één. Beste aankoop van huisdieruitrusting van 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Ik liet dit aan mijn zus zien na onze wandeling in Boise, Idaho, en ze zei meteen dat ik er een voor haar pup moest bestellen. Ik heb de 2-pack deal, dus we hebben er allemaal één. Beste aankoop van huisdieruitrusting van 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 217,
@@ -3218,8 +3218,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Chihuahua",
-    "body": "Når du bor i Ottawa, Ontario, blir sommerturer ganske fort sveltende. Cooper pleide å bli dehydrert fordi felles hundeskåler gjør meg utmattet. Denne kolben holder isen intakt i timevis og silikonbladet er mykt på munnen. Total fred i sinnet.",
-    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Når du bor i Ottawa, Ontario, blir sommerturer ganske fort sveltende. Cooper pleide å bli dehydrert fordi felles hundeskåler gjør meg utmattet. Denne kolben holder isen intakt i timevis og silikonbladet er mykt på munnen. Total fred i sinnet.",
+    "translatedBody": "Living in Ottawa, Ontario, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 218,
@@ -3233,8 +3233,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
-    "body": "In passato ho rovinato due borse da palestra a causa di bottiglie di animali domestici che perdevano. Il sigillo sull'AquaSphere è in realtà ermetico. L'ho gettato nel bagagliaio mentre salivamo sui sentieri vicino a Seattle, Washington e non è scappata nemmeno una goccia.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "In passato ho rovinato due borse da palestra a causa di bottiglie di animali domestici che perdevano. Il sigillo sull'AquaSphere è in realtà ermetico. L'ho gettato nel bagagliaio mentre salivamo sui sentieri vicino a Seattle, Washington e non è scappata nemmeno una goccia.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 219,
@@ -3248,8 +3248,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My French Bulldog caught onto it right away keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Var litt bekymret for at Barnaby kunne være sta til å drikke av silikon, men så snart jeg tippet kaldt vann i kronbladtrauet begynte han å la det opp. Super ergonomisk å holde også.",
-    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Var litt bekymret for at Barnaby kunne være sta til å drikke av silikon, men så snart jeg tippet kaldt vann i kronbladtrauet begynte han å la det opp. Super ergonomisk å holde også.",
+    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 220,
@@ -3263,8 +3263,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent",
-    "body": "Quando você faz longas caminhadas em San Diego, Califórnia, não pode se dar ao luxo de jogar meio copo de água na terra toda vez que seu cachorro para de beber. Basta incliná-lo para trás e guardar a água limpa para mais tarde. Design brilhante.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Quando você faz longas caminhadas em San Diego, Califórnia, não pode se dar ao luxo de jogar meio copo de água na terra toda vez que seu cachorro para de beber. Basta incliná-lo para trás e guardar a água limpa para mais tarde. Design brilhante.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 221,
@@ -3278,8 +3278,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic",
-    "body": "Det børstede 304 stål føles solidt i din håndflade. Ingen grov plastik lugt, ingen kemisk smag. Daisy drikker glad, og det ser så slankt ud på min hoftepakke.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Det børstede 304 stål føles solidt i din håndflade. Ingen grov plastik lugt, ingen kemisk smag. Daisy drikker glad, og det ser så slankt ud på min hoftepakke.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 222,
@@ -3293,7 +3293,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Great bottle, just slightly heavier than cheap plastic after our daily 5-mile forest walks",
-    "body": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Portland, Oregon so the tradeoff is 100% worth it."
+    "body": "Because it's genuine 304 food-grade stainless steel, it has a bit of weight to it compared to flimsy plastic bottles. But the water stays cold for 5+ hours in Portland, Oregon so the tradeoff is 100% worth it."
   },
   {
     "id": 223,
@@ -3307,8 +3307,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Opovrhoval som čistením tých starých stláčacích fliaš s úzkymi slamkami, ktoré sa vždy zaliali psími slinami. Stačí odložiť list, odskrutkovať široké ústa a opláchnuť. Trvá doslova 15 sekúnd.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Opovrhoval som čistením tých starých stláčacích fliaš s úzkymi slamkami, ktoré sa vždy zaliali psími slinami. Stačí odložiť list, odskrutkovať široké ústa a opláchnuť. Trvá doslova 15 sekúnd.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 224,
@@ -3322,8 +3322,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Rescue Mutt - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, laisse Pip boire et la replie. Pas de dégâts sur les sièges arrière.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "S'adapte parfaitement à notre porte-gobelet SUV. Chaque fois que nous nous arrêtons pour une halte rapide près de Tampa, en Floride, je décolle simplement la feuille, laisse Pip boire et la replie. Pas de dégâts sur les sièges arrière.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 225,
@@ -3337,8 +3337,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts - water stays ice cold all afternoon",
-    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Bella. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Las botellas para mascotas estándar tienen pequeños vasos de plástico que aplastan los bigotes y la cara de Bella. El cuenco de hojas se abre en una amplia pala natural para que beba de forma natural sin salpicar por todas partes.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Bella's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 226,
@@ -3352,8 +3352,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "A lăsat AquaSphere în mașină în timp ce făcea comisioane în Salt Lake City, Utah. M-am întors așteptând apă călduță — nu, încă rece ca gheața! Oțelul izolat în vid face o diferență enormă.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "A lăsat AquaSphere în mașină în timp ce făcea comisioane în Salt Lake City, Utah. M-am întors așteptând apă călduță — nu, încă rece ca gheața! Oțelul izolat în vid face o diferență enormă.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 227,
@@ -3367,8 +3367,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My dog gets visibly excited when I grab this",
-    "body": "¡Waffles sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
-    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
+    "body": "¡Waffles sabe que la hoja azul significa tiempo de caminar! Ha resistido que lo dejaran caer sobre grava rocosa, lo pisaran y lo sujetaran con correas. Silicona súper duradera y acero resistente.",
+    "translatedBody": "Waffles knows the blue leaf means walk time! It has held up to being dropped on rocky gravel, stepped on, and clipped to leashes. Super durable silicone and heavy duty steel."
   },
   {
     "id": 228,
@@ -3382,8 +3382,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog without spilling a single drop in the car",
-    "body": "Ukázala to mé sestře po naší túře v Boise ve státě Idaho a ona mi okamžitě řekla, abych jednu objednal pro její štěně. Dostali jsme nabídku 2 balení, takže každý máme jedno. Nejlepší nákup vybavení pro domácí mazlíčky v roce 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Ukázala to mé sestře po naší túře v Boise ve státě Idaho a ona mi okamžitě řekla, abych jednu objednal pro její štěně. Dostali jsme nabídku 2 balení, takže každý máme jedno. Nejlepší nákup vybavení pro domácí mazlíčky v roce 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 229,
@@ -3397,8 +3397,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my French Bulldog keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Al vivir en Halifax, Nueva Escocia, las caminatas de verano se vuelven sofocantes con bastante rapidez. Archie solía deshidratarse porque los tazones comunitarios para perros me daban asco. Esta petaca mantiene el hielo intacto durante horas y la hoja de silicona es suave en la boca. Tranquilidad total.",
-    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Al vivir en Halifax, Nueva Escocia, las caminatas de verano se vuelven sofocantes con bastante rapidez. Archie solía deshidratarse porque los tazones comunitarios para perros me daban asco. Esta petaca mantiene el hielo intacto durante horas y la hoja de silicona es suave en la boca. Tranquilidad total.",
+    "translatedBody": "Living in Halifax, Nova Scotia, summer walks get sweltering pretty quickly. Archie used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 230,
@@ -3412,8 +3412,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack!",
-    "body": "Já estraguei duas sacolas de ginástica no passado por causa de garrafas pet vazadas. O selo do AquaSphere é hermético. Joguei-o no meu porta-malas a caminho das trilhas perto de Seattle, Washington, e nem uma única gota escapou.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "Já estraguei duas sacolas de ginástica no passado por causa de garrafas pet vazadas. O selo do AquaSphere é hermético. Joguei-o no meu porta-malas a caminho das trilhas perto de Seattle, Washington, e nem uma única gota escapou.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 231,
@@ -3427,8 +3427,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Australian Shepherd caught onto it right away",
-    "body": "Kicsit aggódott, hogy Rosie makacs lesz, ha szilikonból iszik, de amint hideg vizet öntöttem a sziromvályúba, elkezdte felverni. Szuper ergonomikus a tartása is.",
-    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Kicsit aggódott, hogy Rosie makacs lesz, ha szilikonból iszik, de amint hideg vizet öntöttem a sziromvályúba, elkezdte felverni. Szuper ergonomikus a tartása is.",
+    "translatedBody": "Was a little worried Rosie might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 232,
@@ -3442,8 +3442,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - totally worth every single dollar",
-    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Wenn Sie auf langen Spaziergängen durch San Diego, Kalifornien, unterwegs sind, können Sie es sich nicht leisten, jedes Mal, wenn Ihr Hund aufhört zu trinken, eine halbe Tasse Wasser in den Dreck zu schütten. Sie kippen ihn einfach nach hinten und bewahren das saubere Wasser für später auf. Brillantes Design.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 233,
@@ -3457,8 +3457,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Harjattu 304-teräs tuntuu tukevalta kämmenessäsi. Ei karkeaa muovin hajua, ei kemiallista makua. Bailey juo tyytyväisenä ja se näyttää niin tyylikkäältä lantioreppuun leikattuna.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Harjattu 304-teräs tuntuu tukevalta kämmenessäsi. Ei karkeaa muovin hajua, ei kemiallista makua. Bailey juo tyytyväisenä ja se näyttää niin tyylikkäältä lantioreppuun leikattuna.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Bailey drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 234,
@@ -3472,8 +3472,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Correre con Penny a Portland, nell'Oregon, richiede di portare con sé dell'acqua senza che rimbalzi goffamente contro la gamba. Il design a sfera ha un ottimo equilibrio e il cinturino da polso è super confortevole.",
-    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Correre con Penny a Portland, nell'Oregon, richiede di portare con sé dell'acqua senza che rimbalzi goffamente contro la gamba. Il design a sfera ha un ottimo equilibrio e il cinturino da polso è super confortevole.",
+    "translatedBody": "Running with Penny in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 235,
@@ -3487,8 +3487,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean and completely leakproof in my gym bag",
-    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 236,
@@ -3502,8 +3502,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Dachshund after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Passer godt i vår SUV-koppholder. Hver gang vi stopper for en rask hvilestopp i nærheten av Tampa, Florida, skreller jeg bare bladet tilbake, lar Winston drikke og bretter det opp igjen. Ingen søl på baksetene.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
+    "body": "Passer godt i vår SUV-koppholder. Hver gang vi stopper for en rask hvilestopp i nærheten av Tampa, Florida, skreller jeg bare bladet tilbake, lar Winston drikke og bretter det opp igjen. Ingen søl på baksetene.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Winston drink, and fold it back up. No mess on the back seats."
   },
   {
     "id": 237,
@@ -3517,8 +3517,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Wide trough is ideal for wider snouts",
-    "body": "Τα τυπικά μπουκάλια για κατοικίδια έχουν μικροσκοπικά πλαστικά κύπελλα που στριμώχνουν τα μουστάκια και το πρόσωπο του Φιν. Το μπολ με φύλλα σε αυτό ανοίγει σε μια φαρδιά φυσική σέσουλα, ώστε να πίνει φυσικά χωρίς να πιτσιλίζει παντού.",
-    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
+    "body": "Τα τυπικά μπουκάλια για κατοικίδια έχουν μικροσκοπικά πλαστικά κύπελλα που στριμώχνουν τα μουστάκια και το πρόσωπο του Φιν. Το μπολ με φύλλα σε αυτό ανοίγει σε μια φαρδιά φυσική σέσουλα, ώστε να πίνει φυσικά χωρίς να πιτσιλίζει παντού.",
+    "translatedBody": "Standard pet bottles have tiny plastic cups that squash Finn's whiskers and face. The leaf bowl on this opens up into a wide natural scoop so he drinks naturally without splashing everywhere."
   },
   {
     "id": 238,
@@ -3532,8 +3532,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Stays ice cold during hot sunny afternoons after our daily 5-mile forest walks",
-    "body": "Ostavio AquaSphere u autu dok sam obavljao poslove po vrućini u Salt Lake Cityju, Utah. Vratio sam se očekujući mlaku vodu - ne, još uvijek ledeno hladnu! Vakuumski izolirani čelik čini ogromnu razliku.",
-    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
+    "body": "Ostavio AquaSphere u autu dok sam obavljao poslove po vrućini u Salt Lake Cityju, Utah. Vratio sam se očekujući mlaku vodu - ne, još uvijek ledeno hladnu! Vakuumski izolirani čelik čini ogromnu razliku.",
+    "translatedBody": "Left the AquaSphere in the car while running errands in Salt Lake City, Utah heat. Came back expecting lukewarm water—nope, still ice cold! The vacuum insulated steel makes an enormous difference."
   },
   {
     "id": 239,
@@ -3547,8 +3547,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★☆",
     "ratingValue": "4.0",
     "title": "Took a couple tries for my puppy to get used to it keeping the water freezing cold even during 90-degree sunny park afternoons in Texas",
-    "body": "Buster était un peu timide autour de la feuille de silicone le premier jour. Une fois qu’il s’est rendu compte que de l’eau froide sortait, il a compris. Maintenant, il en boit sans aucun problème.",
-    "translatedBody": "Buster was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
+    "body": "Buster était un peu timide autour de la feuille de silicone le premier jour. Une fois qu’il s’est rendu compte que de l’eau froide sortait, il a compris. Maintenant, il en boit sans aucun problème.",
+    "translatedBody": "Buster was a little timid around the silicone leaf for the first day. Once he realized cold water was coming out, he got the hang of it. Now he drinks from it with zero issues."
   },
   {
     "id": 240,
@@ -3562,8 +3562,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Bought a second one for my sister's dog",
-    "body": "Je l'ai montré à ma sœur après notre randonnée à Boise, Idaho et elle m'a immédiatement dit d'en commander un pour son chiot. J'ai reçu le pack de 2, donc nous en avons chacun un. Meilleur achat d’équipement pour animaux de compagnie de 2026.",
-    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
+    "body": "Je l'ai montré à ma sœur après notre randonnée à Boise, Idaho et elle m'a immédiatement dit d'en commander un pour son chiot. J'ai reçu le pack de 2, donc nous en avons chacun un. Meilleur achat d’équipement pour animaux de compagnie de 2026.",
+    "translatedBody": "Showed this to my sister after our hike in Boise, Idaho and she immediately told me to order one for her pup. Got the 2-pack deal so we each have one. Best pet gear purchase of 2026."
   },
   {
     "id": 241,
@@ -3577,7 +3577,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Hands down the cleanest way to hydrate my Australian Shepherd",
-    "body": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
+    "body": "Living in Vancouver, BC, summer walks get sweltering pretty quickly. Cooper used to get dehydrated because communal dog bowls gross me out. This flask keeps ice intact for hours and the silicone leaf is soft on his mouth. Total peace of mind."
   },
   {
     "id": 242,
@@ -3591,8 +3591,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "No leaks in my car or hiking pack on our daily morning neighborhood trail",
-    "body": "En el pasado, arruiné dos bolsas de gimnasia debido a botellas de mascotas con fugas. El sello del AquaSphere es realmente hermético. Lo arrojé en mi baúl en nuestro camino hacia los senderos cerca de Seattle, Washington y no se escapó ni una sola gota.",
-    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
+    "body": "En el pasado, arruiné dos bolsas de gimnasia debido a botellas de mascotas con fugas. El sello del AquaSphere es realmente hermético. Lo arrojé en mi baúl en nuestro camino hacia los senderos cerca de Seattle, Washington y no se escapó ni una sola gota.",
+    "translatedBody": "I have ruined two gym bags in the past from leaky pet bottles. The seal on the AquaSphere is actually airtight. Tossed it in my trunk on our way up to the trails near Seattle, Washington and not a single drop escaped."
   },
   {
     "id": 243,
@@ -3606,8 +3606,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "My Husky caught onto it right away and the silicone leaf bowl folds out smoothly with one hand while holding the leash with the other",
-    "body": "Ich hatte ein wenig Angst, dass Barnaby stur sein könnte, wenn es darum geht, aus Silikon zu trinken, aber als ich kühles Wasser in die Blütenschale schüttete, fing er an, es aufzuschlürfen. Auch super ergonomisch in der Hand.",
-    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
+    "body": "Ich hatte ein wenig Angst, dass Barnaby stur sein könnte, wenn es darum geht, aus Silikon zu trinken, aber als ich kühles Wasser in die Blütenschale schüttete, fing er an, es aufzuschlürfen. Auch super ergonomisch in der Hand.",
+    "translatedBody": "Was a little worried Barnaby might be stubborn about drinking from silicone, but as soon as I tipped cool water into the petal trough he started lapping it up. Super ergonomic to hold too."
   },
   {
     "id": 244,
@@ -3621,8 +3621,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "The drain-back trick is worth every cent - our senior German Shepherd with arthritis drinks so much more easily from the wide leaf contour without having to bend his neck down painfully into tiny cramped plastic dispensers",
-    "body": "Lorsque vous faites de longues promenades autour de San Diego, en Californie, vous ne pouvez pas vous permettre de jeter une demi-tasse d'eau dans la terre à chaque fois que votre chien arrête de boire. Il vous suffit de l'incliner vers l'arrière et de conserver l'eau propre pour plus tard. Conception brillante.",
-    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
+    "body": "Lorsque vous faites de longues promenades autour de San Diego, en Californie, vous ne pouvez pas vous permettre de jeter une demi-tasse d'eau dans la terre à chaque fois que votre chien arrête de boire. Il vous suffit de l'incliner vers l'arrière et de conserver l'eau propre pour plus tard. Conception brillante.",
+    "translatedBody": "When you're out on long trail walks around San Diego, California, you cannot afford to dump half a cup of water into the dirt every time your dog stops drinking. You just tilt it back and save the clean water for later. Brilliant design."
   },
   {
     "id": 245,
@@ -3636,8 +3636,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Feels like real premium gear, not cheap Amazon plastic - honestly the best pet gear I've bought",
-    "body": "Det børstede 304-stålet føles solid i håndflaten. Ingen grov plastlukt, ingen kjemisk smak. Daisy drikker glad, og det ser så elegant ut som festet til hoftesekken min.",
-    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
+    "body": "Det børstede 304-stålet føles solid i håndflaten. Ingen grov plastlukt, ingen kjemisk smak. Daisy drikker glad, og det ser så elegant ut som festet til hoftesekken min.",
+    "translatedBody": "The brushed 304 steel feels substantial in your palm. No gross plastic smell, no chemical taste. Daisy drinks happily and it looks so sleek clipped to my hip pack."
   },
   {
     "id": 246,
@@ -3651,8 +3651,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Surpassed my expectations on trail runs after testing 4 different plastic bottles that cracked, leaked, or tasted like chemical plastic",
-    "body": "Courir avec Zeus à Portland, dans l’Oregon, nécessite de transporter de l’eau sans qu’elle rebondisse maladroitement contre votre jambe. La conception de la sphère est très équilibrée et la dragonne est super confortable.",
-    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
+    "body": "Courir avec Zeus à Portland, dans l’Oregon, nécessite de transporter de l’eau sans qu’elle rebondisse maladroitement contre votre jambe. La conception de la sphère est très équilibrée et la dragonne est super confortable.",
+    "translatedBody": "Running with Zeus in Portland, Oregon requires carrying water without it bouncing awkwardly against your leg. The sphere design has great balance and the wrist strap is super comfortable."
   },
   {
     "id": 247,
@@ -3666,8 +3666,8 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Dishwasher friendly and super easy to keep clean",
-    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
-    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
+    "body": "Ich hasste es, diese alten Quetschflaschen mit den schmalen Strohhalmen zu reinigen, die immer vom Hundespeichel schleimig wurden. Sie klappen einfach das Blatt zurück, schrauben die weite Öffnung ab und spülen es aus. Dauert buchstäblich 15 Sekunden.",
+    "translatedBody": "I despised cleaning those old squeeze bottles with the narrow straws that always got slimy with dog saliva. You just pop the leaf back, unscrew the wide mouth, and rinse. Takes literally 15 seconds."
   },
   {
     "id": 248,
@@ -3681,7 +3681,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "Essential for road trips with our Rottweiler - totally worth every single dollar",
-    "body": "Passar perfekt i vår SUV mugghållare. Varje gång vi stannar för en snabb vila nära Tampa, Florida, drar jag bara tillbaka bladet, låter Pip dricka och viker upp det igen. Inget stök på baksätena.",
-    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
+    "body": "Passar perfekt i vår SUV mugghållare. Varje gång vi stannar för en snabb vila nära Tampa, Florida, drar jag bara tillbaka bladet, låter Pip dricka och viker upp det igen. Inget stök på baksätena.",
+    "translatedBody": "Fits snugly in our SUV cup holder. Whenever we pull over for a quick rest stop near Tampa, Florida, I just peel the leaf back, let Pip drink, and fold it back up. No mess on the back seats."
   }
 ];

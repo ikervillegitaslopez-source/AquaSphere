@@ -1790,6 +1790,9 @@ button {
 }
 
 .review-body {
+  text-wrap: pretty;
+  word-break: normal;
+  overflow-wrap: break-word;
   font-size: clamp(0.88rem, 2vw, 0.95rem);
   color: #334155;
   line-height: 1.7;
