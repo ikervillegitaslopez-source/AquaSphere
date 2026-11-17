@@ -688,7 +688,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ${headerActionHTML}
         </div>
         <div class="review-body" data-original="${bodyText}" data-translated="${transText}">
-          "${r.body}"
+          ${r.body}
         </div>
         <div class="review-footer">
           <span class="helpful-label">Was this review helpful?</span>
@@ -716,11 +716,11 @@ document.addEventListener('DOMContentLoaded', () => {
       const transText = bodyEl.getAttribute('data-translated');
 
       if (isTranslated) {
-        bodyEl.textContent = `"${transText}"`;
+        bodyEl.textContent = transText;
         translateBtn.setAttribute('title', 'Show original language');
         translateBtn.setAttribute('aria-label', 'Show original language');
       } else {
-        bodyEl.textContent = `"${origText}"`;
+        bodyEl.textContent = origText;
         translateBtn.setAttribute('title', 'Translate to English');
         translateBtn.setAttribute('aria-label', 'Translate to English');
       }

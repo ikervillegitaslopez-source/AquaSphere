@@ -1630,7 +1630,7 @@ button {
   background: #ffffff;
   border: 1px solid #e2e8f0;
   border-radius: 18px;
-  padding: 26px 28px;
+  padding: 22px 24px 18px 24px;
   box-shadow: 0 4px 18px -2px rgba(15, 23, 42, 0.04), 0 1px 3px rgba(15, 23, 42, 0.02);
   display: flex;
   flex-direction: column;
@@ -1803,14 +1803,14 @@ button {
   text-wrap: pretty;
   word-break: normal;
   overflow-wrap: break-word;
-  font-size: clamp(0.88rem, 2vw, 0.95rem);
+  font-size: 0.95rem;
   color: #334155;
-  line-height: 1.7;
-  margin: 16px 0 20px 0;
+  line-height: 1.68;
+  margin: 0 0 16px 0;
   padding: 0;
   flex-grow: 1;
   font-weight: 400;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.012em;
 }
 
 .review-variant-tag {
@@ -1818,8 +1818,8 @@ button {
 }
 
 .review-footer {
-  border-top: 1px solid var(--slate-100);
-  padding-top: 14px;
+  border-top: 1px solid #f1f5f9;
+  padding-top: 12px;
   margin-top: auto;
   display: flex;
   align-items: center;
@@ -2689,8 +2689,19 @@ button {
     gap: 20px;
   }
   .review-card {
-    padding: 24px 26px;
+    padding: 20px 22px 16px 22px;
     border-radius: 16px;
+  }
+  .review-header {
+    margin-bottom: 10px;
+  }
+  .review-body {
+    font-size: 0.92rem;
+    line-height: 1.64;
+    margin: 0 0 14px 0;
+  }
+  .review-footer {
+    padding-top: 11px;
   }
   .footer-grid {
     grid-template-columns: 1fr 1fr;
@@ -2763,8 +2774,19 @@ button {
     gap: 16px;
   }
   .review-card {
-    padding: 22px 20px !important;
+    padding: 18px 20px 15px 20px !important;
     border-radius: 16px;
+  }
+  .review-header {
+    margin-bottom: 10px;
+  }
+  .review-body {
+    font-size: 0.90rem;
+    line-height: 1.60;
+    margin: 0 0 13px 0;
+  }
+  .review-footer {
+    padding-top: 10px;
   }
 }
 
@@ -2924,8 +2946,16 @@ button {
     word-break: keep-all !important;
   }
   .review-card {
-    padding: 20px 18px !important;
+    padding: 16px 16px 13px 16px !important;
     border-radius: 16px;
+  }
+  .review-header {
+    margin-bottom: 9px;
+  }
+  .review-body {
+    font-size: 0.88rem;
+    line-height: 1.58;
+    margin: 0 0 12px 0;
   }
   .review-footer {
     padding-top: 10px;
@@ -3006,8 +3036,16 @@ button {
     word-break: keep-all !important;
   }
   .review-card {
-    padding: 16px 14px !important;
+    padding: 15px 14px 12px 14px !important;
     border-radius: 14px;
+  }
+  .review-header {
+    margin-bottom: 8px;
+  }
+  .review-body {
+    font-size: 0.86rem;
+    line-height: 1.55;
+    margin: 0 0 10px 0;
   }
   .review-footer {
     padding-top: 8px;
@@ -3772,7 +3810,7 @@ iframe[style*="bottom:0;right:0"] {
             </button>
           </div>
           <div class="review-body" data-original="Einfach nur genial! Mein Schäferhund hat sonst jede Flasche verweigert, aber aus dem weichen Blatt trinkt er super gerne. Das Wasser bleibt stundenlang richtig eiskalt und im Rucksack läuft null aus. Bin mega zufrieden!" data-translated="Honestly brilliant! My shepherd usually refuses any bottle, but he drinks right out of the soft leaf without hesitation. Water stays genuinely ice-cold for hours and zero leaks in my pack. Super happy with it!">
-            "Einfach nur genial! Mein Schäferhund hat sonst jede Flasche verweigert, aber aus dem weichen Blatt trinkt er super gerne. Das Wasser bleibt stundenlang richtig eiskalt und im Rucksack läuft null aus. Bin mega zufrieden!"
+            Einfach nur genial! Mein Schäferhund hat sonst jede Flasche verweigert, aber aus dem weichen Blatt trinkt er super gerne. Das Wasser bleibt stundenlang richtig eiskalt und im Rucksack läuft null aus. Bin mega zufrieden!
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -3803,7 +3841,7 @@ iframe[style*="bottom:0;right:0"] {
             
           </div>
           <div class="review-body" data-original="Honestly such a lifesaver. My dog Leo used to refuse drinking away from home because those cheap plastic flip trays are too small and squish his face. With this soft leaf he drinks right away, and water actually stays ice-cold in the Texas heat. So glad I bought this!" data-translated="Honestly such a lifesaver. My dog Leo used to refuse drinking away from home because those cheap plastic flip trays are too small and squish his face. With this soft leaf he drinks right away, and water actually stays ice-cold in the Texas heat. So glad I bought this!">
-            "Honestly such a lifesaver. My dog Leo used to refuse drinking away from home because those cheap plastic flip trays are too small and squish his face. With this soft leaf he drinks right away, and water actually stays ice-cold in the Texas heat. So glad I bought this!"
+            Honestly such a lifesaver. My dog Leo used to refuse drinking away from home because those cheap plastic flip trays are too small and squish his face. With this soft leaf he drinks right away, and water actually stays ice-cold in the Texas heat. So glad I bought this!
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -3840,7 +3878,7 @@ iframe[style*="bottom:0;right:0"] {
             </button>
           </div>
           <div class="review-body" data-original="Franchement bluffée! J'en avais marre des bouteilles en plastique qui fuient partout dans le sac. Mon bouledogue boit super facilement dans la feuille souple sans s'étouffer. L'eau reste bien fraîche et aucune fuite. Je ne sors plus sans!" data-translated="Honestly blown away! I was so tired of plastic bottles that leak all over my bag. My bulldog drinks so easily from the soft leaf without choking. Water stays nice and cold, zero leaks. Don't leave home without it now!">
-            "Franchement bluffée! J'en avais marre des bouteilles en plastique qui fuient partout dans le sac. Mon bouledogue boit super facilement dans la feuille souple sans s'étouffer. L'eau reste bien fraîche et aucune fuite. Je ne sors plus sans!"
+            Franchement bluffée! J'en avais marre des bouteilles en plastique qui fuient partout dans le sac. Mon bouledogue boit super facilement dans la feuille souple sans s'étouffer. L'eau reste bien fraîche et aucune fuite. Je ne sors plus sans!
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -3877,7 +3915,7 @@ iframe[style*="bottom:0;right:0"] {
             </button>
           </div>
           <div class="review-body" data-original="Helt rå flaske! Hunden min elsker den myke skålen, og vannet holder seg iskaldt selv på lange fjellturer i sola. Å slippe vannsøl i sekken er helt nydelig. Anbefales på det varmeste!" data-translated="Such an awesome bottle! My dog loves the soft bowl, and the water stays freezing cold even on long sunny mountain hikes. Zero water leaking in my backpack is pure bliss. Highly recommend!">
-            "Helt rå flaske! Hunden min elsker den myke skålen, og vannet holder seg iskaldt selv på lange fjellturer i sola. Å slippe vannsøl i sekken er helt nydelig. Anbefales på det varmeste!"
+            Helt rå flaske! Hunden min elsker den myke skålen, og vannet holder seg iskaldt selv på lange fjellturer i sola. Å slippe vannsøl i sekken er helt nydelig. Anbefales på det varmeste!
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -3908,7 +3946,7 @@ iframe[style*="bottom:0;right:0"] {
             
           </div>
           <div class="review-body" data-original="Took this on a full-day hike up in Banff right next to my camera gear. Not a single drop leaked in my bag, which was my biggest worry. Water was freezing cold the entire afternoon and my lab drank like a champ. 10/10 piece of gear." data-translated="Took this on a full-day hike up in Banff right next to my camera gear. Not a single drop leaked in my bag, which was my biggest worry. Water was freezing cold the entire afternoon and my lab drank like a champ. 10/10 piece of gear.">
-            "Took this on a full-day hike up in Banff right next to my camera gear. Not a single drop leaked in my bag, which was my biggest worry. Water was freezing cold the entire afternoon and my lab drank like a champ. 10/10 piece of gear."
+            Took this on a full-day hike up in Banff right next to my camera gear. Not a single drop leaked in my bag, which was my biggest worry. Water was freezing cold the entire afternoon and my lab drank like a champ. 10/10 piece of gear.
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -3945,7 +3983,7 @@ iframe[style*="bottom:0;right:0"] {
             </button>
           </div>
           <div class="review-body" data-original="Troppo comoda, una svolta totale! Il mio cane prima faceva storie per bere in giro, adesso appena tiro fuori la foglia corre subito a bere. Non perde una goccia e l'acqua rimane freschissima anche con 35 gradi. Bellissima!" data-translated="Total game changer, so convenient! My dog used to make a fuss about drinking outside, now as soon as I pull out the leaf he runs right over. Not a drop leaks and the water stays super fresh even in 35-degree heat. Love it!">
-            "Troppo comoda, una svolta totale! Il mio cane prima faceva storie per bere in giro, adesso appena tiro fuori la foglia corre subito a bere. Non perde una goccia e l'acqua rimane freschissima anche con 35 gradi. Bellissima!"
+            Troppo comoda, una svolta totale! Il mio cane prima faceva storie per bere in giro, adesso appena tiro fuori la foglia corre subito a bere. Non perde una goccia e l'acqua rimane freschissima anche con 35 gradi. Bellissima!
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -3982,7 +4020,7 @@ iframe[style*="bottom:0;right:0"] {
             </button>
           </div>
           <div class="review-body" data-original="Kæmpe anbefaling herfra! Min golden retriever drak af den med det samme. Den passer perfekt i cykelkurven, drypper overhovedet ikke og vandet er dejlig koldt hele dagen. Slut med besværlige plastikskåle!" data-translated="Huge recommendation! My golden retriever drank from it right away. Fits perfectly in the bike basket, doesn't drip at all, and the water stays lovely and cold all day. Done with messy plastic bowls!">
-            "Kæmpe anbefaling herfra! Min golden retriever drak af den med det samme. Den passer perfekt i cykelkurven, drypper overhovedet ikke og vandet er dejlig koldt hele dagen. Slut med besværlige plastikskåle!"
+            Kæmpe anbefaling herfra! Min golden retriever drak af den med det samme. Den passer perfekt i cykelkurven, drypper overhovedet ikke og vandet er dejlig koldt hele dagen. Slut med besværlige plastikskåle!
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -4019,7 +4057,7 @@ iframe[style*="bottom:0;right:0"] {
             </button>
           </div>
           <div class="review-body" data-original="Una pasada de botella, en serio. Mi perro Bruno es súper tiquismiquis para beber fuera de casa y con esta hoja de silicona se bebe el agua del tirón. Lo mejor es que no gotea nada en el coche ni en la mochila. De las mejores compras que he hecho." data-translated="Seriously such an awesome bottle. My dog Bruno is super picky about drinking outside, but with this soft silicone leaf he drinks it right down. Best part is it doesn't leak a single drop in the car or backpack. One of my best purchases.">
-            "Una pasada de botella, en serio. Mi perro Bruno es súper tiquismiquis para beber fuera de casa y con esta hoja de silicona se bebe el agua del tirón. Lo mejor es que no gotea nada en el coche ni en la mochila. De las mejores compras que he hecho."
+            Una pasada de botella, en serio. Mi perro Bruno es súper tiquismiquis para beber fuera de casa y con esta hoja de silicona se bebe el agua del tirón. Lo mejor es que no gotea nada en el coche ni en la mochila. De las mejores compras que he hecho.
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -4050,7 +4088,7 @@ iframe[style*="bottom:0;right:0"] {
             
           </div>
           <div class="review-body" data-original="Can't fault it at all. Tossed it in my rucksack alongside my laptop on the train up to the Lake District, completely bone dry. Our cocker spaniel took to the petal shape straight away and the water stayed properly chilled all day. Brilliant buy." data-translated="Can't fault it at all. Tossed it in my rucksack alongside my laptop on the train up to the Lake District, completely bone dry. Our cocker spaniel took to the petal shape straight away and the water stayed properly chilled all day. Brilliant buy.">
-            "Can't fault it at all. Tossed it in my rucksack alongside my laptop on the train up to the Lake District, completely bone dry. Our cocker spaniel took to the petal shape straight away and the water stayed properly chilled all day. Brilliant buy."
+            Can't fault it at all. Tossed it in my rucksack alongside my laptop on the train up to the Lake District, completely bone dry. Our cocker spaniel took to the petal shape straight away and the water stayed properly chilled all day. Brilliant buy.
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -4087,7 +4125,7 @@ iframe[style*="bottom:0;right:0"] {
             </button>
           </div>
           <div class="review-body" data-original="Echt een topding! Geen geknoei meer in de auto en mijn hond drinkt er heel fijn uit zonder te knoeien. Hij past precies in de bekerhouder en lekt echt nergens. Zou willen dat ik deze eerder had gekocht!" data-translated="Really top notch! No more mess in the car and my dog drinks from it so easily without splashing. Fits right in the cup holder and doesn't leak anywhere. Wish I bought this sooner!">
-            "Echt een topding! Geen geknoei meer in de auto en mijn hond drinkt er heel fijn uit zonder te knoeien. Hij past precies in de bekerhouder en lekt echt nergens. Zou willen dat ik deze eerder had gekocht!"
+            Echt een topding! Geen geknoei meer in de auto en mijn hond drinkt er heel fijn uit zonder te knoeien. Hij past precies in de bekerhouder en lekt echt nergens. Zou willen dat ik deze eerder had gekocht!
           </div>
           <div class="review-footer">
             <span class="helpful-label">Was this review helpful?</span>
@@ -4217,8 +4255,8 @@ iframe[style*="bottom:0;right:0"] {
     </div>
   </div>
 
-  <script src="js/reviews-data.js?v=6.0"></script>
-  <script src="js/main.js?v=6.0"></script>
+  <script src="js/reviews-data.js?v=7.0"></script>
+  <script src="js/main.js?v=7.0"></script>
 </div>
 
 <script>
@@ -4271,7 +4309,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Franchement bluffée! J'en avais marre des bouteilles en plastique qui fuient partout dans le sac. Mon bouledogue boit super facilement dans la feuille souple sans s'étouffer. L'eau reste bien fraîche et aucune fuite. Je ne sors plus sans!",
+    "body": "Franchement blufféee! J'en avais marre des bouteilles en plastique qui fuient partout dans le sac. Mon bouledogue boit super facilement dans la feuille souple sans s'étouffer. L'eau reste bien fraîche et aucune fuite. Je ne sors plus sans!",
     "translatedBody": "Honestly blown away! I was so tired of plastic bottles that leak all over my bag. My bulldog drinks so easily from the soft leaf without choking. Water stays nice and cold, zero leaks. Don't leave home without it now!"
   },
   {
@@ -4717,7 +4755,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -4789,7 +4827,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -4804,7 +4842,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Higiene total. Se lava en un momento y no coge ese olor rancio a plástico cerrado de otras botellas. Súper contento con la calidad.",
+    "body": "Higiene total. Se lava en un momento y no coge ese olor rancio a plástico cerrado de otras botellas. Súper contenta con la calidad.",
     "translatedBody": "Totally hygienic. Washes in a second and doesn't get that stale closed plastic smell other bottles have. Super happy with the quality."
   },
   {
@@ -5309,7 +5347,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -5959,7 +5997,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "¡Una pasada total! Mi perro antes no quería beber de ninguna botella de plástico y con esta hoja bebe encantado. En la mochila no pierde ni una gota. 10 de 10.",
+    "body": "¡Una pasada total! Mi perro antes no quería beber de ninguna botella de plástico y con esta hoja bebe súper a gusto. En la mochila no pierde ni una gota. 10 de 10.",
     "translatedBody": "Totally awesome! My dog used to refuse drinking from plastic bottles and with this leaf he drinks happily. Not a single drop lost in my pack. 10 out of 10."
   },
   {
@@ -6642,7 +6680,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -7234,7 +7272,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -8597,7 +8635,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ${headerActionHTML}
         </div>
         <div class="review-body" data-original="${bodyText}" data-translated="${transText}">
-          "${r.body}"
+          ${r.body}
         </div>
         <div class="review-footer">
           <span class="helpful-label">Was this review helpful?</span>
@@ -8625,11 +8663,11 @@ document.addEventListener('DOMContentLoaded', () => {
       const transText = bodyEl.getAttribute('data-translated');
 
       if (isTranslated) {
-        bodyEl.textContent = `"${transText}"`;
+        bodyEl.textContent = transText;
         translateBtn.setAttribute('title', 'Show original language');
         translateBtn.setAttribute('aria-label', 'Show original language');
       } else {
-        bodyEl.textContent = `"${origText}"`;
+        bodyEl.textContent = origText;
         translateBtn.setAttribute('title', 'Translate to English');
         translateBtn.setAttribute('aria-label', 'Translate to English');
       }

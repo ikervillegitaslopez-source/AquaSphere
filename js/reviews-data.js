@@ -47,7 +47,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Franchement bluffée! J'en avais marre des bouteilles en plastique qui fuient partout dans le sac. Mon bouledogue boit super facilement dans la feuille souple sans s'étouffer. L'eau reste bien fraîche et aucune fuite. Je ne sors plus sans!",
+    "body": "Franchement blufféee! J'en avais marre des bouteilles en plastique qui fuient partout dans le sac. Mon bouledogue boit super facilement dans la feuille souple sans s'étouffer. L'eau reste bien fraîche et aucune fuite. Je ne sors plus sans!",
     "translatedBody": "Honestly blown away! I was so tired of plastic bottles that leak all over my bag. My bulldog drinks so easily from the soft leaf without choking. Water stays nice and cold, zero leaks. Don't leave home without it now!"
   },
   {
@@ -493,7 +493,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -565,7 +565,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -580,7 +580,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Higiene total. Se lava en un momento y no coge ese olor rancio a plástico cerrado de otras botellas. Súper contento con la calidad.",
+    "body": "Higiene total. Se lava en un momento y no coge ese olor rancio a plástico cerrado de otras botellas. Súper contenta con la calidad.",
     "translatedBody": "Totally hygienic. Washes in a second and doesn't get that stale closed plastic smell other bottles have. Super happy with the quality."
   },
   {
@@ -1085,7 +1085,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -1735,7 +1735,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "¡Una pasada total! Mi perro antes no quería beber de ninguna botella de plástico y con esta hoja bebe encantado. En la mochila no pierde ni una gota. 10 de 10.",
+    "body": "¡Una pasada total! Mi perro antes no quería beber de ninguna botella de plástico y con esta hoja bebe súper a gusto. En la mochila no pierde ni una gota. 10 de 10.",
     "translatedBody": "Totally awesome! My dog used to refuse drinking from plastic bottles and with this leaf he drinks happily. Not a single drop lost in my pack. 10 out of 10."
   },
   {
@@ -2418,7 +2418,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
@@ -3010,7 +3010,7 @@ window.AQUASPHERE_REVIEWS_DATA = [
     "starsString": "★★★★★",
     "ratingValue": "5.0",
     "title": "",
-    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très contente!",
+    "body": "Tellement mieux que les gamelles encombrantes qu'on traîne d'habitude. Elle s'accroche facilement à la laisse et ne fuit jamais en voiture. Très content!",
     "translatedBody": "So much better than dragging around bulky bowls. Clips easily onto the leash and never leaks in the car. Very happy!"
   },
   {
